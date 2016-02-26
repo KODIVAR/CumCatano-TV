@@ -1,0 +1,31 @@
+version=1
+background=https://i.ytimg.com/vi/cziWRhBNp64/maxresdefault.jpg
+logo=http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
+title=[COLOR blue]DESPORTO[/COLOR]
+
+#
+type=playlist
+thumb=http://www.app-trailer.com/appicons/android/100x100/com.conduit.app_2f50ac525ee54385a68417eeb2b4ad79.app.png
+name=[COLOR green][B][I]DESPORTO[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/ms0KxCa7
+#
+type=playlist
+thumb=https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png
+name=[COLOR red][B][I]PLEXUS/P2P[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/aPjnRR1f
+#
+type=playlist
+thumb=http://zizo.entejsites.com/wp-content/uploads/2015/12/Color_20Football_20Logo_20Crop.jpg
+name=[COLOR oranged][B][I]LIVE[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/h7s6NuTT
+#
+type=playlist
+thumb=http://www.dream-box.tv/_Media/Images/ProjectBlock/Works/Logos/SportsZone/Big5.jpg
+name=[COLOR yellow][B][I]SPORTS[/I][/B][/COLOR]
+URL=https://dl.dropboxusercontent.com/s/3ezkae4jrpi2iht/sports.plx?dl=0
+#
+type=playlist
+thumb=http://www.formula1.com.sg/Images/MOTORSPORTS_LOGO4.jpg
+name=[COLOR blue][B][I]MOTORSPORTS[/I][/B][/COLOR]
+URL=https://dl.dropboxusercontent.com/s/nmvqm77fwbv34id/motorsports.plx?dl=0
+#
