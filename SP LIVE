@@ -5,19 +5,19 @@ title=[COLOR green]LIVE[/COLOR]
 
 # 
 type=video
-name=PACOS ARSENAL-FC BARCELONA (23/02/2016)
+name=BENFICA - U. MADEIRA (28/02/2016 - 17h00)
 thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
 URL=plugin://plugin.video.youtube/play/?video_id=EgsiP32susc
 #
 type=video
 name=TV 1 (PLEXUS)
 thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
-URL=plugin://program.plexus/?mode=1&url=acestream://2b75abd2543e6d1795a5440627400d4e5550d4c4&mode=1&name=acestream&mode=1&name=AV 1
+URL=plugin://program.plexus/?mode=1&url=acestream://eb704b094c20015eb5641134183f6fc69980cf29&name=ARENAVISION9
 #
 type=video
 name=TV 2 (PLEXUS)
 thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
-URL=plugin://program.plexus/?mode=1&url=acestream://4779001d883917b72e1e9a0614bc23e159a0b01a&mode=1&name=acestream&mode=1&name=AV 2
+URL=plugin://program.plexus/?mode=1&url=acestream://3a0339c143dacdb8985acaa699c41faa806d2446&name=ARENAVISION10
 #
 type=video
 name=TV 3 (P2P)
