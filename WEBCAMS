@@ -1,0 +1,16 @@
+version=1
+background=http://www.deltaradio.net/images/webcam.jpg
+logo=http://www.baboo.com.br/wp-content/uploads/2014/01/20-paises-com-melhor-internet-do-mundo.jpg
+title=[COLOR blue]WEBCAMS[/COLOR]
+ 
+#
+type=playlist
+thumb=http://s3.observador.pt/wp-content/uploads/2015/07/porto_covo_-_praia_grande_770x433_acf_cropped1.jpg
+name=[COLOR blue][B][I]PRAIAS[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/tHRTsUd3
+#
+type=playlist
+thumb=http://www.toptenz.net/wp-content/uploads/2015/05/stayonearth10.jpg
+name=[COLOR blue][B][I]MUNDO[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/aSPFkiwS
+#
