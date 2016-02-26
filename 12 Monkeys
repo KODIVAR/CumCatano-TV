@@ -1,0 +1,71 @@
+#version=1
+background=http://cdn.playbuzz.com/cdn/ce10bd43-da35-4115-a093-17df5ad95648/04568e97-2181-490f-8c83-c87a79c48643.jpg
+logo=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+title=[COLOR red]12 Monkeys[/COLOR]
+ 
+#
+type=video
+name=12 Monkeys - Pilot - 1x01
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=04560846aab726a2
+#
+type=video
+name=12 Monkeys - Mentally Divergent - 1x02
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=13536e81430ca426
+#
+type=video
+name=12 Monkeys - Cassandra Complex - 1x03
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=e4b289f0240b0a03
+#
+type=video
+name=12 Monkeys - Atari - 1x04
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=1f0878f961142eaa
+#
+type=video
+name=12 Monkeys - The Night Room - 1x05
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=78d5d4ac68190c40
+#
+type=video
+name=12 Monkeys - The Red Forest - 1x06
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=9a5755c0c89cb547
+#
+type=video
+name=12 Monkeys - The Keys - 1x07
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=3cd644e2e67c84b2
+#
+type=video
+name=12 Monkeys - Yesterday - 1x08
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=26c0ba6234b6c927
+#
+type=video
+name=12 Monkeys - Tomorrow - 1x09
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=1ca23d9a2883da3e
+#
+type=video
+name=12 Monkeys - Divine Move - 1x10
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=e13c27e218aefb22
+#
+type=video
+name=12 Monkeys - Shonin - 1x11
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=20be90f9533a92f8
+#
+type=video
+name=12 Monkeys - Paradox - 1x12
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=0796e333c8508f9d
+#
+type=video
+name=12 Monkeys - Arms of Mine - Season Finale - 1x13
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+URL=https://www.blogger.com/video-play.mp4?contentId=0796e333c8508f9d
+#
