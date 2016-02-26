@@ -83,102 +83,103 @@ URL=
 type=video
 name=ArenaVision 1 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://2b75abd2543e6d1795a5440627400d4e5550d4c4&name=ARENAVISION1
+URL=plugin://program.plexus/?mode=1&url=acestream://f9d1d7d0849e9a574336dabd508282d4193011a9&mode=1&name=acestream&mode=1&name=AV 1
 #
 type=video
 name=ArenaVision 2 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://4779001d883917b72e1e9a0614bc23e159a0b01a&name=ARENAVISION2
+URL=plugin://program.plexus/?mode=1&url=acestream://4779001d883917b72e1e9a0614bc23e159a0b01a&mode=1&name=acestream&mode=1&name=AV 2
 #
 type=video
 name=ArenaVision 3 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://07ecdbd6b325d8a99bc70d132c5a7713a969a8e2d&name=ARENAVISION3
+URL=plugin://program.plexus/?mode=1&url=acestream://07ecdbd6b325d8a99bc70d132c5a7713a969a8e2&mode=1&name=acestream&mode=1&name=AV 3
 #
 type=video
 name=ArenaVision 4 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://a3129a2d6cde0d459b0fdf83018e560c0bd580b2&name=ARENAVISION4
+URL=plugin://program.plexus/?mode=1&url=acestream://a3129a2d6cde0d459b0fdf83018e560c0bd580b2&mode=1&name=acestream&mode=1&name=AV 4
 #
 type=video
 name=ArenaVision 5 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://1f766a925794576da5091e3c78fa20b545ae2725&name=ARENAVISION5
+URL=plugin://program.plexus/?mode=1&url=acestream://1f766a925794576da5091e3c78fa20b545ae2725&mode=1&name=acestream&mode=1&name=AV 5
 #
 type=video
 name=ArenaVision 6 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://141aa1564dd659c0fd0ce7f4a73a75ec492605f4&name=ARENAVISION6
+URL=plugin://program.plexus/?mode=1&url=acestream://141aa1564dd659c0fd0ce7f4a73a75ec492605f4&mode=1&name=acestream&mode=1&name=AV 6
 #
 type=video
 name=ArenaVision 7 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://5bca4c52fc8c133c0713ed76a3285a57a3a58dd0&name=ARENAVISION7
+URL=plugin://program.plexus/?mode=1&url=acestream://5bca4c52fc8c133c0713ed76a3285a57a3a58dd0&mode=1&name=acestream&mode=1&name=AV 7
 #
 type=video
 name=ArenaVision 8 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://f579ebfc36c4f3b3ebd27bddbf215b44ae56b030&name=ARENAVISION8
+URL=plugin://program.plexus/?mode=1&url=acestream://f579ebfc36c4f3b3ebd27bddbf215b44ae56b030&mode=1&name=acestream&mode=1&name=AV 8
 #
 type=video
 name=ArenaVision 9 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://eb704b094c20015eb5641134183f6fc69980cf29&name=ARENAVISION9
+URL=plugin://program.plexus/?mode=1&url=acestream://4cb2fb637e9bd94f5fd1cffddb4dad524e2bd601&mode=1&name=acestream&mode=1&name=AV 9
 #
 type=video
 name=ArenaVision 10 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://3a0339c143dacdb8985acaa699c41faa806d2446&name=ARENAVISION10
+URL=plugin://program.plexus/?mode=1&url=acestream://167296a975b849736e9ebc9abd7f60d77f3be873&mode=1&name=acestream&mode=1&name=AV 10
 #
 type=video
 name=ArenaVision 11 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://6af6dae8a062ce9cf43567f6bdfd53656e7725d2&name=ARENAVISION11
+URL=plugin://program.plexus/?mode=1&url=acestream://6af6dae8a062ce9cf43567f6bdfd53656e7725d2&mode=1&name=acestream&mode=1&name=AV 11
 #
 type=video
 name=ArenaVision 12 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://4cb8bd6810dae6bf9e744f3f337a5880d73fcba3&name=ARENAVISION12
+URL=plugin://program.plexus/?mode=1&url=acestream://4cb8bd6810dae6bf9e744f3f337a5880d73fcba3&mode=1&name=acestream&mode=1&name=AV 12
 #
 type=video
 name=ArenaVision 13 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://0b134b8d74381783fb70f9a18db575d647ed497c&name=ARENAVISION13
+URL=
+plugin://program.plexus/?mode=1&url=acestream://0b134b8d74381783fb70f9a18db575d647ed497c&mode=1&name=acestream&mode=1&name=AV 13
 #
 type=video
 name=ArenaVision 14 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://847d04e8dcbc5a54999fcb0d6e2eb75dca756239&name=ARENAVISION14
+URL=plugin://program.plexus/?mode=1&url=acestream://476a11a827404fec08de3295f5a3ce950437e8eb&mode=1&name=acestream&mode=1&name=AV 14
 #
 type=video
 name=ArenaVision 15 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://47f86954bc03a9d1e17638ecb0391ef62d76b078&name=ARENAVISION15
+URL=plugin://program.plexus/?mode=1&url=acestream://47f86954bc03a9d1e17638ecb0391ef62d76b078&mode=1&name=acestream&mode=1&name=AV 15
 #
 type=video
 name=ArenaVision 16 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://25217dd411de7e247989552e9ba41499ed96fc05&name=ARENAVISION16
+URL=plugin://program.plexus/?mode=1&url=acestream://25217dd411de7e247989552e9ba41499ed96fc05&mode=1&name=acestream&mode=1&name=AV 16
 #
 type=video
 name=ArenaVision 17 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://41ccd9e0318452a42f1c97f139f80e0de7c57d8a&name=ARENAVISION17
+URL=plugin://program.plexus/?mode=1&url=acestream://41ccd9e0318452a42f1c97f139f80e0de7c57d8a&mode=1&name=acestream&mode=1&name=AV 17
 #
 type=video
 name=ArenaVision 18 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://e559236ce91321651f10fc3767e1da37200efb89&name=ARENAVISION18
+URL=plugin://program.plexus/?mode=1&url=acestream://e559236ce91321651f10fc3767e1da37200efb89&mode=1&name=acestream&mode=1&name=AV 18
 #
 type=video
 name=ArenaVision 19 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://b2825d1f94b08f246051365a75ad3b9198832705&name=ARENAVISION19
+URL=plugin://program.plexus/?mode=1&url=acestream://84d4450c170d4168c43b1ad82b73f38538e84b2a&mode=1&name=acestream&mode=1&name=AV 19
 #
 type=video
 name=ArenaVision 20 (PLEXUS)
 thumb=http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://719565f991bcd94e288999bebd1512f28b788bb7&name=ARENAVISION20
+URL=plugin://program.plexus/?mode=1&url=acestream://12e0267619c79924f8df167464f7a18a2da27bdf&mode=1&name=acestream&mode=1&name=AV 20
 #
 type=video
 name=Arena Sport 1 (PLEXUS)
