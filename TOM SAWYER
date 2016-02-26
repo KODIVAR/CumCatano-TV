@@ -1,0 +1,252 @@
+#version=1
+background=http://photos1.blogger.com/blogger/6065/709/1600/tous1.jpg
+logo=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+title=[COLOR red]Tom Sawyer[/COLOR]
+ 
+ 
+#
+type=video
+name=Tom Sawyer - Ep01 O meu amigo Huck
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=lgKOBWz-MrA
+#
+type=video
+name=Tom Sawyer - Ep02 Um castigo divertido
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=An3ONSvh9ZM
+#
+type=video
+name=Tom Sawyer - Ep03 Amor à primeira vista
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=v50jQ4FZflQ
+#
+type=video
+name=Tom Sawyer - Ep04 O feitiço
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=ZL2XsIGKQI4
+#
+type=video
+name=Tom Sawyer - Ep05 A Becky não se lembra de mim
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=CzHq5snlvAU
+#
+type=video
+name=Tom Sawyer - Ep06 Huck, o arquitecto
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=F1gpuhuZG8Q
+#
+type=video
+name=Tom Sawyer - Ep07 O rival
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=1cpjshOR6bU
+#
+type=video
+name=Tom Sawyer - Ep08 A todo o vapor
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=oNNbNFcBS9s
+#
+type=video
+name=Tom Sawyer - Ep09 A tia Polly está doente
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=MxeBadnb7c4
+#
+type=video
+name=Tom Sawyer - Ep10 Joe, o Índio
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=0KXmXvI_jK0
+#
+type=video
+name=Tom Sawyer - Ep11 Em busca do tesouro
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=oaZzAVpx6l0
+#
+type=video
+name=Tom Sawyer - Ep12 A Becky fica triste
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL= plugin://plugin.video.youtube/play/?video_id=MSRDb4oTxz4
+#
+type=video
+name=Tom Sawyer - Ep13 Eu e os piratas
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=WBMvRktrWPM
+#
+type=video
+name=Tom Sawyer - Ep14 Os piratas não vão à escola
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=Eoh0czeUO3E
+#
+type=video
+name=Tom Sawyer - Ep15 Pobre Tia Polly
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=X0tUqFM379g
+#
+type=video
+name=Tom Sawyer - Ep16 O funeral
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=_-qogbLnfTU
+#
+type=video
+name=Tom Sawyer - Ep17 De regresso à escola
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=UZqrgolDaqY
+#
+type=video
+name=Tom Sawyer - Ep18 Fazer as pazes não é fácil
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=6o6ehemAl9I
+#
+type=video
+name=Tom Sawyer - Ep19 Corrida de rãs
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=U7aRkx0rFBY
+#
+type=video
+name=Tom Sawyer - Ep20 O Sr. Dobbins tem um segredo
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.vimeo/play/?video_id=147173504
+#
+type=video
+name=Tom Sawyer - Ep21 As férias de verão
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=fPvrgfH_Bu0
+#
+type=video
+name=Tom Sawyer - Ep22 O medicamento do Dr  Herman
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=lgbWrTxhjbM
+#
+type=video
+name=Tom Sawyer - Ep23 À pesca do peixe gato
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=dCwrGJhJhWs
+#
+type=video
+name=Tom Sawyer - Ep24 Huck usa gravata
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=Pfd8MvDT9Hk
+#
+type=video
+name=Tom Sawyer - Ep25 Um rapaz obstinado
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=_mNEWfok9tg
+#
+type=video
+name=Tom Sawyer - Ep26 Risetta, a pequena actriz
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=eNavuSi4jI4
+#
+type=video
+name=Tom Sawyer - Ep27 Antes da peça começar
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=mbIGXeRroT4
+#
+type=video
+name=Tom Sawyer - Ep28 Ajudem a Risetta
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=qtEZBKCLARM&feature=youtu.be
+#
+type=video
+name=Tom Sawyer - Ep29 Adeus Risetta 
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=SazgR0S7QzA
+#
+type=video
+name=Tom Sawyer - Ep30 O pai de Huck
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=tj-KN4uleHg
+#
+type=video
+name=Tom Sawyer - Ep31 Conta outra vez 
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=SuwVMIYkAXA
+#
+type=video
+name=Tom Sawyer - Ep32 Encontrei ouro
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=jQP6LRdijd0
+#
+type=video
+name=Tom Sawyer - Ep33 A caminho da liberdade
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=ocj5SBpu8tk
+#
+type=video
+name=Tom Sawyer - Ep34 O homem que veio do céu
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=TZKxsKIS17M
+#
+type=video
+name=Tom Sawyer - Ep35 Quero voar no céu
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=5uv8nz7Hut8
+#
+type=video
+name=Tom Sawyer - Ep36 Vamos arranjar o balão
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=OmvC3g87PHM
+#
+type=video
+name=Tom Sawyer - Ep37 Vista do céu
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=HZJr8u3eg_k
+#
+type=video
+name=Tom Sawyer - Ep38 Um terrível acidente
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=kHtu7wIauqQ
+#
+type=video
+name=Tom Sawyer - Ep39 O peso da consciência
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=7UEzX-6WzT0
+#
+type=video
+name=Tom Sawyer - Ep40 O julgamento de Muff Porter
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=TUjELdNzjK4
+#
+type=video
+name=Tom Sawyer - Ep41 Onde está Joe, o Índio
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=5y22A6K08U8
+#
+type=video
+name=Tom Sawyer - Ep42 Uma agradável viagem de barco
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=AEtVVNu7uIY
+#
+type=video
+name=Tom Sawyer - Ep43 Vi um cavalo branco
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=M3ngQ3r4G2A
+#
+type=video
+name=Tom Sawyer - Ep44 Apanhar o Relâmpago
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=BM2RyGj1J-o
+#
+type=video
+name=Tom Sawyer - Ep45 Adeus cavalo branco
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=8KjH4ULHq0w
+#
+type=video
+name=Tom Sawyer - Ep46 Na casa assombrada
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=DIeZu0ypzHw
+#
+type=video
+name=Tom Sawyer - Ep47 A gruta do McDougal
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=lViziH3u3mg
+#
+type=video
+name=Tom Sawyer - Ep48 A morte de Joe, o Índio
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=YHQwr2duks8
+#
+type=video
+name=Tom Sawyer - Ep49 O triste final
+thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=U8VQ-3rA0ek
+#
