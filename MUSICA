@@ -1,0 +1,16 @@
+version=1
+background=http://blog.wikitesti.com/wp-content/uploads/2014/12/concerto.jpg
+logo=http://musicpiya.com/wp-content/uploads/2015/02/Free-Music-Wallpapers-HD-for-PC-13.jpg
+title=[COLOR blue]MUSICA[/COLOR]
+ 
+#
+type=playlist
+thumb=http://musicpiya.com/wp-content/uploads/2015/02/Free-Music-Wallpapers-HD-for-PC-13.jpg
+name=[COLOR yellow][B][I]CANAIS[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/G0B8ivQx
+#
+type=playlist
+thumb=http://c5.quickcachr.fotos.sapo.pt/i/o74016512/16590907_9e4kZ.jpeg
+name=[COLOR yellow][B][I]CONCERTOS[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/td4grq6e
+#
