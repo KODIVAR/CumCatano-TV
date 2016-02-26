@@ -1,0 +1,101 @@
+#version=1
+background=https://s-media-cache-ak0.pinimg.com/736x/87/c8/e3/87c8e331b2b6ed58bcb90a5a04b1d818.jpg
+logo=http://4.bp.blogspot.com/_NptHNW6lW4Q/TUcAn74sccI/AAAAAAAAAIU/D_Jkvb_uZkY/s1600/163709772_b97119c3ed.jpg
+title=[COLOR red]CANAIS[/COLOR]
+ 
+#
+type=video
+name=SIC KIDS
+thumb=https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png
+URL=http://aziptv.mine.nu:8000/live/bento/bento/112.m3u8
+#
+type=video
+name=CANAL PANDA
+thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
+URL=http://aziptv.mine.nu:8000/live/bento/bento/62.m3u8
+#
+type=video
+name=DISNEY CHANNEL
+thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmPY_3hjMPKGnFxqj57SavHJwzToW1zp7mRM9GL_g-soKJgGQ4
+URL=http://aziptv.mine.nu:8000/live/bento/bento/63.m3u8
+#
+type=video
+name=DISNEY JUNIOR
+thumb=http://vignette1.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20150813204736
+URL= http://aziptv.mine.nu:8000/live/bento/bento/5.m3u8
+#
+type=video
+name=Cartoon Network
+thumb=http://vignette3.wikia.nocookie.net/marvel_dc/images/8/8d/Cartoon_Network_logo.JPG/revision/latest?cb=20130504100830
+URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
+#
+type=video
+name=Nickelodeon
+thumb=http://vignette3.wikia.nocookie.net/logopedia/images/c/c9/Nickelodeon_Old_Logo.png/revision/latest?cb=20150718113424
+URL=http://aziptv.mine.nu:8000/live/bento/bento/8.m3u8
+#
+type=video
+name=Panda Biggs
+thumb=https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png
+URL=http://aziptv.mine.nu:8000/live/bento/bento/45.m3u8
+#
+type=video
+name=JIM JAM
+thumb=http://vignette3.wikia.nocookie.net/logopedia/images/0/0f/Logo-jimjam.jpg/revision/latest?cb=20121223104704
+URL=http://aziptv.mine.nu:8000/live/bento/bento/61.m3u8
+#
+type=video
+name=Baby Tv
+thumb=https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png
+URL=http://aziptv.mine.nu:8000/live/bento/bento/72.m3u8
+#
+type=video
+name=Baby First
+thumb=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWBX2UJKupwzr-u3dPj5SBD9k6EGWsECyipjHc_krf8gUHzp1y
+URL=http://aziptv.mine.nu:8000/live/bento/bento/342.m3u8
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
