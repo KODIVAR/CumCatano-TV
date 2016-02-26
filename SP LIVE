@@ -1,0 +1,51 @@
+version=1
+background=http://zizo.entejsites.com/wp-content/uploads/2015/12/Color_20Football_20Logo_20Crop.jpg
+logo=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+title=[COLOR green]LIVE[/COLOR]
+
+# 
+type=video
+name=PACOS ARSENAL-FC BARCELONA (23/02/2016)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=plugin://plugin.video.youtube/play/?video_id=EgsiP32susc
+#
+type=video
+name=TV 1 (PLEXUS)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=plugin://program.plexus/?mode=1&url=acestream://2b75abd2543e6d1795a5440627400d4e5550d4c4&mode=1&name=acestream&mode=1&name=AV 1
+#
+type=video
+name=TV 2 (PLEXUS)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=plugin://program.plexus/?mode=1&url=acestream://4779001d883917b72e1e9a0614bc23e159a0b01a&mode=1&name=acestream&mode=1&name=AV 2
+#
+type=video
+name=TV 3 (P2P)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=
+#
+type=video
+name=TV 4 (P2P)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=
+#
+type=video
+name=TV 5 (PLEXUS)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=
+#
+type=video
+name=TV 6 (PLEXUS)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=
+#
+type=video
+name=TV 7 (PLEXUS)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=
+#
+type=video
+name=TV 8 (PLEXUS)
+thumb=http://www.stream-football-live.com/omega/images/site/logo.tv.png
+URL=
+#
