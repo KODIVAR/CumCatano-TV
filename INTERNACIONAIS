@@ -1,0 +1,26 @@
+version=1
+background=https://az598155.vo.msecnd.net/wp-uploads/2015/05/tv-shows-montage.jpg
+logo=http://globpt.com/wp-content/uploads/2009/01/novo-canal-de-televisao.jpg
+title=[COLOR blue]SERIES[/COLOR]
+
+#
+type=playlist
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDUxMjY1M15BMl5BanBnXkFtZTgwMzM0MTE5NTE@._V1_UX182_CR0,0,182,268_AL_.jpg
+name=[COLOR blue][B][I]12 Monkeys[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/YdWpVr6d
+#
+type=playlist
+thumb=http://compartilhando.net/wp-content/uploads/2015/02/666_ParkAve_624x351.jpg
+name=[COLOR blue][B][I]666 Park Avenue[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/iLedRL9V
+#
+type=playlist
+thumb=http://goo.gl/zHH1Tw
+name=[COLOR blue][B][I]Ash vs Evil Dead[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/XRLKPrQt
+#
+type=playlist
+thumb=https://goo.gl/d31qcL
+name=[COLOR blue][B][I]Aquarius[/I][/B][/COLOR]
+URL=http://pastebin.com/raw/VkZXhqVq
+#
