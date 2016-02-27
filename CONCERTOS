@@ -30,9 +30,9 @@ thumb=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nwOsiMJtMCXOC0MQUa
 URL=plugin://plugin.video.youtube/play/?video_id=oOpia8OTzzE
 #
 type=video
-name=
-thumb=
-URL=plugin://plugin.video.youtube/play/?video_id=
+name=Pink Floyd - Liverpool (2011)
+thumb=http://musica.culturamix.com/blog/wp-content/gallery/fim-do-pink-floyd-banda-de-rock-britanica-3/Fim-do-Pink-Floyd-6.jpg
+URL=plugin://plugin.video.youtube/play/?video_id=qYbm096uzEc
 #
 type=video
 name=
