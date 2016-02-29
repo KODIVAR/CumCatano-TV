@@ -387,6 +387,26 @@ thumb=http://keepitalive5k.com/wp-content/uploads/2014/04/sportsmax-logo.png
 URL=http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 #
 type=video
+name=NBC SPORTS GOLF (USA)
+thumb=http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png
+URL=http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
 name=
 thumb=
 URL=
