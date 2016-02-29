@@ -10,6 +10,11 @@ thumb=http://redhot-fancydress.co.uk/store/images/uploads/Tom%20&%20Jerry%20Logo
 URL=rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1 
 #
 type=video
+name=CARTOON CLASSICS 24/7
+thumb=http://4.bp.blogspot.com/-FOBnyTpayfI/VN-hHMTEy8I/AAAAAAAADaw/yBJSZUq76YY/s1600/cartoon-network.jpg
+URL=mms://72.13.93.186/cartoonclassics
+#
+type=video
 name=South Park
 thumb=http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg
 URL=http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
