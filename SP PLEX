@@ -58,7 +58,7 @@ URL=
 type=video
 name=BENFICA TV 1 (PLEXUS)
 thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
-URL=plugin://program.plexus/?url=http://content.asplaylist.net/YUFITjlyYkRqcDNubmxVZHFkWXA0TFB4cnBYTWVib3NLdjZHWlNmL0I1TVhIMGorTTc2NUZZMjhSS3dFMzAycTVTUTJzamdpNi93dnI0YTMxRndmK0E9PQ/13490.acelive&amp;mode=1&amp;name=benfica
+URL=
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
