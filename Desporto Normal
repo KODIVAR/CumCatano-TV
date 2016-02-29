@@ -8,7 +8,7 @@ title=[COLOR green]DESPORTO[/COLOR]
 type=video
 name=TESTE
 thumb=https://www.kitchenz.de/media/image/ee/3a/a7/test.jpg
-URL=rtmp://88.86.125.177:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+URL=
 
 #
 type=video
@@ -19,7 +19,7 @@ URL=rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf tim
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to
+URL=
 #
 type=video
 name=SPORT TV 1
@@ -114,7 +114,7 @@ URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/ma
 type=video
 name=BENFICA TV 1
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
+URL=##http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #
 type=video
 name=BENFICA TV 1
