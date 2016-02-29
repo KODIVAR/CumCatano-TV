@@ -113,47 +113,47 @@ URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/ma
 #
 type=video
 name=BENFICA TV 1
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=##http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #
 type=video
 name=BENFICA TV 1
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=http://bit.do/bPcH7
 #
 type=video
 name=BENFICA TV 1 
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8 
 #
 type=video
 name=BENFICA TV 1
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=
 #
 type=video
 name=BENFICA TV 1 (SPORTSDEVIL)
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b6%2bBTV1%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F6%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F6%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
 name=BENFICA TV 2
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+thumb=http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv2_logo_img.png
 URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 #
 type=video
 name=BENFICA TV 2
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+thumb=http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv2_logo_img.png
 URL=http://bit.do/bPcH8
 #
 type=video
 name=BENFICA TV  2
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+thumb=http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv2_logo_img.png
 URL=
 #
 type=video
 name=BENFICA TV  2 (SPORTSDEVIL)
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+thumb=http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv2_logo_img.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b7%2b-%2bBTV2%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F7%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F7%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
@@ -292,24 +292,24 @@ thumb=https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png
 URL=
 #
 type=video
-name=DIGI SPORT 1
+name=DIGI SPORT 1 (HUN)
 thumb=http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png
-URL=
+URL=http://85.25.43.23:8080/hls/volex_02.m3u8
 #
 type=video
-name=DIGI SPORT 2
+name=DIGI SPORT 2 (HUN)
 thumb=http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png
-URL=
+URL=http://85.25.43.23:8080/hls/volex_03.m3u8
 #
 type=video
-name=DIGI SPORT 3
+name=DIGI SPORT 3 (HUN)
 thumb=http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png
-URL=
+URL=http://85.25.43.23:8080/hls/volex_04.m3u8
 #
 type=video
-name=DIGI SPORT 4
+name=DIGI SPORT 4 (HUN)
 thumb=http://mediav1.rtv.net/image/201507/w620/digi_sport_cz_05641200.png
-URL=
+URL=http://bit.ly/1VWA8Ra
 #
 type=video
 name=
