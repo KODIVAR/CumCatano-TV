@@ -8,7 +8,7 @@ title=[COLOR green]DESPORTO[/COLOR]
 type=video
 name=TESTE
 thumb=https://www.kitchenz.de/media/image/ee/3a/a7/test.jpg
-URL=http://213.163.65.116:8081/live/espnbr/chunks.m3u8
+URL=
 
 #
 type=video
@@ -235,6 +235,11 @@ type=video
 name=SPORTTV 3 (BR)
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png
 URL=http://185.109.161.15:8081/loadbalance/slv3/chunks.m3u8
+#
+type=video
+name=ESPN (BR)
+thumb=http://3.bp.blogspot.com/--LcqiRmEpxE/ViqBFR9PLxI/AAAAAAAAls8/qryShc8CGvk/s1600/i.png
+URL=http://213.163.65.116:8081/live/espnbr/chunks.m3u8
 #
 type=video
 name=Arena Sport 1
