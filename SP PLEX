@@ -57,17 +57,17 @@ URL=
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=plugin://program.plexus/?mode=1&url=acestream://5e6aaac0404893cc6d85145bb988f93052d55086&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 #
 type=video
 name=BENFICA TV 2 (PLEXUS)
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+thumb=http://portalnacional.com.pt/images/icons/tv/SLB2.png
 URL=plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #
 type=video
