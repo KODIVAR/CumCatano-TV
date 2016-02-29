@@ -55,9 +55,9 @@ thumb=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWBX2UJKupwzr-u3dPj5
 URL=http://aziptv.mine.nu:8000/live/bento/bento/342.m3u8
 #
 type=video
-name=
-thumb=
-URL=
+name=ZOOMOO
+thumb=http://static1.squarespace.com/static/53bb21cee4b0239883a25f2c/t/53c56cd0e4b0b36b2be65d98/1456254018395/?format=1000w
+URL=http://wowza1.videos.movile.com:1935/live/infantil_1.smil/livestream.m3u8
 #
 type=video
 name=
