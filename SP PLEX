@@ -362,9 +362,9 @@ thumb=http://orig12.deviantart.net/df1e/f/2014/018/f/b/tuga_thugs_fight_club_by_
 URL=plugin://program.plexus/?mode=1&url=acestream://f5ee6d8181c138f4e487dadef26cd4e7ebdbb63a&name=FIGHT CLUB
 #
 type=video
-name= (PLEXUS)
-thumb=
-URL=
+name=Viasat Golf (PLEXUS)
+thumb=http://vignette4.wikia.nocookie.net/logopedia/images/6/6b/Viasat_Golf_2008.png/revision/latest?cb=20100523130740
+URL=plugin://program.plexus/?mode=1&url=acestream://02ae9c43ec33c33ad239a094923b9a14681c207c&name=Viasat Golf
 #
 type=video
 name= (PLEXUS)
