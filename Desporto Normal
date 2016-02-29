@@ -8,7 +8,7 @@ title=[COLOR green]DESPORTO[/COLOR]
 type=video
 name=TESTE
 thumb=https://www.kitchenz.de/media/image/ee/3a/a7/test.jpg
-URL=
+URL=http://213.163.65.116:8081/live/espnbr/chunks.m3u8
 
 #
 type=video
@@ -124,7 +124,7 @@ URL=http://bit.do/bPcH7
 type=video
 name=BENFICA TV 1 
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=
+URL=http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8 
 #
 type=video
 name=BENFICA TV 1
