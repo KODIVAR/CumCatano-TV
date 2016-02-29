@@ -8,7 +8,7 @@ title=[COLOR green]DESPORTO[/COLOR]
 type=video
 name=TESTE
 thumb=https://www.kitchenz.de/media/image/ee/3a/a7/test.jpg
-URL=http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+URL=rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
 
 #
 type=video
