@@ -3,6 +3,26 @@ background=http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2
 logo=http://3.bp.blogspot.com/-D9OXn5gAcJs/TXIZ6YSZlAI/AAAAAAAAAiU/cMG17fZidJU/s1600/Liga%2Bdos%2BUltimos.bmp
 title=[COLOR green]LIGA DOS ÚLTIMOS[/COLOR]
 
+#
+type=video
+name=Liga dos Últimos  - Episódio 1
+thumb=http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2ptt8/s1600/LIGA_D%257E1.JPG
+URL=plugin://plugin.video.youtube/play/?video_id=jLYOnWlyt_Y
+#
+type=video
+name=Liga dos Últimos  - Episódio 2
+thumb=http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2ptt8/s1600/LIGA_D%257E1.JPG
+URL=plugin://plugin.video.youtube/play/?video_id=BMBtIU2wm-k
+#
+type=video
+name=Liga dos Últimos  - Episódio 3
+thumb=http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2ptt8/s1600/LIGA_D%257E1.JPG
+URL=plugin://plugin.video.youtube/play/?video_id=Pw_MGbRiElE
+#
+type=video
+name=Liga dos Últimos  - Episódio 4
+thumb=http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2ptt8/s1600/LIGA_D%257E1.JPG
+URL=plugin://plugin.video.youtube/play/?video_id=WjFYW8H5yB0
 
 #
 type=video
