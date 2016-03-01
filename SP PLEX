@@ -209,7 +209,7 @@ URL=plugin://program.plexus/?mode=1&url=acestream://5f90220cfbbf558ffdf9a5e4187a
 type=video
 name=EXTREME SPORTS (PLEXUS)
 thumb=https://goo.gl/2Jr2x1
-URL=plugin://program.plexus/?mode=1&url=acestream://7c34839b5079a058fad6962447e77166374592a5&name=EXTREME SPORTS
+URL=plugin://program.plexus/?mode=1&url=acestream://f8c006b5c82878752f695a7112c03ce8c82b66ba&name=EXTREME SPORTS
 #
 type=video
 name=BT SPORT 2 (PLEXUS)
@@ -219,7 +219,7 @@ URL=plugin://program.plexus/?mode=1&url=acestream://ccfa7549f7837e3e2c7cb646562e
 type=video
 name=BT SPORT EUROPE (PLEXUS)
 thumb=https://goo.gl/BRWtpk
-URL=plugin://program.plexus/?mode=1&url=://21aadb7f7a3c09ffd1d8f636f3154b7092045380&mode=1&name=acestream&mode=1&name=Desporto
+URL=plugin://program.plexus/?mode=1&url=acestream://21aadb7f7a3c09ffd1d8f636f3154b7092045380&name=BT SPORT EUROPE
 #
 type=video
 name=Digi Sport 1 (PLEXUS)
