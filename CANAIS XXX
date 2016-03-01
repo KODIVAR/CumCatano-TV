@@ -42,7 +42,7 @@ URL=http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlis
 type=video
 name=HUSTLER HD
 thumb=http://www.sat-address.com/f/pics/logotipi/Hustler-TV-Europe_o.jpg
-URL=
+URL=http://89.143.89.234:4321/udp/232.2.6.10:5002
 #
 type=video
 name=HUSTLER
@@ -112,7 +112,7 @@ URL=
 type=video
 name=DORCEL HD
 thumb=http://vignette3.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest?cb=20140712185330
-URL=
+URL=http://89.143.89.234:4321/udp/232.4.4.15:5002
 #
 type=video
 name=EROTIC
