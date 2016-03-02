@@ -12,7 +12,7 @@ URL=plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd88
 type=video
 name=SPORT TV 1 (P2P)
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
+URL=plugin://program.plexus/?mode=1&url=acestream://e6047d5c7c8b646aeb9b6a1d731341d4e50ec3a4&mode=1&name=acestream&mode=1&name=SPORT TV1
 #
 type=video
 name=SPORT TV 2 (PLEXUS)
