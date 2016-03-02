@@ -3,7 +3,6 @@ background=https://i.ytimg.com/vi/cziWRhBNp64/maxresdefault.jpg
 logo=http://www.ndu.net.br/img_noticias/21/capa.jpg
 title=[COLOR green]PLEXUS[/COLOR]
 
-
 #
 type=video
 name=SPORT TV 1 (PLEXUS)
@@ -64,6 +63,11 @@ type=video
 name=BENFICA TV 1 (PLEXUS)
 thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
 URL=plugin://program.plexus/?mode=1&url=acestream://5e6aaac0404893cc6d85145bb988f93052d55086&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#
+type=video
+name=BENFICA TV 1 (PLEXUS)
+thumb=https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png
+URL=plugin://program.plexus/?mode=1&url=acestream://3538042108e724937da77ad1a3987d99fbfbc728&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 #
 type=video
 name=BENFICA TV 2 (PLEXUS)
@@ -364,7 +368,7 @@ URL=plugin://program.plexus/?mode=1&url=acestream://f5ee6d8181c138f4e487dadef26c
 type=video
 name=Viasat Golf (PLEXUS)
 thumb=http://vignette4.wikia.nocookie.net/logopedia/images/6/6b/Viasat_Golf_2008.png/revision/latest?cb=20100523130740
-URL=plugin://program.plexus/?mode=1&url=acestream://02ae9c43ec33c33ad239a094923b9a14681c207c&name=Viasat Golf
+URL=plugin://program.plexus/?mode=1&url=acestream://67bf61c9b58bdafa8863702b69be38257a94e668c&name=Viasat Golf
 #
 type=video
 name= (PLEXUS)
