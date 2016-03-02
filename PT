@@ -6,7 +6,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TESTE
 thumb=http://seeklogo.com/images/T/Teste-logo-55806F6B15-seeklogo.com.gif
-URL=
+URL=http://$doregex[get-ip]/live/portocanalxx?id/playlist.m3u8
 #
 type=video
 name=RTP 1 HD
