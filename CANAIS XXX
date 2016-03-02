@@ -420,9 +420,9 @@ thumb=http://www.mirant.kiev.ua/_sf/4/473.jpg
 URL=plugin://program.plexus/?mode=1&url=acestream://afe21d30b9be601e4393752af95b6c9143c0c7f9&mode=1&name=acestream+
 #
 type=video
-name=
-thumb=
-URL=
+name=Platinum TV (PLEXUS)
+thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAFk8_TsPrdx44SMrKM1hdXC3v0fbvG5cm_xAG6sXXJ7JgsKcN
+URL=plugin://program.plexus/?mode=1&url=acestream: // bf8ad0f1e052218f637119e76c9c5eb59fcec332&mode=1&name=Platinum TV
 #
 type=video
 name=
