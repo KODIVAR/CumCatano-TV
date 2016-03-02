@@ -6,7 +6,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TESTE
 thumb=http://seeklogo.com/images/T/Teste-logo-55806F6B15-seeklogo.com.gif
-URL=
+URL=rtmp://84.22.97.238:1935/bein1/ playpath=bein1?token=mg26f8M8OVS4Bn6KZXas0w&e=1456327316 swfUrl=http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf pageUrl=http://mangaplustv.com/foot/tntv/chaine/player.php?live=bein1 
 #
 type=video
 name=RTP 1 HD
