@@ -6,7 +6,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TESTE
 thumb=http://seeklogo.com/images/T/Teste-logo-55806F6B15-seeklogo.com.gif
-URL=
+URL=rtmp://50.7.69.242:1935/verdirectotvedge/_definst_/ app=verdirectotvedge/_definst_/?xs=_we_$doregex[rtmp] playpath=g721uxplw1ycxyk swfUrl=http://www.9stream.com/player/player_embed_iguide.swf pageUrl=http://www.9stream.com token=$doregex[tok] conn=S:OK live=1 timeout=10
 #
 type=video
 name=RTP 1 HD
