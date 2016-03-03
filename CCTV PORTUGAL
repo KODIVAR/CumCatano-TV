@@ -1,0 +1,476 @@
+<channels>
+<channel>
+<title>[COLOR=gray][B][I] RTP 1 [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=gray][B][I] RTP 1 [/I][/B][/COLOR]</title>
+<link>http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+   </item>
+<item>
+<title>[COLOR=gray][B][I] RTP 2 [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+ </item>
+<item>
+<title>[COLOR=gray][B][I] RTP 2 [/I][/B][/COLOR]</title>
+<link>http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8</link>
+ <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] SIC [/I][/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/sic/pancas.m3u8</link>
+ <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gray] SIC [/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+ </item>
+<item>
+<title>[COLOR=gray][B][I] SIC [/I][/B][/COLOR]</title>
+<link></link>
+ <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=gray][B][I] SIC [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicax?id=84756&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] TVI [/I][/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] TVI [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/tviko9/1/670/460 live=true timeout=17</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/tvi003/1/650/500</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR gray] TVI [/COLOR]</title>
+<link>http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8</link>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
+<link>rtmp://213.13.26.13/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 live=1 pageUrl=http://www.tugastream.com/sicnoticias.php?altura=500&largura=650</link>
+<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP 3 [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+ <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] TVI 24 [/I][/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] TVI 24[/I][/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] CM TV [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] ECONԍICO TV [/I][/B][/COLOR]</title>
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] PORTO CANAL [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=84767&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
+</regex>
+<item> 
+<title>[COLOR=grey][B][I] SIC RADICAL [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=grey][B][I] SIC RADICAL [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicradical</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</item
+<item>
+<title>[COLOR=grey][B][I] SIC MULHER  [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR grey][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+<item>
+<title>[COLOR grey][B][I]  TVI FICCAO [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=grey][B][I] TVI REALITY [/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mipsplayer.com/membedplayer/gvgvmerdquinta/1/545/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mips.tv</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] A BOLA TV [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] A BOLA TV [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=abolatva?id=19711$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/abolatva/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] AXN [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] AXN WHITE [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] FOX [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/foxcrl/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] FOX MOVIES [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sical?id=24913$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/sical/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://s20.postimg.org/5rqpttyyl/foxmovies.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] FOX CRIME [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=foxcrimex?id=84766&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/bpqqyudrx/foxcrime.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] FOX LIFE [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
+</regex>
+<item>
+ <item> 
+<title>[COLOR=gray][B][I] HOLLYWOOD [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
+</regex>
+</item>
+<item> 
+<title>[COLOR=gray][B][I] MTV [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=mtvax?id=84773&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/mtvax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/mtvax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
+</regex>
+</item>
+<item> 
+<title>[COLOR=gray][B][I] NAT GEO [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=gray][B][I] DISCOVERY [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=orange][B][I] ODISSEIA [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=gray][B][I] HISTORIA [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
+</regex>
+<item>
+<title>[COLOR=gray][B][I] CANAL PARLAMENTO [/I][/B][/COLOR]</title>
+<link>rtsp://www.canal.parlamento.pt/Live</link>
+<thumbnail>http://s20.postimg.org/ctxu7ihbx/canalparl_grande.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP AȏRES [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP AȏRES [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP RICA [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP RICA [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP MADEIRA [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP MADEIRA [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP MEMԒIA [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=gray][B][I] RTP MEMԒIA [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+<item>
