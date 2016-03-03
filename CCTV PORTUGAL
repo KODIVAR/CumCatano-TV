@@ -1,4 +1,3 @@
-<channels>
 <channel>
 <title>[COLOR=gray][B][I] RTP 1 [/I][/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
@@ -473,4 +472,4 @@
 <link></link>
 <thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
 </item>
-<item>
+
