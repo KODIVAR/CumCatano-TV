@@ -92,26 +92,19 @@
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
-<channel>
-<name>[COLOR lawngreen][B]CANAIS STALLION [/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsD6NFaoxe5C3xFGZwG0cvjY4FTWiBwWXRWYO7AN9XNRvpbI3eDA</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</subitem>
-</item>
 <item>
-<title>[COLOR blue] [COLOR lawngreen]D IT UK FR [/COLOR]</title>
+<title>[COLOR lawngreen][B]CANAIS STALLION [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/bCtX50xV</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 </item>
 <item>
-<channel>
-<name>[COLOR lawngreen]  [COLOR blue][B][I]CANAIS INTERNACIONAIS[/I][/B][/COLOR] </name>
+<name>[COLOR lawngreen][B]CANAIS INTERNACIONAIS[/B][/COLOR] </name>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
-<title>[COLOR lawngreen] [COLOR lawngreen]MIX CANAIS INTERNACIONAIS[/COLOR]</title>
+<title>[COLOR lawngreen][B] MIX CANAIS INTERNACIONAIS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
