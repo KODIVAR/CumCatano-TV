@@ -27,7 +27,7 @@
  <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR grey] SIC [/COLOR]</title>
+<title>[COLOR=grey] SIC [/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
  </item>
@@ -74,7 +74,7 @@
 </regex>
 </item>
 <item>
-<title>[COLOR grey] TVI [/COLOR]</title>
+<title>[COLOR=grey] TVI [/COLOR]</title>
 <link>http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8</link>
 <thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
 </item>
@@ -125,7 +125,7 @@
 </regex>
 </item>
 <item>
-<title>[COLOR=grey][B][I] ECONOICO TV [/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] ECONOMICO TV [/I][/B][/COLOR]</title>
 <link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
 <thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
 </item>
@@ -194,13 +194,13 @@
 </regex>
 </item>
 <item>
-<title>[COLOR grey][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR=grey][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
 <item>
-<title>[COLOR grey][B][I]  TVI FICCAO [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR=grey][B][I]  TVI FICCAO [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
