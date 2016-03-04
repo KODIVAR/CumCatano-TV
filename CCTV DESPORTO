@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-</item>
-<channel>              
+<item>            
 <name>[COLOR lime][B][I]LIGA NOS [/I][/B][/COLOR] </name>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/XkCM6sBV</externallink>
 <thumbnail>http://s12.postimg.org/7x84gmeq5/Liga_Nos_2015_16.png</thumbnail>
 <fanart>http://avaedfisica.pbworks.com/f/wallpapers-bola-estadio-futebol.jpg</fanart>
 </item>
-<channel>              
+<item>            
 <name>[COLOR lime][B][I]LIGA EUROPA/LIGA CAMPEOES [/I][/B][/COLOR] </name>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/E9ZDBiHK</externallink>
@@ -17,27 +16,27 @@
 </subitem>
 </item>
 <channel>              
-<name>[COLOR lime] ՠ[COLOR blue][B][I]CANAIS DESPORTO NACIONAL[/I][/B][/COLOR][COLOR red]  (pancas)[/COLOR] </name>
+<name>[COLOR lime][B][I]CANAIS DESPORTO NACIONAL[/I][/B][/COLOR] </name>
 <thumbnail>http://s20.postimg.org/medgymzp9/Sport_TV_e_BTV.jpg</thumbnail>
 <fanart>http://i535.photobucket.com/albums/ee357/semvagas/StadiodeWembley.jpg</fanart>
 </subitem>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&amp;mode=1&amp;name=Sport TV 1</link> 
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>              
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&amp;mode=1&amp;name=SPORT TV1</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR] [COLOR red]PLEXUS [/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 1[/I][/B][/COLOR] [COLOR red]PLEXUS [/COLOR]</title>
  <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&amp;mode=1&amp;name=SPORT TV 1</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 <item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=continua2?id=85815&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/continua2/1/650/500</link>
 <regex>
 <name>get-ip</name>
@@ -53,49 +52,49 @@
 </regex>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HhNtDI6JB8/MW4DXPXpar/214.ts</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HhNtDI6JB8/MW4DXPXpar/31.ts</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 1 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 1 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>   
-<title>[COLOR blue][B][I]SPORT TV2[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
+<title>[COLOR grey][B][I]SPORT TV2[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>              
 <item>
-<title>[COLOR blue][B][I]SPORT TV2[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV2[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&amp;mode=1&amp;name=SPORT TV2</link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>                        
-<title>[COLOR blue][B][I]SPORT TV 2[/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 2[/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=SPORT TV 2</link>                                
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] SPORT TV 2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HhNtDI6JB8/MW4DXPXpar/208.ts</link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] SPORT TV 2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playPath=sp2101?id=85935&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp2100/1/730/430</link>
 <regex>
 <name>get-ip</name>
@@ -110,34 +109,34 @@
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </regex>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 2 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv2.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>                                 
-<title>[COLOR blue][B][I]SPORT TV3[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV3[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
  <link>plugin://program.plexus/?url= http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=Sport TV 3</link>                      
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV3[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV3[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=0b5582153832ddc45e407c71f3504736b642d59d&mode=1&amp;mode=1&amp;name=SPORT TV3</link>
  <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 <item>                                
-<title>[COLOR blue][B][I]SPORT TV 3[/I][/B][/COLOR][COLOR red]PLEXUS [/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 3[/I][/B][/COLOR][COLOR red]PLEXUS [/COLOR]</title>
  <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORT TV 3</link>                      
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV3[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV3[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
 <regex>
 <name>get-ip</name>
@@ -152,83 +151,83 @@
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </regex>
 <item>
-<title>[COLOR blue][B][I]SPORT TV3[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV3[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 3 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 3 [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 <item>                        
-<title>[COLOR blue][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>                      
+<title>[COLOR grey][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>                      
  <link>plugin://program.plexus/?url=fadff5fca7b05e7b1bfb9643ddebdf1c6dbb97d6&amp;mode=1&amp;name=sporttv4</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I]SPORT TV 4[/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>                       
+<title>[COLOR grey][B][I]SPORT TV 4[/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>                       
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10483.acelive&amp;mode=1&amp;name=sporttv4</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item
-<title>[COLOR blue][B][I]SPORT TV 4[/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>                      
+<title>[COLOR grey][B][I]SPORT TV 4[/I][/B][/COLOR] [COLOR red]PLEXUS[/COLOR]</title>                      
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10483.acelive&amp;mode=1&amp;name=SPORT TV 4</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV4[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] SPORT TV4[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title
+<title>[COLOR grey][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title
+<title>[COLOR grey][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4-2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 5[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 5[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=592445fe3244632cb50e4eb0dc66e3f61c3f3a6b&mode=1&amp;mode=1&amp;name=SPORT TV5</link>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>      
-<title>[COLOR blue][B][I]SPORT TV 5[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 5[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10484.acelive&amp;mode=1&amp;name=sporttv5</link> 
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 5[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 5[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10484.acelive&amp;mode=1&amp;name=SPORT TV 5</link>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV5[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] SPORT TV5[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV 5 [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV 5 [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV5[/I][/B][/COLOR][COLOR orange][B][I]OFF[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] SPORT TV5[/I][/B][/COLOR][COLOR orange][B][I]OFF[/I][/B][/COLOR]</title>
 <link>$doregex[getCleanRTMP] app=$doregex[getCleanapp] playpath=$doregex[get-playpath] token=$doregex[get-tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/69416/SPORT_TV_5</link>
 <regex>
 <name>getCleanRTMP</name>
@@ -262,37 +261,37 @@
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV AMERICAS[/I][/B][/COLOR][COLOR red][B][I]HD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV AMERICAS[/I][/B][/COLOR][COLOR red][B][I]HD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/g5bxccjst/images.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV AMERICAS[/I][/B][/COLOR][COLOR red][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I]SPORT TV AMERICAS[/I][/B][/COLOR][COLOR red][B][I]SD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/g5bxccjst/images.jpg</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>  
+<title>[COLOR grey][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>  
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/YUFITjlyYkRqcDNubmxVZHFkWXA0TFB4cnBYTWVib3NLdjZHWlNmL0I1TVhIMGorTTc2NUZZMjhSS3dFMzAycTVTUTJzamdpNi93dnI0YTMxRndmK0E9PQ/13490.acelive&amp;mode=1&amp;name=benfica</link> 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=3c4f575ec49b64f4bd34d0c6e3ed4dbaf6171e82&amp;mode=1&amp;name=BENFICA TV1</link> 
  <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/13490.acelive&amp;mode=1&amp;name=BENFICA TV1</link> 
  <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR=blue][B][I] BENFICA TV1  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] BENFICA TV1  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HhNtDI6JB8/MW4DXPXpar/212.ts</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR=blue][B][I] BENFICA TV1  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] BENFICA TV1  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playPath=slbljjttDZS?id=21720$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjttDZS/1/620/430 live=true</link>
 <regex>
 <name>get-ip</name>
@@ -307,39 +306,39 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]BENFICA TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/ZzNoZ1JmMHkyaVFMYUwvVUFBVHkzNGd6Y1E2WmxsTjY1TjZhVy96cVdreS9OeE0vUjZiVzQ0YXBBTkE3QjhYdHd2OTJsOEpDUlVFc1BWWCtselZRZmc9PQ/13491.acelive&amp;mode=1&amp;name=benfica</link> 
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&mode=1&amp;mode=1&amp;name=BENFICA TV2</link>
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR grey][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/13491.acelive&amp;mode=1&amp;name=benfica</link> 
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I]BENFICA TV2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I]BENFICA TV2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I]BENFICA TV2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I]BENFICA TV2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=caralhof?id=85529&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/caralhof/1/650/500</link>
 <regex>
 <name>get-ip</name>
@@ -355,13 +354,13 @@
 </regex>
 </item>
 <item>
-<title>[COLOR=blue][B][I]BENFICA TV2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I]BENFICA TV2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv_2.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR]</title> 
+<title>[COLOR=grey][B][I] SPORTING TV  [/I][/B][/COLOR]</title> 
 <link>rtmp://$doregex[get-ip]/live/ playpath=sportyaxza?id=21721$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaxza/1/555/430 live=true</link>
 <regex>
 <name>get-ip</name>
@@ -375,30 +374,30 @@
 <referer>http://www.streamifyplayer.com</referer>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
 </item>
-<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR green][B]</title>
+<title>[COLOR=grey][B][I] SPORTING TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR green][B]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR green][B]</title>
+<title>[COLOR=grey][B][I] SPORTING TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR green][B]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
 <item>
 <channel>
-<name>[COLOR lime]  [COLOR blue][B][I]CANAIS DESPORTO INTERNACIONAIS[/I][/B][/COLOR][COLOR red] (By Pancas)[/COLOR] </name>
+<name>[COLOR grey][B][I]CANAIS DESPORTO INTERNACIONAIS[/I][/B][/COLOR] </name>
 <thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
 <fanart>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime] [COLOR lime]VARIOS CANAIS DESPORTO INTERNACIONAIS AQUI[/COLOR]</title>
+<title>[COLOR grey]CANAIS DESPORTO INTERNACIONAIS[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
 <fanart>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</fanart>
 <externallink>http://pastebin.com/raw.php?i=1Q1SB2Zr</externallink>
 </item>
 <item>
-        <title>[COLOR turquoise]ROJA DIRETA AQUI[/COLOR]</title>
+        <title>[COLOR grey]ROJA DIRETA[/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
 <thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
