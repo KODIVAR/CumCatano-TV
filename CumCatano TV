@@ -64,6 +64,13 @@
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
+<item> 
+<title>[COLOR grey][B]RADIOS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/radios.m3u</externallink>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFDAO7CGTa5G8ZjW3YxSSjZf69YYY8sLzdZAjujn4pl4fPA_ax-w</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
 <item>  
 <title>[COLOR grey][B]DISCLAIMER[/B][/COLOR]</title>
 <link>http://ignorame</link>
