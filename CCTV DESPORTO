@@ -1,34 +1,22 @@
 
 
-<channel>
-<name>[COLOR gren][B][I]DESPORTO[/I][/B][/COLOR] </name>
-<thumbnail>http://www.em10taque.com/wp-content/uploads/00.Tecnologia-no-Desporto.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/DESPORTO.png</fanart>
-</subitem>
-</item>
+
 <item>
-</subchannel>
-</channel>
-<channel>	      
-<name>[COLOR lime][B][I]LIGA NOS [/I][/B][/COLOR] </name>
+<title>[COLOR lime][B][I]LIGA NOS [/I][/B][/COLOR] </name>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/XkCM6sBV</externallink>
 <thumbnail>http://s12.postimg.org/7x84gmeq5/Liga_Nos_2015_16.png</thumbnail>
 <fanart>http://avaedfisica.pbworks.com/f/wallpapers-bola-estadio-futebol.jpg</fanart>
 </item>
 <item>            
-<name>[COLOR lime][B][I]LIGA EUROPA/LIGA CAMPEOES [/I][/B][/COLOR] </name>
+<title>[COLOR lime][B][I]LIGA EUROPA/LIGA CAMPEOES [/I][/B][/COLOR] </name>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/E9ZDBiHK</externallink>
 <thumbnail>http://s13.postimg.org/6npacpeuf/images.jpg</thumbnail>
 <fanart>http://futebolportugal.com/wp-content/uploads/liga-dos-campeoes-0ae851.jpg</fanart>
-</subitem>
 </item>
-<item>
-</subchannel>
-</channel>
-<channel>	             
-<name>[COLOR lime][B][I]CANAIS DESPORTO NACIONAL[/I][/B][/COLOR] </name>
+<channel>           
+<title>[COLOR lime][B][I]CANAIS DESPORTO NACIONAL[/I][/B][/COLOR] </name>
 <thumbnail>http://s20.postimg.org/medgymzp9/Sport_TV_e_BTV.jpg</thumbnail>
 <fanart>http://i535.photobucket.com/albums/ee357/semvagas/StadiodeWembley.jpg</fanart>
 </subitem>
