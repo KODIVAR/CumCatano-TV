@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
 <channel>
-<name>[COLOR lime] DESPORTO[/COLOR] </name>
+<name>[COLOR gren][B][I]DESPORTO[/I][/B][/COLOR] </name>
 <thumbnail>http://www.em10taque.com/wp-content/uploads/00.Tecnologia-no-Desporto.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/DESPORTO.png</fanart>
 </subitem>
 </item>
 <item>
-</subchannel>6
+</subchannel>
 </channel>
 <channel>	      
 <name>[COLOR lime][B][I]LIGA NOS [/I][/B][/COLOR] </name>
@@ -25,7 +24,10 @@
 <fanart>http://futebolportugal.com/wp-content/uploads/liga-dos-campeoes-0ae851.jpg</fanart>
 </subitem>
 </item>
-<channel>              
+<item>
+</subchannel>
+</channel>
+<channel>	             
 <name>[COLOR lime][B][I]CANAIS DESPORTO NACIONAL[/I][/B][/COLOR] </name>
 <thumbnail>http://s20.postimg.org/medgymzp9/Sport_TV_e_BTV.jpg</thumbnail>
 <fanart>http://i535.photobucket.com/albums/ee357/semvagas/StadiodeWembley.jpg</fanart>
