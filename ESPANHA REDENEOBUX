@@ -413,3 +413,27 @@ item>
 <title>WEB TV SA SP</title>
 <link>http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8</link>
 </item>
+<item>
+<title>C+Liga rtmp</title>
+<link>#EXTINF:-1,C+Liga rtmp</link>
+</item>
+<link>rtmp://$OPT:rtmp-raw=rtmp://62.212.82.81/live playpath=verliga1123?id=243257&pk=246d1494ad5bdcac1ae6f439f4da020c11dd0f6df0aedb4e02835a69ab3f3cc2 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/verliga1123/1/650/400 Conn=S:OK</link>
+</item>
+<item>
+<title>C+Liga rtmp</title>
+<link>#EXTINF:-1,C+Liga rtmp</link>
+</item>
+<link>rtmp://$OPT:rtmp-raw=rtmp://46.165.196.40/stream playpath=deportemix?id=23896&pk=246d1494ad5bdcac1ae6f439f4da020c11dd0f6df0aedb4e02835a69ab3f3cc2 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/deportemix/1/700/440 Conn=S:OK</link>
+</item>
+<item>
+<title>C+Dcine rtmp</title>
+<link>#EXTINF:-1,C+Dcine rtmp</link>
+</item>
+<link>rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=32102&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+</item>
+<item>
+<title>C+Comedia rtmp</title>
+<link>#EXTINF:-1,C+Comedia rtmp</link>
+</item>
+<link>rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=32102&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+</item>
