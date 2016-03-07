@@ -1,4 +1,19 @@
- #EXTM3U
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- http://www.iptvm3u.com ---[/B][/I][/COLOR] 
+#EXTINF:-1, [COLOR green]--UPDATED 07-03-2016--[/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1,[I][B][COLOR blue]------------------- ESPANHA --------------------[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+ 
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+
 #EXTINF:-1,[001] TVE 1
 http://79.158.55.71:4022/udp/239.0.0.76:8208
 #EXTINF:-1,[001] TVE 1 HD
