@@ -9,13 +9,13 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
-<title>[COLOR grey][B]USA[/B][/COLOR]</title>
+<title>[COLOR grey][B]BRASIL[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/ESTADOS%20UNIDOS%20REDENEOBUX.m3u</externallink>
-<thumbnail>http://wallpaper.ultradownloads.com.br/114143_Papel-de-Parede-Bandeira-dos-Estado-Unidos-da-America_1280x1024.jpg</thumbnail>
+<externallink>http://lista.iptvglobal.com.br</externallink>
+<thumbnail>http://i41.tinypic.com/sx2gz6.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
-<item>  
+<item> 
 <title>[COLOR grey][B]FRANCA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/FRANCA%20REDENEOBUX.m3u</externallink>
@@ -30,6 +30,13 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item> 
+<title>[COLOR grey][B]USA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/ESTADOS%20UNIDOS%20REDENEOBUX.m3u</externallink>
+<thumbnail>http://wallpaper.ultradownloads.com.br/114143_Papel-de-Parede-Bandeira-dos-Estado-Unidos-da-America_1280x1024.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
 <title>[COLOR grey][B]UK[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/UK%20REDENEOBUX.m3u</externallink>
