@@ -1,0 +1,415 @@
+</item>
+<channel>
+<name>[COLOR blue][B][I]CANAIS ESPANHA[/I][/B][/COLOR]</name>
+<thumbnail>http://s11.postimg.org/6oehyk76r/espanha1.jpg</thumbnail>
+<fanart>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</fanart>
+</subitem>
+  <item>                           
+<title>[COLOR=red][B][I] RTVE 1  [/I][/B][/COLOR]</title>                  
+ <link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link>
+ <thumbnail>http://s20.postimg.org/9xp3jd931/tve1_es.png</thumbnail>
+  </item>  
+<item>                     
+<title>[COLOR=red][B][I] RTVE 2  [/I][/B][/COLOR]</title>                  
+ <link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8</link>
+ <thumbnail>http://s20.postimg.org/50biy973x/tve2.png</thumbnail>
+  </item>  
+<item>                     
+<title>[COLOR=red][B][I] Antena 3 HD  [/I][/B][/COLOR]</title>                  
+ <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8</link>
+ <thumbnail>http://s20.postimg.org/lk00t0hml/antena3.png</thumbnail>
+ </item>
+item>                     
+<title>[COLOR=red][B][I] QUATRO [/I][/B][/COLOR]</title>                  
+<link>rtmp://$doregex[get-ip]/live/ playpath=lacuatrorincon?id=83064$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/ live=true timeout=17</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/lacuatrorincon/1/650/400</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://s20.postimg.org/r4h3he5vh/lacuatro.jpg</thumbnail>
+ </regex>
+ item>                            
+<title>[COLOR=red][B][I] TELECINCO [/I][/B][/COLOR]</title>                  
+<link>rtmp://$doregex[get-ip]/live/ playpath=telecincorincon?id=83007$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/ live=true timeout=17</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/telecincorincon/1/650/400</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://s20.postimg.org/ocxtqs7ct/Telecinco.png</thumbnail>
+ </regex>
+ <item>                            
+<title>[COLOR=red][B][I]laSexta HD  [/I][/B][/COLOR]</title>                  
+ <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/segment144795832_2_av-b.ts?sd=10&rebase=on</link>
+ <thumbnail>http://s20.postimg.org/dou2rxxdp/la_sexta.png</thumbnail>
+  </item>
+<item>                    
+<title>[COLOR=red][B][I]TV GALICIA[/I][/B][/COLOR]</title>                  
+ <link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
+ <thumbnail>http://s20.postimg.org/hszmy6ipp/tvg.jpg</thumbnail>
+  </item>
+<item>                     
+<title>[COLOR=red][B][I] RPTA7 [/I][/B][/COLOR]</title>                  
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+ <thumbnail>http://s20.postimg.org/xfqwbjwhp/rtpa7.jpg</thumbnail>
+  </item>  
+  <item>                           
+<title>[COLOR=red][B][I] 24 HORAS  [/I][/B][/COLOR]</title>                  
+ <link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
+ <thumbnail>http://s20.postimg.org/u3o04ifct/tve_24.png</thumbnail>
+ </item>
+<item>
+<title>13 TV</title>
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+</item>
+<item>
+<title>24 HORAS</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>ADINET TV SP</title>
+<link>http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8</link>
+</item>
+<item>
+<title>Amazing Facts TV</title>
+<link>http://bglive-w.bitgravity.com/amazingfacts/live/feed01</link>
+</item>
+<item>
+<title>Andalucia TV</title>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+</item>
+<item>
+<title>ANTENA 3 HD</title>
+<link>http://www.iptvsaga.com/play/tv3/0012.m3u8</link>
+</item>
+<item>
+<title>Canal 10 EspaÃ±a rtmp</title>
+<link>#EXTINF:-1,Canal 10 EspaÃ±a rtmp</link>
+</item>
+<link>rtmp://87.106.220.67/live/myStream_2</link>
+</item>
+<item>
+<title>Canal Extremadura</title>
+<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+</item>
+<item>
+<title>CIELO</title>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8</link>
+</item>
+<item>
+<title>EiTB</title>
+<link>http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&amp;lineUpId=&amp;pubId=102076681001&amp;playerId=3255438695001&amp;affiliateId=&amp;v=3.4.0&amp;fp=WIN%2016,0,0,235&amp;r=ALLBH&amp;g=XRIFBBMKQYKI</link>
+</item>
+<item>
+<title>EITB EspaÃ±a</title>
+<link>http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8</link>
+</item>
+<item>
+<title>Enlace Deportes 1</title>
+<link>http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8</link>
+</item>
+<item>
+<title>EURONEWS ES</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8</link>
+</item>
+<item>
+<title>Extremadura TV EspaÃ±a</title>
+<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+</item>
+<item>
+<title>Huesca TV rtmp</title>
+<link>#EXTINF:-1,Huesca TV rtmp</link>
+</item>
+<link>rtmp://streaming2.radiohuesca.com/live/huescatv</link>
+</item>
+<item>
+<title>IB3</title>
+<link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link>
+</item>
+<item>
+<title>IMPD TV SP</title>
+<link>http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8</link>
+</item>
+<item>
+<title>LA 1</title>
+<link>http://iphonelive.rtve.es:80/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>LA 1</title>
+<link>http://hlslive.rtve.es:80/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>LA 2</title>
+<link>http://iphonelive.rtve.es:80/LA2_LV3_IPH/LA2_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>LA 2</title>
+<link>http://hlslive.rtve.es:80/LA2_LV3_IPH/LA2_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>LA 7 IT</title>
+<link>http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8</link>
+</item>
+<item>
+<title>LA RED EN VIVO HD</title>
+<link>http://www.iptvsaga.com/play/tv3/0015.m3u8</link>
+</item>
+<item>
+<title>LA RED EN VIVO HD</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=14527508</link>
+</item>
+<item>
+<title>LA SEXTA HD</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=88365689</link>
+</item>
+<item>
+<title>LA SEXTA HD</title>
+<link>http://www.iptvsaga.com/play/tv3/0013.m3u8</link>
+</item>
+<item>
+<title>Lancelot TV Las Palmas EspaÃ±a</title>
+<link>rtmp://62.210.141.18:1935/directo/lancelot.television</link>
+</item>
+<item>
+<title>Levante Tv rtmp</title>
+<link>#EXTINF:-1,Levante Tv rtmp</link>
+</item>
+<link>rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive</link>
+</item>
+<item>
+<title>Localia tv rtmp</title>
+<link>#EXTINF:-1,Localia tv rtmp</link>
+</item>
+<link>rtmp://streaming2.radiohuesca.com/live//huescatv</link>
+</item>
+<item>
+<title>Lux Mallorca TV EspaÃ±a rtmp</title>
+<link>#EXTINF:-1,Lux Mallorca TV EspaÃ±a rtmp</link>
+</item>
+<link>rtmp://fl1.viastreaming.net/canal37/livestream</link>
+</item>
+<item>
+<title>M6</title>
+<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8</link>
+</item>
+<item>
+<title>REAL MADRID TV SD</title>
+<link>http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/master.m3u8</link>
+</item>
+<item>
+<title>RPTA7</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+</item>
+<item>
+<title>RT EN ESPAÃ‘OL HD</title>
+<link>http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8</link>
+</item>
+<item>
+<title>RTP Asturias EspaÃ±a</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+</item>
+<item>
+<title>Russia Today HD</title>
+<link>http://www.iptvsaga.com/play/tv3/0011.m3u8</link>
+</item>
+<item>
+<title>Russia Today HD</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=84555053</link>
+</item>
+<item>
+<title>SBT SP</title>
+<link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8</link>
+</item>
+<item>
+<title>SESC TV SP</title>
+<link>http://srv6.zoeweb.tv:1935/zt2/stream/live.m3u8</link>
+</item>
+<item>
+<title>TV APARECIDA SP</title>
+<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8</link>
+</item>
+<item>
+<title>TV CIDADE SP</title>
+<link>http://173.192.200.118:1935/sunline/sunline.sdp/live.m3u8</link>
+</item>
+<item>
+<title>TV Extremadura rtmp</title>
+<link>#EXTINF:-1,TV Extremadura rtmp</link>
+</item>
+<link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1</link>
+</item>
+<item>
+<title>TV FAAP SP</title>
+<link>http://midia.faap.br:80/faaplatamlive-live/stream_480/livestream.m3u8</link>
+</item>
+<item>
+<title>TV FAAP SP</title>
+<link>http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA AMERICA</title>
+<link>http://media1.crtvg.es:1935/live/tvga/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA AMERICA</title>
+<link>http://media4.crtvg.es:1935/live/tvga/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA AMERICA</title>
+<link>http://media3.crtvg.es:1935/live/tvga/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA AMERICA</title>
+<link>http://media3.crtvg.es:1935/live/tvga_2/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA EUROPA</title>
+<link>http://media1.crtvg.es:1935/live/tvge/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA EUROPA</title>
+<link>http://media3.crtvg.es:1935/live/tvge/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA EUROPA</title>
+<link>http://media4.crtvg.es:1935/live/tvge/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GALICIA EUROPA</title>
+<link>http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8</link>
+</item>
+<item>
+<title>TV GUARUJÃ SP</title>
+<link>http://wse.transmissaodigital.com:1935/3880/3880/live.m3u8</link>
+</item>
+<item>
+<title>TV INTERLAGOS SP</title>
+<link>http://198.20.107.218:1935/tvinterlagos/tvinterlagos/live.m3u8</link>
+</item>
+<item>
+<title>TV MACKENZIE SP</title>
+<link>http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/tvmackenzie_bitrate2.sdp/livestream.m3u8</link>
+</item>
+<item>
+<title>TV MACKENZIE SP</title>
+<link>http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/tvmackenzie_bitrate1.sdp/livestream.m3u8</link>
+</item>
+<item>
+<title>TV MUNDIAL SP</title>
+<link>http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8</link>
+</item>
+<item>
+<title>TV NOVO TEMPO SP</title>
+<link>http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8</link>
+</item>
+<item>
+<title>TV NOVO TEMPO SP</title>
+<link>http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8</link>
+</item>
+<item>
+<title>TV PREVÃŠ SP</title>
+<link>http://flashserverbr.com:1935/tvpreve/livestream/live.m3u8</link>
+</item>
+<item>
+<title>TV SERTANEJA SP</title>
+<link>http://69.46.0.170:1935/tvsertaneja/tvsertaneja.stream/live.m3u8</link>
+</item>
+<item>
+<title>TV TODO DIA SP</title>
+<link>http://38.96.175.108:1935/tododia/tododia/live.m3u8</link>
+</item>
+<item>
+<title>TV VOTORANTIM SP</title>
+<link>http://198.20.107.218:1935/votorantim/votorantim/live.m3u8</link>
+</item>
+<item>
+<title>TVE 1 (La1)</title>
+<link>http://www.iptvsaga.com/play/tv3/0019.m3u8</link>
+</item>
+<item>
+<title>TVE 1 es</title>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>TVE 2 (La2)</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=91170153</link>
+</item>
+<item>
+<title>TVE 2 (La2)</title>
+<link>http://www.iptvsaga.com/play/tv3/0018.m3u8</link>
+</item>
+<item>
+<title>TVE 2 es</title>
+<link>http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8</link>
+</item>
+<item>
+<title>TVE 24</title>
+<link>http://www.iptvsaga.com/play/tv3/0017.m3u8</link>
+</item>
+<item>
+<title>TVE 24</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=92978413</link>
+</item>
+<item>
+<title>US TWit</title>
+<link>http://bglive-a.bitgravity.com/twit/live/high</link>
+</item>
+<item>
+<title>VEM E VÃŠ TV 1 SP</title>
+<link>http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8</link>
+</item>
+<item>
+<title>VEM E VÃŠ TV 2 SP</title>
+<link>http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8</link>
+</item>
+<item>
+<title>VEM E VÃŠ TV 3 SP</title>
+<link>http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8</link>
+</item>
+<item>
+<title>VEM E VÃŠ TV SP</title>
+<link>http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8</link>
+</item>
+<item>
+<title>VIT Channel 1 rtmp</title>
+<link>#EXTINF:-1,VIT Channel 1 rtmp</link>
+</item>
+<link>rtmp://87.106.244.74/live/myStream_2</link>
+</item>
+<item>
+<title>VIT Channel 2 rtmp</title>
+<link>#EXTINF:-1,VIT Channel 2 rtmp</link>
+</item>
+<link>rtmp://87.106.219.140/live/myStream_2</link>
+</item>
+<item>
+<title>VIT Channel 3 rtmp</title>
+<link>#EXTINF:-1,VIT Channel 3 rtmp</link>
+</item>
+<link>rtmp://87.106.232.7/live/myStream_2</link>
+</item>
+<item>
+<title>VIT Channel 4 rtmp</title>
+<link>#EXTINF:-1,VIT Channel 4 rtmp</link>
+</item>
+<link>rtmp://87.106.220.67/live/myStream_2</link>
+</item>
+<item>
+<title>WEB CAC TV RO</title>
+<link>http://173.236.34.138:1935/webtv01/webtv01/live.m3u8</link>
+</item>
+<item>
+<title>WEB TV SA SP</title>
+<link>http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8</link>
+</item>
