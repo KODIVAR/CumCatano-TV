@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<channel>
+<title>[COLOR orange][B]CANAIS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CANAIS%20MUSICA.m3u</externallink>
+<thumbnail>http://www.musicpiya.com/wp-content/uploads/2015/02/Free-Music-Wallpapers-HD-for-PC-13.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR lime][B]CONCERTOS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CONCERTOS.m3u</externallink>
+<thumbnail>http://c5.quickcachr.fotos.sapo.pt/i/o74016512/16590907_9e4kZ.jpeg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR blue][B]MyIPTV MUSIC[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/music.m3u</externallink>
+<thumbnail>http://www.aboutmusictheory.com/wp-content/uploads/2012/04/ear-training.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
