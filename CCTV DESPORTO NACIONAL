@@ -30,6 +30,21 @@
 </regex>
 </item>
 <item>
+<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=fewas?id=86040&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/fewas/1/600/400</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/fewas/1/600/400</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</regex>
+<item>
 <title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR orange][B][I]HD[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
