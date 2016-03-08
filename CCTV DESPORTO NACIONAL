@@ -266,8 +266,8 @@
 </item>
 <item>
 <title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
-<referer>http://cdn2.zuuk.org/</referer>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/6/watch-xonetv.html#.Vt8JjkC8pHc</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
@@ -319,6 +319,12 @@
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
+<title>[COLOR blue][B][I]BENFICA TV2  [/I][/B][/COLOR] [COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+<item> 
 <title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR]</title> 
 <link>rtmp://$doregex[get-ip]/live/ playpath=sportyaxza?id=21721$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaxza/1/555/430 live=true</link>
 <regex>
