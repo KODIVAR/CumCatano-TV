@@ -4,20 +4,17 @@
 <channel>
 <item>
 <parentalblock>true</parentalblock>
-<title>[COLOR=red][B][I]HOT PT[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=hot0x?id=22063$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/hot0x/1/650/500</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png</thumbnail>
-</regex>
+<title>[COLOR red][B][I]HOT [/I][/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=hot</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.wtvision.com/files/img/news/hotgold.jpg</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR red][B][I]PLAYBOY[/I][/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=xxx</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://4.bp.blogspot.com/_-9Mfz-N1qkg/SoOp9nLUi0I/AAAAAAAABak/1767qe44ckw/s200/Playboy_TV_Logo.png</thumbnail>
 </item>
 <item>
 <parentalblock>true</parentalblock>
