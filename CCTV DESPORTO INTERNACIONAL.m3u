@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sports/telekanalfutbol.jpg",[COLOR gold]TELEKANAL (RUS)[/COLOR]
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sports/telekanalfutbol.jpg",[COLOR gold]TELEKANAL (RUS)[/COLOR]
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/07/CNOPT-SPORT-1-LIVE.jpg",[COLOR gold]CNOPT[/COLOR]
+URL=http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-ESPN.png",[COLOR gold]BT SPORT ESPN[/COLOR]
+rtmp://89.248.172.52/live/ playpath=espnuks1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.cast4u.tv/embed.php?live=espnuks1&vw=620&vh=490
+#EXTINF:-1 tvg-logo="http://logos.iptvglobal.com.br/sportv.png",[COLOR gold]SPORT TV 1 (BR)[/COLOR]
+rtmp://62.210.83.152:1935/liverepeat playpath=201020 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://ppcast.org/embedP/4.php?file=zuca4ad46&width=100%25&height=100%25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png",[COLOR gold]SPORT TV 2 (BR)[/COLOR]
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png",[COLOR gold]SPORT TV 3 (BR)[/COLOR]
+http://185.109.161.15:8081/loadbalance/slv3/chunks.m3u8
+
+
+
+
+
+
