@@ -3,17 +3,68 @@
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sports/telekanalfutbol.jpg",[COLOR gold]TELEKANAL (RUS)[/COLOR]
 http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/07/CNOPT-SPORT-1-LIVE.jpg",[COLOR gold]CNOPT[/COLOR]
-URL=http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-ESPN.png",[COLOR gold]BT SPORT ESPN[/COLOR]
-rtmp://89.248.172.52/live/ playpath=espnuks1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.cast4u.tv/embed.php?live=espnuks1&vw=620&vh=490
 #EXTINF:-1 tvg-logo="http://logos.iptvglobal.com.br/sportv.png",[COLOR gold]SPORT TV 1 (BR)[/COLOR]
 rtmp://62.210.83.152:1935/liverepeat playpath=201020 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://ppcast.org/embedP/4.php?file=zuca4ad46&width=100%25&height=100%25
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png",[COLOR gold]SPORT TV 2 (BR)[/COLOR]
 http://213.163.65.116:8081/live/sportv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png",[COLOR gold]SPORT TV 3 (BR)[/COLOR]
 http://185.109.161.15:8081/loadbalance/slv3/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/01/AQ.jpg",[COLOR gold]ESPN (BR)[/COLOR]
+http://31.204.128.127:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/01/AQ.jpg",[COLOR gold]ESPN (BR)[/COLOR]
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-ESPN.png",[COLOR gold]BT SPORT ESPN[/COLOR]
+rtmp://89.248.172.52/live/ playpath=espnuks1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.cast4u.tv/embed.php?live=espnuks1&vw=620&vh=490
+#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/07/CNOPT-SPORT-1-LIVE.jpg",[COLOR gold]CNOPT[/COLOR]
+URL=http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://profile.silktv.ge/images/logo-tv.png",[COLOR gold]SILK 3 (GEO)[/COLOR]
+http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 1[/COLOR]
+http://188.247.133.26:8888/ipvt_010
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 2[/COLOR]
+http://188.247.133.26:8888/ipvt_011
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 3[/COLOR]
+http://188.247.133.18:8888/ipvt_005
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 4[/COLOR]
+http://188.247.133.18:8888/ipvt_006
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 5[/COLOR]
+http://188.247.133.18:8888/ipvt_007
+#EXTINF:-1, Digi Sport 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1, Digi Sport 2
+http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1, Digi Sport 3
+http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1, Digi Sport 4
+http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:-1,Avto & Moto TV
+mms://100automoto.tv/100livesport
+#EXTINF:-1,Auto Electric
+mms://100automoto.tv/channel_electric
+#EXTINF:-1,Auto Gaz
+mms://100automoto.tv/100gaz
+#EXTINF:-1,Auto Italia Channel
+mms://100automoto.tv/channel_italy
+#EXTINF:-1,Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+#EXTINF:-1,BMW Channel
+mms://100automoto.tv/bmw
 
 
 
