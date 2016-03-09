@@ -1,17 +1,17 @@
-version=1
-background=https://s-media-cache-ak0.pinimg.com/736x/87/c8/e3/87c8e331b2b6ed58bcb90a5a04b1d818.jpg
-logo=https://pmcdeadline2.files.wordpress.com/2014/11/go-cartoons-logo.png?w=446&h=299&crop=1
-title=[COLOR yellow]SERIES[/COLOR]
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#
-type=playlist
-thumb=http://1.bp.blogspot.com/-LWVSOv73yFE/Vd3lwudDmnI/AAAAAAAAA3k/7I7oAxf5zJI/s1600/TOON%2BTV%2BLOGO.png
-name=[COLOR yellow][B][I]Desenhos 24 horas[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/DESENHOS%2024
-#
-type=playlist
-thumb=http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg
-name=[COLOR yellow][B][I]Tom Sawyer[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/TOM%20SAWYER
-
-#
+<item>
+<channel>
+<title>[COLOR orange][B][I]Desenhos 24 horas[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/DESENHOS%2024.m3u</externallink>
+<thumbnail>http://1.bp.blogspot.com/-LWVSOv73yFE/Vd3lwudDmnI/AAAAAAAAA3k/7I7oAxf5zJI/s1600/TOON%2BTV%2BLOGO.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR orange][B]Tom Sawyer[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/TOM%20SAWYER.m3u</externallink>
+<thumbnail>http://1.bp.blogspot.com/_CBBl1CBt3mQ/S8RSABhG9iI/AAAAAAAAAEY/t3wDkCWQxmY/s1600/Tom_Sawyer+DVD+1.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
