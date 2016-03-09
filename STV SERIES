@@ -1,46 +1,24 @@
-version=1
-background=http://globpt.com/wp-content/uploads/2009/01/novo-canal-de-televisao.jpg
-logo=http://novovision.tv/wp-content/uploads/bfi_thumb/Logo_smile1-lwl7kxud2mtxhc75637dkpb5u3njiz1p2ek8y4qcio.png
-title=[COLOR blue]NACIONAIS[/COLOR]
- 
-#
-type=playlist
-thumb=https://goo.gl/ne9Ed5
-name=[COLOR blue][B][I]Duarte & Cª[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Duarte%20%26%20C%C2%AA
-#
-type=playlist
-thumb=http://s19.postimg.org/tmgcga1ib/gato_fedorento_ze_carlos_1410.jpg
-name=[COLOR blue][B][I]Gato Fedorento: Zé Carlos[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Gato%20Fedorento%3A%20Z%C3%A9%20Carlos
-#
-type=playlist
-thumb=http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2ptt8/s1600/LIGA_D%257E1.JPG
-name=[COLOR blue][B][I]Liga dos Últimos[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Liga%20dos%20%C3%9Altimos
-#
-type=playlist
-thumb=
-name=[COLOR blue][B][I]XXXXX[/I][/B][/COLOR]
-URL=
-#
-type=playlist
-thumb=
-name=[COLOR blue][B][I]XXXXXXX[/I][/B][/COLOR]
-URL=
-#
-type=playlist
-thumb=
-name=[COLOR blue][B][I]XXXXX[/I][/B][/COLOR]
-URL=
-#
-type=playlist
-thumb=
-name=[COLOR blue][B][I]XXXXXXX[/I][/B][/COLOR]
-URL=
-#
-type=playlist
-thumb=
-name=[COLOR blue][B][I]XXXXX[/I][/B][/COLOR]
-URL=
-#
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<channel>
+<title>[COLOR blue][B][I]Duarte & Cª[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Duarte%20%26%20C%C2%AA.m3u</externallink>
+<thumbnail>https://goo.gl/ne9Ed5</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR blue][B]Gato Fedorento: Zé Carlos[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Gato%20Fedorento%3A%20Z%C3%A9%20Carlos.m3u</externallink>
+<thumbnail>http://s19.postimg.org/tmgcga1ib/gato_fedorento_ze_carlos_1410.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR blue][B]Liga dos Últimos[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Liga%20dos%20Ultimos.m3u</externallink>
+<thumbnail>http://1.bp.blogspot.com/_Pv5jLSgty88/TQn8p6gBgQI/AAAAAAAABjE/h0N2ou2ptt8/s1600/LIGA_D%257E1.JPG</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
