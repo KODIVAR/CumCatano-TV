@@ -11,7 +11,7 @@
 <title>[COLOR lime][B][I]LIGA EUROPA/LIGA CAMPEOES [/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/E9ZDBiHK</externallink>
-<thumbnail>http://s13.postimg.org/6npacpeuf/images.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UEFA_logo.svg/600px-UEFA_logo.svg.png</thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B][I]DESPORTO NACIONAL[/I][/B][/COLOR]</title>
@@ -21,12 +21,11 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
-
 <title>[COLOR gold][B][I]DESPORTO INTERNACIONAL[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
-<fanart>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</fanart>
-<externallink>http://pastebin.com/raw.php?i=1Q1SB2Zr</externallink>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV%20DESPORTO%20INTERNACIONAL.m3u</externallink>
+<thumbnail>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
 <title>[COLOR red][B][I]ROJA DIRETA[/I][/B][/COLOR]</title>
