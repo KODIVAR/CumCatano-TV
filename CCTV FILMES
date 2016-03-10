@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<channel>
+<title>[COLOR grey][B]MyIPTV MOVIES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/movies.m3u</externallink>
+<thumbnail>http://www.focusandleap.com/wp-content/uploads/2015/09/movies-logo.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR grey][B]REDENEOBUX MOVIES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/REDENEOBUX%20MOVIES.m3u</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalYIlkgF70vpom7LLbMFIrJQdBJH0s2Kdl6NgGEPiQV5emEz2</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR grey][B]OLD MOVIES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/OLD%20MOVIES.m3u</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEdGXI_yy5eX_ZxQNr5fVJIlQ7pDafYkivvsjVhwUSc0felkUGg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR grey][B]MOVIES 24/7[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/MOVIES%2024%207.m3u</externallink>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9eStdj8ZjzP4uXLqlWpNKBGhIx2iyuh8gpDwVysmAQ1zAuVrc9A</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
