@@ -275,15 +275,9 @@
 </regex>
 </item>
 <item>
-<title>[COLOR red][B][I]FOX [/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] FOX [/I][/B][/COLOR]</title>
 <sportsdevil>http://www.desportonline.net/index.php?canal=fox</sportsdevil>
 <referer>http://www.desportonline.net/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
-</item>
-<item>
-<title>[COLOR red][B][I]FOX [/I][/B][/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
-<referer>http://www.estadiofutebol.com//referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
 </item>
 <item>
