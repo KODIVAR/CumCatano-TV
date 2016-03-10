@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, [COLOR blue][B]---- Alcatraz ----[/B][/COLOR]
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x13 LEG-TV Tommy Madsen - Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/0a076929.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x12 LEG-TV Garrett Stillman
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/a3b785aa.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x11 LEG-TV Webb Porter
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/5378c056.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x10 LEG-TV Sonny Burnett
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/72fea889.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x09 LEG-TV The Ames Brothers
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/0ff073cf.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x08 LEG-TV Clarence Montgomery
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/3e19cd87.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x07 LEG-TV Johnny McKee
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/e7acf9c5.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x06 LEG-TV Paxton Petty
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/1abcbc10.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x05 LEG-TV Guy Hastings
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ed0b3c1b.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x04 LEG-TV Cal Sweeney
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/e4ca8acb.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x03 LEG-TV Kit Nelson
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/5940db32.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x02 LEG-TV Ernest Cobb
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/cf91d5f4.flv
+#EXTINF:-1 tvg-logo="https://goo.gl/7Z2LRc" group-title="Alcatraz Legendado",Alcatraz 1x01 LEG-TV Pilot
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/f8569993.flv
