@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<channel>
+<title>[COLOR grey][B]FILMES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV%20FILMES</externallink>
+<thumbnail>http://www.quirindiroyaltheatre.com/wp-content/uploads/2015/11/movies-5.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR grey][B]SERIES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV%20SERIES</externallink>
+<thumbnail>https://c2.staticflickr.com/6/5602/15700070751_479997f928.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
