@@ -1,0 +1,411 @@
+#EXTM3U
+#EXTINF:-1, [COLOR blue][B]---- 24 Hours ----[/B][/COLOR]
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x12 LEG-TV Dia 9: 10:00 p.m.-11:00 a.m. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x11 LEG-TV Dia 9: 09:00 p.m.-10:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x10 LEG-TV Dia 9: 08:00 p.m.-09:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x09 LEG-TV Dia 9: 07:00 p.m.-08:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x08 LEG-TV Dia 9: 06:00 p.m.-07:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x07 LEG-TV Dia 9: 05:00 p.m.-06:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x06 LEG-TV Dia 9: 04:00 p.m.-05:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x05 LEG-TV Dia 9: 03:00 p.m.-04:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x04 LEG-TV Dia 9: 02:00 p.m.-03:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x03 LEG-TV Dia 9: 01:00 p.m.-02:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x02 LEG-TV Dia 9: 12:00 p.m.-01:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 9x01 LEG-TV Dia 9: 11:00 a.m.-12:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS09EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x24 LEG-TV Dia 8: 03:00 p.m.-04:00 p.m. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x23 LEG-TV Dia 8: 02:00 p.m.-03:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x22 LEG-TV Dia 8: 01:00 p.m.-02:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x21 LEG-TV Dia 8: 12:00 p.m.-01:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x20 LEG-TV Dia 8: 11:00 a.m.-12:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x19 LEG-TV Dia 8: 10:00 a.m.-11:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x18 LEG-TV Dia 8: 09:00 a.m.-10:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x17 LEG-TV Dia 8: 08:00 a.m.-09:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x16 LEG-TV Dia 8: 07:00 a.m.-08:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x15 LEG-TV Dia 8: 06:00 a.m.-07:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x14 LEG-TV Dia 8: 05:00 a.m.-06:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x13 LEG-TV Dia 8: 04:00 a.m.-05:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x12 LEG-TV Dia 8: 03:00 a.m.-04:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x11 LEG-TV Dia 8: 02:00 a.m.-03:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x10 LEG-TV Dia 8: 01:00 a.m.-02:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x09 LEG-TV Dia 8: 12:00 a.m.-01:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x08 LEG-TV Dia 8: 11:00 p.m.-12:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x07 LEG-TV Dia 8: 10:00 p.m.-11:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x06 LEG-TV Dia 8: 09:00 p.m.-10:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x05 LEG-TV Dia 8: 08:00 p.m.-09:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x04 LEG-TV Dia 8: 07:00 p.m.-08:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x03 LEG-TV Dia 8: 06:00 p.m.-07:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x02 LEG-TV Dia 8: 05:00 p.m.-06:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 8x01 LEG-TV Dia 8: 04:00 p.m.-05:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS08EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x24 LEG-TV Dia 7: 07:00 a.m.-08:00 a.m. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x23 LEG-TV Dia 7: 06:00 a.m.-07:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x22 LEG-TV Dia 7: 05:00 a.m.-06:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x21 LEG-TV Dia 7: 04:00 a.m.-05:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x20 LEG-TV Dia 7: 03:00 a.m.-04:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x19 LEG-TV Dia 7: 02:00 a.m.-03:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x18 LEG-TV Dia 7: 01:00 a.m.-02:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x17 LEG-TV Dia 7: 12:00 a.m.-01:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x16 LEG-TV Dia 7: 11:00 p.m.-12:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x15 LEG-TV Dia 7: 10:00 p.m.-11:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x14 LEG-TV Dia 7: 09:00 p.m.-10:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x13 LEG-TV Dia 7: 08:00 p.m.-09:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x12 LEG-TV Dia 7: 07:00 p.m.-08:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x11 LEG-TV Dia 7: 06:00 p.m.-07:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x10 LEG-TV Dia 7: 05:00 p.m.-06:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x09 LEG-TV Dia 7: 04:00 p.m.-05:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x08 LEG-TV Dia 7: 03:00 p.m.-04:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x07 LEG-TV Dia 7: 02:00 p.m.-03:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x06 LEG-TV Dia 7: 01:00 p.m.-02:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x05 LEG-TV Dia 7: 12:00 p.m.-01:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x04 LEG-TV Dia 7: 11:00 a.m.-12:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x03 LEG-TV Dia 7: 10:00 a.m.-11:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x02 LEG-TV Dia 7: 09:00 a.m.-10:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 7x01 LEG-TV Dia 7: 08:00 a.m.-09:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS07EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x24 LEG-TV Dia 6: 05:00 a.m.-06:00 a.m. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x23 LEG-TV Dia 6: 04:00 a.m.-05:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x22 LEG-TV Dia 6: 03:00 a.m.-04:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x21 LEG-TV Dia 6: 02:00 a.m.-03:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x20 LEG-TV Dia 6: 01:00 a.m.-02:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x19 LEG-TV Dia 6: 12:00 a.m.-01:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x18 LEG-TV Dia 6: 11:00 p.m.-12:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x17 LEG-TV Dia 6: 10:00 p.m.-11:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x16 LEG-TV Dia 6: 09:00 p.m.-10:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x15 LEG-TV Dia 6: 08:00 p.m.-09:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x14 LEG-TV Dia 6: 07:00 p.m.-08:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x13 LEG-TV Dia 6: 06:00 p.m.-07:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x12 LEG-TV Dia 6: 05:00 p.m.-06:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x11 LEG-TV Dia 6: 04:00 p.m.-05:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x10 LEG-TV Dia 6: 03:00 p.m.-04:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x09 LEG-TV Dia 6: 02:00 p.m.-03:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x08 LEG-TV Dia 6: 01:00 p.m.-02:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x07 LEG-TV Dia 6: 12:00 p.m.-01:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x06 LEG-TV Dia 6: 11:00 a.m.-12:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x05 LEG-TV Dia 6: 10:00 a.m.-11:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x04 LEG-TV Dia 6: 09:00 a.m.-10:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x03 LEG-TV Dia 6: 08:00 a.m.-09:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x02 LEG-TV Dia 6: 07:00 a.m.-08:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 6x01 LEG-TV Dia 6: 06:00 a.m.-07:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS06EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x24 LEG-TV Dia 5: 06:00 a.m.-07:00 a.m. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x23 LEG-TV Dia 5: 05:00 a.m.-06:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x22 LEG-TV Dia 5: 04:00 a.m.-05:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x21 LEG-TV Dia 5: 03:00 a.m.-04:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x20 LEG-TV Dia 5: 02:00 a.m.-03:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x19 LEG-TV Dia 5: 01:00 a.m.-02:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x18 LEG-TV Dia 5: 12:00 a.m.-01:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x17 LEG-TV Dia 5: 11:00 p.m.-12:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x16 LEG-TV Dia 5: 10:00 p.m.-11:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x15 LEG-TV Dia 5: 09:00 p.m.-10:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x14 LEG-TV Dia 5: 08:00 p.m.-09:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x13 LEG-TV Dia 5: 07:00 p.m.-08:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x12 LEG-TV Dia 5: 06:00 p.m.-07:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x11 LEG-TV Dia 5: 05:00 p.m.-06:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x10 LEG-TV Dia 5: 04:00 p.m.-05:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x09 LEG-TV Dia 5: 03:00 p.m.-04:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x08 LEG-TV Dia 5: 02:00 p.m.-03:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x07 LEG-TV Dia 5: 01:00 p.m.-02:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x06 LEG-TV Dia 5: 12:00 p.m.-01:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x05 LEG-TV Dia 5: 11:00 a.m.-12:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x04 LEG-TV Dia 5: 10:00 a.m.-11:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x03 LEG-TV Dia 5: 09:00 a.m.-10:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x02 LEG-TV Dia 5: 08:00 a.m.-09:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 5x01 LEG-TV Dia 5: 07:00 a.m.-08:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS05EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x24 LEG-TV Dia 4: 06:00 a.m.-07:00 a.m. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x23 LEG-TV Dia 4: 05:00 a.m.-06:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x22 LEG-TV Dia 4: 04:00 a.m.-05:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x21 LEG-TV Dia 4: 03:00 a.m.-04:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x20 LEG-TV Dia 4: 02:00 a.m.-03:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x19 LEG-TV Dia 4: 01:00 a.m.-02:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x18 LEG-TV Dia 4: 12:00 a.m.-01:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x17 LEG-TV Dia 4: 11:00 p.m.-12:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x16 LEG-TV Dia 4: 10:00 p.m.-11:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x15 LEG-TV Dia 4: 09:00 p.m.-10:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x14 LEG-TV Dia 4: 08:00 p.m.-09:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x13 LEG-TV Dia 4: 07:00 p.m.-08:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x12 LEG-TV Dia 4: 06:00 p.m.-07:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x11 LEG-TV Dia 4: 05:00 p.m.-06:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x10 LEG-TV Dia 4: 04:00 p.m.-05:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x09 LEG-TV Dia 4: 03:00 p.m.-04:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x08 LEG-TV Dia 4: 02:00 p.m.-03:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x07 LEG-TV Dia 4: 01:00 p.m.-02:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x06 LEG-TV Dia 4: 12:00 p.m.-01:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x05 LEG-TV Dia 4: 11:00 a.m.-12:00 p.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x04 LEG-TV Dia 4: 10:00 a.m.-11:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x03 LEG-TV Dia 4: 09:00 a.m.-10:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x02 LEG-TV Dia 4: 08:00 a.m.-09:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 4x01 LEG-TV Dia 4: 07:00 a.m.-08:00 a.m.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS04EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x24 LEG-TV Day 3: 12:00 P.M.-1:00 P.M. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x23 LEG-TV Day 3: 11:00 A.M.-12:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x22 LEG-TV Day 3: 10:00 A.M.-11:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x21 LEG-TV Day 3: 9:00 A.M.-10:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x20 LEG-TV Day 3: 8:00 A.M.-9:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x19 LEG-TV Day 3: 7:00 A.M.-8:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x18 LEG-TV Day 3: 6:00 A.M.-7:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x17 LEG-TV Day 3: 5:00 A.M.-6:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x16 LEG-TV Day 3: 4:00 A.M.-5:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x15 LEG-TV Day 3: 3:00 A.M.-4:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x14 LEG-TV Day 3: 2:00 A.M.-3:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x13 LEG-TV Day 3: 1:00 A.M.-2:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x12 LEG-TV Day 3: 12:00 A.M.-1:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x11 LEG-TV Day 3: 11:00 P.M.-12:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x10 LEG-TV Day 3: 10:00 P.M.-11:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x09 LEG-TV Day 3: 9:00 P.M.-10:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x08 LEG-TV Day 3: 8:00 P.M.-9:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x07 LEG-TV Day 3: 7:00 P.M.-8:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x06 LEG-TV Day 3: 6:00 P.M.-7:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x05 LEG-TV Day 3: 5:00 P.M.-6:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x04 LEG-TV Day 3: 4:00 P.M.-5:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x03 LEG-TV Day 3: 3:00 P.M.-4:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x02 LEG-TV Day 3: 2:00 P.M.-3:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 3x01 LEG-TV Day 3: 1:00 P.M.-2:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS03EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x24 LEG-TV Day 2: 7:00 A.M.-8:00 A.M. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x23 LEG-TV Day 2: 6:00 A.M.-7:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x22 LEG-TV Day 2: 5:00 A.M.-6:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x21 LEG-TV Day 2: 4:00 A.M.-5:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x20 LEG-TV Day 2: 3:00 A.M.-4:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x19 LEG-TV Day 2: 2:00 A.M.-3:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x18 LEG-TV Day 2: 1:00 A.M.-2:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x17 LEG-TV Day 2: 12:00 A.M.-1:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x16 LEG-TV Day 2: 11:00 P.M.-12:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x15 LEG-TV Day 2: 10:00 P.M.-11:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x14 LEG-TV Day 2: 9:00 P.M.-10:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x13 LEG-TV Day 2: 8:00 P.M.-9:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x12 LEG-TV Day 2: 7:00 P.M.-8:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x11 LEG-TV Day 2: 6:00 P.M.-7:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x10 LEG-TV Day 2: 5:00 P.M.-6:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x09 LEG-TV Day 2: 4:00 P.M.-5:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x08 LEG-TV Day 2: 3:00 P.M.-4:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x07 LEG-TV Day 2: 2:00 P.M.-3:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x06 LEG-TV Day 2: 1:00 P.M.-2:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x05 LEG-TV Day 2: 12:00 P.M.-1:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x04 LEG-TV Day 2: 11:00 A.M.-12:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x03 LEG-TV Day 2: 10:00 A.M.-11:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x02 LEG-TV Day 2: 9:00 A.M.-10:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 2x01 LEG-TV Day 2: 8:00 A.M.-9:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS02EP01.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x24 LEG-TV 11:00 P.M.-12:00 A.M. – Season Finale
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP24.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x23 LEG-TV 10:00 P.M.-11:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP23.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x22 LEG-TV 9:00 P.M.-10:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP22.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x21 LEG-TV 8:00 P.M.-9:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP21.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x20 LEG-TV 7:00 P.M.-8:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP20.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x19 LEG-TV 6:00 P.M.-7:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP19.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x18 LEG-TV 5:00 P.M.-6:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP18.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x17 LEG-TV 4:00 P.M.-5:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP17.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x16 LEG-TV 3:00 P.M.-4:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP16.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x15 LEG-TV 2:00 P.M.-3:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP15.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x14 LEG-TV 1:00 P.M.-2:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP14.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x13 LEG-TV 12:00 P.M.-1:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP13.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x12 LEG-TV 11:00 A.M.-12:00 P.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP12.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x11 LEG-TV 10:00 A.M.-11:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP11.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x10 LEG-TV 9:00 A.M.-10:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP10.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x09 LEG-TV 8:00 A.M.-9:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP09.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x08 LEG-TV 7:00 A.M.-8:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP08.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x07 LEG-TV 6:00 A.M.-7:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP07.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x06 LEG-TV 5:00 A.M.-6:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP06.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x05 LEG-TV 4:00 A.M.-5:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP05.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x04 LEG-TV 3:00 A.M.-4:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP04.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x03 LEG-TV 2:00 A.M.-3:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP03.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x02 LEG-TV 1:00 A.M.-2:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP02.mp4?ONSeries
+#EXTINF:-1 tvg-logo="https://goo.gl/MKPBdw" group-title="24Hrs Legendado",24Hrs 1x01 LEG-TV 12:00 A.M.-1:00 A.M.
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/24HORASS01EP01.mp4?ONSeries
