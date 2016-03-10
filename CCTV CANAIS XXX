@@ -4,6 +4,13 @@
 <channel>
 <item>
 <parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I] XXX CHANNEL [/I][/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=fox</sportsdevil>
+<referer>http://www.desportonline.net/</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0Dm5va_elS_WIXuQEhdrbnc2wRmrcdeYtWCdhuYVgJ9sdVKE</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
 <title>[COLOR red][B][I]HOT [/I][/B][/COLOR]</title>
 <sportsdevil>http://www.desportonline.net/index.php?canal=hot</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
