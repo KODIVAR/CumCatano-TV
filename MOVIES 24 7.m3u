@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]--- MOVIES 24/7 ---[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1,Movie THRILLER
+http://bit.ly/21Ip51s
+#EXTINF:-1,Movie PREMIUM
+http://bit.ly/1WVENTz
+#EXTINF:-1,mms crime movies
+mms://72.13.93.186/crimemovies
+#EXTINF:-1,mms best oldies movies
+mms://72.13.93.186/bestoldies
+#EXTINF:-1,mms western movies
+mms://72.13.93.186/westernsmovies
+#EXTINF:-1,mms movie lovers
+mms://72.13.93.186/movielovers
+#EXTINF:-1,mms family movies
+mms://72.13.93.186/familymovies
+#EXTINF:-1,mms drama movies
+mms://72.13.93.186/dramamovies
+#EXTINF:-1,mms comedy movies
+mms://72.13.93.186/comedymovies
+#EXTINF:-1,mms movies of the 60s 70s 80s
+mms://72.13.93.186/moviesofthe60s70s80s
+#EXTINF:-1,mms classic movies
+mms://72.13.93.186/CLASSICMOVIES
+#EXTINF:-1,mms classic book movies
+mms://72.13.93.186/classicbookmovies
+#EXTINF:-1,mms blockbuster
+mms://72.13.93.186/BLOCKBUSTER
+#EXTINF:-1,mms adventure movies
+mms://72.13.93.186/adventuremovies
+#EXTINF:-1,mms action movies
+mms://72.13.93.186/actionmovies
+#EXTINF:-1,mms sifi
+mms://72.13.93.186/sifi
+#EXTINF:-1,mms john wayne
+mms://72.13.93.186/JOHNWAYNE
+#EXTINF:-1,mms mystery movies
+mms://72.13.93.186/mysterymovies
+#EXTINF:-1,mms history in film
+mms://72.13.93.186/historyinfilm
+#EXTINF:-1,mms western action
+mms://72.13.93.186/westernaction
+#EXTINF:-1,mms victory at sea
+mms://72.13.93.186/victoryatsea
+#EXTINF:-1,mms adventurous women
+mms://72.13.93.186/adventurouswomen
+#EXTINF:-1,mms why we fight
+mms://72.13.93.186/whywefight
+#EXTINF:-1,mms sheriff of cochise
+mms://72.13.93.186/sheriffofcochise
+#EXTINF:-1,mms hoppity hooper
+mms://72.13.93.186/hoppityhooper
+#EXTINF:-1,mms color westerns
+mms://72.13.93.186/colorwesterns
+#EXTINF:-1,mms war movies
+mms://72.13.93.186/warmovies
+#EXTINF:-1,mms sherlock holmes
+mms://72.13.93.186/sherlockholmes
+#EXTINF:-1,mms ozzie
+mms://72.13.93.186/ozzie
+#EXTINF:-1,mms murder my steries
+mms://72.13.93.186/murdermysteries
+#EXTINF:-1,mms lawan dorder
+mms://72.13.93.186/lawandorder
+#EXTINF:-1,mms tv detectives
+mms://72.13.93.186/tvdetectives	
+
+
