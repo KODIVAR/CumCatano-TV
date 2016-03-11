@@ -27,6 +27,9 @@ plugin://plugin.video.youtube/play/?video_id=YRjKlZiGHQI
 #EXTINF:-1 tvg-logo="http://primusville.com/images/meta-image.jpg", Primus - Orpheum Theatre LA (19/09/2015)
 plugin://plugin.video.youtube/play/?video_id=A_LdYhjDxZc
 
+#EXTINF:-1 tvg-logo="http://cdn-img.easylogo.cn/gif/51/51951.gif", Fantômas - The Director's Cut Live
+plugin://plugin.video.youtube/play/?video_id=0OaASobS2eM
+
 #EXTINF:-1 tvg-logo="http://true.16mb.com/img/band/pantera.png", PANTERA - Vulgar Video
 plugin://plugin.video.youtube/play/?video_id=uvlaDaa0ycA
 
