@@ -1,1 +1,7 @@
-
+#EXTM3U
+#EXTINF:-1, Balas & Bolinhos I  
+plugin://plugin.video.youtube/play/?video_id=gjzRS2bJ6PY
+#EXTINF:-1, Balas & Bolinhos 2 - O Regresso
+plugin://plugin.video.youtube/play/?video_id=uoVjWD6TypQ
+#EXTINF:-1, Balas e Bolinhos 3 O Último Capítulo
+plugin://plugin.video.youtube/play/?video_id=ZV-vR6H8Fc0
