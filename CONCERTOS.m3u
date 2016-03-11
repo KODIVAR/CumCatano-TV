@@ -45,6 +45,9 @@ plugin://plugin.video.youtube/play/?video_id=0OaASobS2eM
 #EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/5ZtfFAq.png", Alice in Chains - Kemper Arena, Kansas City (03/07/1996)
 plugin://plugin.video.youtube/play/?video_id=OYrBqO45PTk
 
+#EXTINF:-1 tvg-logo="http://s3.amazonaws.com/juliankeenaghan_test_1/choices/1754/large.jpg?1370674237", PEARL JAM - PINKPOP 1992 
+plugin://plugin.video.youtube/play/?video_id=PM_VIATPYQc
+
 #EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/61evbZa%2B-WL.gif", Stone Temple Pilots - Toronto, Canada (20/10/1993)
 plugin://plugin.video.youtube/play/?video_id=6MXCXWLhQyI
 
