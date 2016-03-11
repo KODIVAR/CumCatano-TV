@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/RoLzqso_bsk/maxresdefault.jpg", MIKE PATTON - MONDO CANE
 plugin://plugin.video.youtube/play/?video_id=YRjKlZiGHQI
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_-iv4MGr8BTbiqyboKGwPVLPfRB9PyZ4Ik5HmpmEpfUW0RgGY", Buena Vista Social Club @ Festival Suds a Arles 
+plugin://plugin.video.youtube/play/?video_id=ItUiAWmnDbg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nwOsiMJtMCXOC0MQUa0ELVCaLqFWGnSchUcRXnXAVCRifK28Jw", Queen - live at Wembley Stadium 12/07/1986
+plugin://plugin.video.youtube/play/?video_id=oOpia8OTzzE
+
+#EXTINF:-1 tvg-logo="http://musica.culturamix.com/blog/wp-content/gallery/fim-do-pink-floyd-banda-de-rock-britanica-3/Fim-do-Pink-Floyd-6.jpg", Pink Floyd - Liverpool (2011)
+plugin://plugin.video.youtube/play/?video_id=qYbm096uzEc
+
 #EXTINF:-1 tvg-logo="http://true.16mb.com/img/band/pantera.png", PANTERA - Vulgar Video
 plugin://plugin.video.youtube/play/?video_id=uvlaDaa0ycA
 
@@ -12,8 +21,4 @@ plugin://plugin.video.youtube/play/?video_id=d7D0P1eWofE
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x35PwJ6C_Jc/maxresdefault.jpg", System Of A Down - Rock In Rio 2015
 plugin://plugin.video.youtube/play/?video_id=zEDkj3Y0_H0
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nwOsiMJtMCXOC0MQUa0ELVCaLqFWGnSchUcRXnXAVCRifK28Jw", Queen - live at Wembley Stadium 12/07/1986
-plugin://plugin.video.youtube/play/?video_id=oOpia8OTzzE
 
-#EXTINF:-1 tvg-logo="http://musica.culturamix.com/blog/wp-content/gallery/fim-do-pink-floyd-banda-de-rock-britanica-3/Fim-do-Pink-Floyd-6.jpg", Pink Floyd - Liverpool (2011)
-plugin://plugin.video.youtube/play/?video_id=qYbm096uzEc
