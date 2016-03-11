@@ -6,7 +6,7 @@ plugin://plugin.video.vimeo/play/?video_id=147175166
 plugin://plugin.video.youtube/play/?video_id=An3ONSvh9ZM
 #EXTINF:-1,[COLOR blue]Tom Sawyer Ep 03 Amor à primeira vista[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=v50jQ4FZflQ
-#EXTINF:-1,[COLOR blue]Tom Sawyer Ep 04 O feitiço-Ike [/COLOR]
+#EXTINF:-1,[COLOR blue]Tom Sawyer Ep 04 O feitiço[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=ZL2XsIGKQI4
 #EXTINF:-1,[COLOR blue]Tom Sawyer Ep 05 A Becky não se lembra de mim[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=CzHq5snlvAU
@@ -52,9 +52,9 @@ plugin://plugin.video.youtube/play/?video_id=Pfd8MvDT9Hk
 plugin://plugin.video.youtube/play/?video_id=_mNEWfok9tg
 #EXTINF:-1,[COLOR blue]Tom Sawyer Ep 26 Risetta, a pequena actriz[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=eNavuSi4jI4
-#EXTINF:-1,[COLOR blue]Tom Sawyer Ep 27 Antes da peça começar/COLOR]
+#EXTINF:-1,[COLOR blue]Tom Sawyer Ep 27 Antes da peça começar[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=mbIGXeRroT4
-#EXTINF:-1,[COLOR blue]Tom Sawyer Ep 28 Ajudem a Risetta/COLOR]
+#EXTINF:-1,[COLOR blue]Tom Sawyer Ep 28 Ajudem a Risetta[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=qtEZBKCLARM&feature=youtu.be
 #EXTINF:-1,[COLOR blue]Tom Sawyer Ep 29 Adeus Risetta[/COLOR]
 plugin://plugin.video.youtube/play/?video_id=SazgR0S7QzA
