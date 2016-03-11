@@ -12,6 +12,12 @@ plugin://plugin.video.youtube/play/?video_id=oOpia8OTzzE
 #EXTINF:-1 tvg-logo="http://musica.culturamix.com/blog/wp-content/gallery/fim-do-pink-floyd-banda-de-rock-britanica-3/Fim-do-Pink-Floyd-6.jpg", Pink Floyd - Liverpool (2011)
 plugin://plugin.video.youtube/play/?video_id=qYbm096uzEc
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXCgV4pTcokJsB83LTkt1idK0BLG1nON7rMhQ8VGddUpvsZxN5", ERIC CLAPTON Live at Budokan, Tokyo, 2001
+plugin://plugin.video.youtube/play/?video_id=3FE70D5mRp0
+
+#EXTINF:-1 tvg-logo="http://www.famous-people-search.com/phil_collins/phil_collins_wallpaper/phil_collins_wallpaper_800x600_001.jpg", Phil Collins Live At Montreux 2004
+plugin://plugin.video.youtube/play/?video_id=RRB2QYBED0k
+
 #EXTINF:-1 tvg-logo="http://true.16mb.com/img/band/pantera.png", PANTERA - Vulgar Video
 plugin://plugin.video.youtube/play/?video_id=uvlaDaa0ycA
 
