@@ -9,6 +9,9 @@ plugin://plugin.video.youtube/play/?video_id=ItUiAWmnDbg
 #EXTINF:-1 tvg-logo="http://i1.ytimg.com/vi/0xJS54vlFFc/hqdefault.jpg", Dave Matthews Band - West Palm Beach (31/07/2015)
 plugin://plugin.video.youtube/play/?video_id=ft0My5DZi9k
 
+#EXTINF:-1 tvg-logo="http://joshuaturnbull.co.uk/wp-content/uploads/2011/04/arctic-monkeys.png", Arctic Monkeys - Reading Festival (2014)
+plugin://plugin.video.youtube/play/?video_id=HwINhUczIlY
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nwOsiMJtMCXOC0MQUa0ELVCaLqFWGnSchUcRXnXAVCRifK28Jw", Queen - live at Wembley Stadium 12/07/1986
 plugin://plugin.video.youtube/play/?video_id=oOpia8OTzzE
 
@@ -27,14 +30,29 @@ plugin://plugin.video.youtube/play/?video_id=YRjKlZiGHQI
 #EXTINF:-1 tvg-logo="http://primusville.com/images/meta-image.jpg", Primus - Orpheum Theatre LA (19/09/2015)
 plugin://plugin.video.youtube/play/?video_id=A_LdYhjDxZc
 
+#EXTINF:-1 tvg-logo="http://faithnomore.zip.net/images/papel2.JPG", Faith No More - Bizarre Festival, Germany (1997)
+plugin://plugin.video.youtube/play/?video_id=d7D0P1eWofE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/MrBungle-MrBungle.jpg", Mr Bungle - The Warfield, San Francisco (20/04/1992)
+plugin://plugin.video.youtube/play/?video_id=Vs3hjVkHHwk
+
+#EXTINF:-1 tvg-logo="http://img2-ak.lst.fm/i/u/300x300/ce7e854f6ef041a6b143db9730283ee5.jpg", Tomahawk - Portugal (2013)
+plugin://plugin.video.youtube/play/?video_id=39ZHfYo_248
+
 #EXTINF:-1 tvg-logo="http://cdn-img.easylogo.cn/gif/51/51951.gif", Fantômas - The Director's Cut Live
 plugin://plugin.video.youtube/play/?video_id=0OaASobS2eM
 
+#EXTINF:-1 tvg-logo="http://wallpapercave.com/wp/5ZtfFAq.png", Alice in Chains - Kemper Arena, Kansas City (03/07/1996)
+plugin://plugin.video.youtube/play/?video_id=OYrBqO45PTk
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/61evbZa%2B-WL.gif", Stone Temple Pilots - Toronto, Canada (20/10/1993)
+plugin://plugin.video.youtube/play/?video_id=6MXCXWLhQyI
+
+#EXTINF:-1 tvg-logo="https://bandlogos.files.wordpress.com/2011/09/soundgarden_logo.jpg", Soundgarden - San Francisco, CA (04/19/1992)
+plugin://plugin.video.youtube/play/?video_id=FtRCJxhtDio
+
 #EXTINF:-1 tvg-logo="http://true.16mb.com/img/band/pantera.png", PANTERA - Vulgar Video
 plugin://plugin.video.youtube/play/?video_id=uvlaDaa0ycA
-
-#EXTINF:-1 tvg-logo="http://faithnomore.zip.net/images/papel2.JPG", Faith No More - Bizarre Festival, Germany (1997)
-plugin://plugin.video.youtube/play/?video_id=d7D0P1eWofE
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x35PwJ6C_Jc/maxresdefault.jpg", System Of A Down - Rock In Rio 2015
 plugin://plugin.video.youtube/play/?video_id=zEDkj3Y0_H0
