@@ -27,6 +27,15 @@ plugin://plugin.video.youtube/play/?video_id=RRB2QYBED0k
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/4e/75/72/4e7572bf1c1bc64b419867666f1d0bfb.jpg", U2 - Glastonbury 2011
 plugin://plugin.video.youtube/play/?video_id=YRjKlZiGHQI
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/f3/47/66/f34766e936e487e7b5e36cb387af5478.jpg", Foo Fighters live @ T in the Park 2011
+plugin://plugin.video.youtube/play/?video_id=ogwR166Fhmg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzAA3S627S-rgi9bTowOEerF07hm7ckBZUy5weq-aY0ZIj09xq", Audioslave - Lollapaloza, Philadelphia 2003 
+plugin://plugin.video.youtube/play/?video_id=EU9e1SA3O9Y
+
+#EXTINF:-1 tvg-logo="https://frasesdavida.files.wordpress.com/2012/08/capa_rage_corrigido.jpg", Rage Against the Machine - Woodstock 99
+plugin://plugin.video.youtube/play/?video_id=F9S-JVKw0mE
+
 #EXTINF:-1 tvg-logo="http://primusville.com/images/meta-image.jpg", Primus - Orpheum Theatre LA (19/09/2015)
 plugin://plugin.video.youtube/play/?video_id=A_LdYhjDxZc
 
