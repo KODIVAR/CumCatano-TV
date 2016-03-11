@@ -2,10 +2,17 @@
 
 <item>
 <channel>
-<title>[COLOR blue][B][I]SERIES[/I][/B][/COLOR]</title>
+<title>[COLOR gren][B][I]SERIES[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/STV%20SERIES</externallink>
 <thumbnail>http://novovision.tv/wp-content/uploads/bfi_thumb/Logo_smile1-lwl7kxud2mtxhc75637dkpb5u3njiz1p2ek8y4qcio.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR orange][B]FILMES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/STV%20FILMES.m3u</externallink>
+<thumbnail>http://www.mixordias.com/content/uploads//settings/541c19df4c8a0-logo.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
