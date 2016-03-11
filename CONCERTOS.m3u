@@ -6,8 +6,8 @@ plugin://plugin.video.youtube/play/?video_id=YRjKlZiGHQI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_-iv4MGr8BTbiqyboKGwPVLPfRB9PyZ4Ik5HmpmEpfUW0RgGY", Buena Vista Social Club @ Festival Suds a Arles 
 plugin://plugin.video.youtube/play/?video_id=ItUiAWmnDbg
 
-#EXTINF:-1 tvg-logo="http://i1.ytimg.com/vi/0xJS54vlFFc/hqdefault.jpg", Dave Matthews Band - Colorado (29/08/2015)
-plugin://plugin.video.youtube/play/?video_id=rQTjQJNgw1Q
+#EXTINF:-1 tvg-logo="http://i1.ytimg.com/vi/0xJS54vlFFc/hqdefault.jpg", Dave Matthews Band - West Palm Beach (31/07/2015)
+plugin://plugin.video.youtube/play/?video_id=ft0My5DZi9k
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nwOsiMJtMCXOC0MQUa0ELVCaLqFWGnSchUcRXnXAVCRifK28Jw", Queen - live at Wembley Stadium 12/07/1986
 plugin://plugin.video.youtube/play/?video_id=oOpia8OTzzE
