@@ -1,71 +1,42 @@
-#version=1
-background=http://novovision.tv/wp-content/uploads/bfi_thumb/Logo_smile1-lwl7kxud2mtxhc75637dkpb5u3njiz1p2ek8y4qcio.png
-logo=http://www.emofaces.com/png/200/smilies/tv.png
-title=[COLOR green]SKETCHES[/COLOR]
- 
-#
-type=video
-name=Melhores Apanhados e Imprevistos da TV - É Só RIR 
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=I1oJf46u_bs
-#
-type=video
-name=APANHADOS TVI - Parte 5 
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=eddVww_Y--g
-#
-type=video
-name=Apanhados da Tv Portuguesa 2014 
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=E0Y7jo3TN00
-#
-type=video
-name=APANHADOS TVI - Parte 9 
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=36D6YHhBr4g
-#
-type=video
-name=APANHADOS TVI - Parte 10
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=DHCmhhLmVP4
-#
-type=video
-name=APANHADOS TVI - Parte 3 
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=fJrJ7uH13Ow
-#
-type=video
-name=Apanhados TVI - Os Melhores! 
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=qkPs2TcYlDM
-#
-type=video
-name=
-thumb=http://3.bp.blogspot.com/-t9e7S8huhaQ/VBMVN6CbNGI/AAAAAAAAA14/02am46_jiJM/s1600/Big_smile.png
-URL=plugin://plugin.video.youtube/play/?video_id=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
+#EXTM3U
+#EXTINF:-1, Fernando Rocha Ao Vivo No Teatro Sa da Bandeira 
+plugin://plugin.video.youtube/play/?video_id=6HYMZ82MmM4
+#EXTINF:-1, QUIM ROSCAS E ZECA ESTACIONÂNCIO AO VIVO - 2010
+plugin://plugin.video.youtube/play/?video_id=UgkWqHu2tz0
+#EXTINF:-1, Anedotas Portuguesas (Aldo Lima/Fernando Rocha) 
+plugin://plugin.video.youtube/play/?video_id=OQMDfLn9HFM
+#EXTINF:-1, Melhores Apanhados e Imprevistos da TV - É Só RIR 
+plugin://plugin.video.youtube/play/?video_id=I1oJf46u_bs
+#EXTINF:-1, Apanhados da Tv Portuguesa 2014 
+plugin://plugin.video.youtube/play/?video_id=E0Y7jo3TN00
+#EXTINF:-1, Apanhados TVI - Os Melhores! 
+plugin://plugin.video.youtube/play/?video_id=qkPs2TcYlDM
+#EXTINF:-1, APANHADOS TVI - Parte 1
+plugin://plugin.video.youtube/play/?video_id=0m95dTDRZU4
+#EXTINF:-1, APANHADOS TVI - Parte 2
+plugin://plugin.video.youtube/play/?video_id=dCcnhN7q1DY
+#EXTINF:-1, APANHADOS TVI - Parte 3 
+plugin://plugin.video.youtube/play/?video_id=fJrJ7uH13Ow
+#EXTINF:-1, APANHADOS TVI - Parte 4
+plugin://plugin.video.youtube/play/?video_id=08U_fWxK92M
+#EXTINF:-1, APANHADOS TVI - Parte 5 
+plugin://plugin.video.youtube/play/?video_id=eddVww_Y--g
+#EXTINF:-1, APANHADOS TVI - Parte 6
+plugin://plugin.video.youtube/play/?video_id=OYYfGyigJiY
+#EXTINF:-1, APANHADOS TVI - Parte 7
+plugin://plugin.video.youtube/play/?video_id=eqtpAhu7qCU
+#EXTINF:-1, APANHADOS TVI - Parte 8
+plugin://plugin.video.youtube/play/?video_id=3V49YLsW5jc
+#EXTINF:-1, APANHADOS TVI - Parte 9 
+plugin://plugin.video.youtube/play/?video_id=36D6YHhBr4g
+#EXTINF:-1, APANHADOS TVI - Parte 10
+plugin://plugin.video.youtube/play/?video_id=DHCmhhLmVP4
+#EXTINF:-1, Compilação APANHADOS TVI 
+plugin://plugin.video.youtube/play/?video_id=t4fevHTEI-8
+#EXTINF:-1, APANHADOS PORTO CANAL (2007)
+plugin://plugin.video.youtube/play/?video_id=4wBlUX3gUIA
+#EXTINF:-1, APANHADOS PORTO CANAL (2008)
+plugin://plugin.video.youtube/play/?video_id=ACGlyOOOEiY
+#EXTINF:-1, APANHADOS PORTO CANAL 2009/2010 
+plugin://plugin.video.youtube/play/?video_id=qGwHkxbBT3w
+
