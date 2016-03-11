@@ -1,51 +1,22 @@
-#version=1
-background=https://s-media-cache-ak0.pinimg.com/736x/87/c8/e3/87c8e331b2b6ed58bcb90a5a04b1d818.jpg
-logo=http://4.bp.blogspot.com/_NptHNW6lW4Q/TUcAn74sccI/AAAAAAAAAIU/D_Jkvb_uZkY/s1600/163709772_b97119c3ed.jpg
-title=[COLOR red]KIDS SERIES[/COLOR]
+#EXTM3U
 
-#
-type=video
-name=Tom & Jerry
-thumb=http://redhot-fancydress.co.uk/store/images/uploads/Tom%20&%20Jerry%20Logo.jpg
-URL=rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1 
-#
-type=video
-name=CARTOON CLASSICS 24/7
-thumb=http://4.bp.blogspot.com/-FOBnyTpayfI/VN-hHMTEy8I/AAAAAAAADaw/yBJSZUq76YY/s1600/cartoon-network.jpg
-URL=mms://72.13.93.186/cartoonclassics
-#
-type=video
-name=South Park
-thumb=http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg
-URL=http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
-#
-type=video
-name=South Park (PT/BR)
-thumb=http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg
-URL=rtmp://208.53.164.194/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
-#
-type=video
-name=The Simpsons
-thumb=http://tvfiles.alphacoders.com/145/clearart-145.png
-URL=http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
-#
-type=video
-name=Dragon Ball Z
-thumb=http://images1.wikia.nocookie.net/__cb20120921154236/dragonball/es/images/e/ef/DBZ.png
-URL=rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
-#
-type=video
-name=Batman
-thumb=http://www.cartoonpics.net/data/media/14/batman_cartoon_images_wallpaper.jpg
-URL=rtmp://208.53.180.178/ctv playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/batman.html
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
+#EXTINF:-1 tvg-logo="http://redhot-fancydress.co.uk/store/images/uploads/Tom%20&%20Jerry%20Logo.jpg", Tom & Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1 
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FOBnyTpayfI/VN-hHMTEy8I/AAAAAAAADaw/yBJSZUq76YY/s1600/cartoon-network.jpg", CARTOON CLASSICS 24/7
+mms://72.13.93.186/cartoonclassics
+
+#EXTINF:-1 tvg-logo="http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg", South Park
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg", South Park (PT/BR)
+rtmp://208.53.164.194/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+
+#EXTINF:-1 tvg-logo="http://tvfiles.alphacoders.com/145/clearart-145.png", The Simpsons
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://images1.wikia.nocookie.net/__cb20120921154236/dragonball/es/images/e/ef/DBZ.png", Dragon Ball Z
+rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://www.cartoonpics.net/data/media/14/batman_cartoon_images_wallpaper.jpg", Batman
+rtmp://208.53.180.178/ctv playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/batman.html
