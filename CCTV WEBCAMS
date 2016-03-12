@@ -2,6 +2,13 @@
 
 <item>
 <channel>
+<title>[COLOR blue][B]WEBCAMS PRAIAS PT[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/WEBCAMS%20PRAIAS%20PT.m3u</externallink>
+<thumbnail>http://boasnoticias.pt/img/praiacaneiros.jpg.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
 <title>[COLOR blue][B]MyIPTV WEBCAMS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/webcamsmundoepraias.m3u</externallink>
