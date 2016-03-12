@@ -89,27 +89,75 @@
 </item>
 <item>
 <parentalblock>true</parentalblock>
-<title>[COLOR=red][B][I]XXX[/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR=red][B][I]Exotica tv *[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://8e5b1c32571780463569acf59966cf37b055f95b&mode=1&name=acestream&mode=1&name=Exotica tv *</link>
+<thumbnail>http://tuchkatv.ru/uploads/posts/2014-01/1390557590_exotica-tv.png</thumbnail>
 </item>
 <item>
 <parentalblock>true</parentalblock>
-<title>[COLOR=red][B][I]XXX[/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR=red][B][I]French Lover TV[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://a85ff6a64fa329569b45c8aef849c339bc5bab14&mode=1&name=acestream&mode=1&name=French Lover TV</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2014/11/flover-680x365.png</thumbnail>
 </item>
 <item>
 <parentalblock>true</parentalblock>
-<title>[COLOR=red][B][I]XXX[/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR=red][B][I]Hustler HD *[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://8935cf8549632ebc95bf66b1eaaa34da55328da5&mode=1&name=acestream&mode=1&name=Hustler HD *</link>
+<thumbnail>http://frocus.net/images/logotv/original/hustlerHD3D.jpg</thumbnail>
 </item>
 <item>
 <parentalblock>true</parentalblock>
-<title>[COLOR=red][B][I]XXX[/I][/B][/COLOR]</title>
+<title>[COLOR=red][B][I]Hustler TV Europe[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/400px-HustlerTV.svg.png</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Penthouse HD1[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link></link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/penthouse_hd.png</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Pink'O tv[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://58a309099b7617ecb76be501cdc17d27b162082f&mode=1&name=acestream&mode=1&name=Pink'O tv</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Pinko-TV-Italia_o.jpg</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Playboy[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://b4e04935ca568de49133d5b9c6fc1fc3ca37d69a&mode=1&name=acestream&mode=1&name=Playboy</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Playboy_TV_Logo.svg/839px-Playboy_TV_Logo.svg.png</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Private TV[[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://92f3a698f434d085bd4ff3656606b07d2e6edd43&mode=1&name=acestream&mode=1&name=Satisfaction HD *</link>
+<thumbnail>http://tuchkatv.ru/uploads/posts/2014-03/1393774351_private-tv.png</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Satisfaction HD *[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://ce53d55658744f629e5da5513d6815a5f2299413&mode=1&name=acestream&mode=1&name=Satisfaction HD *</link>
+<thumbnail>http://www.creativesatellite.co.uk/contents/media/l_scthd_solologo_bianco.jpg</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Sextosenso *[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://73cb2d73b07af2d88abd2adefdf4e425d2ed0324&mode=1&name=acestream&mode=1&name=Sextosenso *</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sexto-Senso_o.jpg</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]XXL HD[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://01533f0cea3ad3f3fdf6cfbfe9b8e29f8adf8509&mode=1&name=acestream&mode=1&name=Super One</link>
+<thumbnail>http://frocus.net/images/logotv/XXL.jpg</thumbnail>
+</item>
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR=red][B][I]Canal do Mendes e do Andre *[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://109db53831dfac87f57274e5527518a22a319a1c&mode=1&name=acestream&mode=1&name=Canal do Mendes e do Andre *</link>
+<thumbnail>http://en.kingofsat.net/jpg/sct.jpg</thumbnail>
 </item>
 <item>
 <parentalblock>true</parentalblock>
