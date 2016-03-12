@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:,LAGIDE E BAÍA - PENICHE [WEBCAM]
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:,LEÇA DA PALMEIRA - WEBCAM 
+http://213.13.26.7:1936/live/leca.stream/livestream.m3u8
+#EXTINF:,LIGA MOCHE SURFE - WEBCAM 
+http://213.13.26.7:1936/live/surfstream.stream/livestream.m3u8
+#EXTINF:,MATOSINHOS - WEBCAM
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:,MADEIRA JARDIM DO MAR [WEBCAM]
+http://213.13.26.7:1936/live/jardim.stream/livestream.m3u8
+#EXTINF:,PRAIA CARCAVELOS - WEBCAM
+http://213.13.26.7:1936/live/carcavelos.stream/livestream.m3u8
+#EXTINF:,PRAIA COSTA DA CAPARICA [WEBCAM]
+http://213.13.26.7:1936/live/costa.stream/livestream.m3u8
+#EXTINF:,PRAIA DA ERICEIRA [WEBCAM]
+http://130.185.85.5:1935/live/ericeira.stream/livestream.m3u8
+#EXTINF:,PRAIA DA ERICEIRA - WEBCAM
+http://213.13.26.7:1936/live/ericeira.stream/livestream.m3u8
+#EXTINF:,PRAIA DA LUZ - ALGARVE [WEBCAM]
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:,PRAIA DA LUZ - WEBCAM
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:,PRAIA DE AVEIRO - WEBCAM 
+http://213.13.26.7:1936/live/aveiro.stream/livestream.m3u8
+#EXTINF:,PRAIA DE CARCAVELOS [WEBCAM]
+http://130.185.85.5:1935/live/carcavelos.stream/livestream.m3u8
+#EXTINF:,PRAIA DE ESPINHO [WEBCAM]
+http://130.185.85.5:1935/live/espinho.stream/livestream.m3u8
+#EXTINF:,PRAIA DE ESPINHO - WEBCAM 
+http://213.13.26.7:1936/live/espinho.stream/livestream.m3u8
+#EXTINF:,PRAIA DE MATOSINHOS - WEBCAM
+http://130.185.85.5:1935/live/matosinhos.stream/livestream.m3u8
+#EXTINF:,PRAIA DE PENICHE - WEBCAM 
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:,PRAIA DE SÃO PEDRO - WEBCAM 
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:,PRAIA DE SÃO TORPES - WEBCAM 
+http://213.13.26.7:1936/live/saotorpes.stream/livestream.m3u8
+#EXTINF:,PRAIA DO GUINCHO [WEBCAM]
+http://130.185.85.5:1935/live/guincho.stream/livestream.m3u8
+#EXTINF:,PRAIA DO GUINCHO - WEBCAM 
+http://213.13.26.7:1936/live/guincho.stream/livestream.m3u8
+#EXTINF:,PRAIA DO NORTE - WEBCAM
+http://213.13.26.7:1936/live/norte.stream/livestream.m3u8
+#EXTINF:,PRAIA GRANDE - WEBCAM
+http://213.13.26.7:1936/live/grande.stream/livestream.m3u8
+#EXTINF:,PRAIA LEÇA DA PALMEIRA [WEBCAM]
+http://130.185.85.5:1935/live/leca.stream/livestream.m3u8
+#EXTINF:,PRAIA MATOSINHOS - WEBCAM
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:,PRAIA SÃO PEDRO E BAFUREIRA [WEBCAM]
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:,PRAIA SUPER TUBOS - WEBCAM
+http://213.13.26.7:1936/live/supertubos.stream/livestream.m3u8
+#EXTINF:,RIBEIRA - WEBCAM
+http://213.13.26.7:1936/live/ribeira.stream/livestream.m3u8
