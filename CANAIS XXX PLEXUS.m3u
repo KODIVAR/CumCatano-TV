@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="http://tuchkatv.ru/uploads/posts/2014-01/1390557590_exotica-tv.png",[COLOR violet]Exotica tv *[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://8e5b1c32571780463569acf59966cf37b055f95b&mode=1&name=acestream&mode=1&name=Exotica tv *
+
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2014/11/flover-680x365.png",[COLOR violet]French Lover TV[/COLOR][COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a85ff6a64fa329569b45c8aef849c339bc5bab14&mode=1&name=acestream&mode=1&name=French Lover TV
+
+#EXTINF:-1 tvg-logo="http://frocus.net/images/logotv/original/hustlerHD3D.jpg",[COLOR violet]Hustler HD *[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://8935cf8549632ebc95bf66b1eaaa34da55328da5&mode=1&name=acestream&mode=1&name=Hustler HD *
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/400px-HustlerTV.svg.png",[COLOR violet]Hustler TV Europe [/COLOR] [COLOR orange]PLEXUS[/COLOR]OFF
+plugin://program.plexus/?mode=1&url=acestream://604d4b83b911bc898f108cab0d5a2421906ae605&mode=1&name=acestream&mode=1&name=Hustler HD *
+
+#EXTINF:-1 tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/penthouse_hd.png",[COLOR violet]Penthouse HD1 [/COLOR] [COLOR orange]PLEXUS[/COLOR]OFF
+plugin://program.plexus/?mode=1&url=acestream://44aa988ac9bf64d383f7d31347145c6b071cce50&mode=1&name=acestream&mode=1&name=Penthouse HD1 
+
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Pinko-TV-Italia_o.jpg",[COLOR violet]Pink'O tv[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://58a309099b7617ecb76be501cdc17d27b162082f&mode=1&name=acestream&mode=1&name=Pink'O tv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Playboy_TV_Logo.svg/839px-Playboy_TV_Logo.svg.png",[COLOR violet]Playboy[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://b4e04935ca568de49133d5b9c6fc1fc3ca37d69a&mode=1&name=acestream&mode=1&name=Playboy
+
+#EXTINF:-1 tvg-logo="http://tuchkatv.ru/uploads/posts/2014-03/1393774351_private-tv.png",[COLOR violet]Private TV[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://92f3a698f434d085bd4ff3656606b07d2e6edd43&mode=1&name=acestream&mode=1&name=Satisfaction HD *
+
+#EXTINF:-1 tvg-logo="http://www.creativesatellite.co.uk/contents/media/l_scthd_solologo_bianco.jpg",[COLOR violet]Satisfaction HD *[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ce53d55658744f629e5da5513d6815a5f2299413&mode=1&name=acestream&mode=1&name=Satisfaction HD *
+
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sexto-Senso_o.jpg",[COLOR violet]Sextosenso *[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://73cb2d73b07af2d88abd2adefdf4e425d2ed0324&mode=1&name=acestream&mode=1&name=Sextosenso *
+
+#EXTINF:-1 tvg-logo="http://frocus.net/images/logotv/XXL.jpg",[COLOR violet]XXL HD[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://01533f0cea3ad3f3fdf6cfbfe9b8e29f8adf8509&mode=1&name=acestream&mode=1&name=Super One
+
+#EXTINF:-1 tvg-logo="http://en.kingofsat.net/jpg/sct.jpg",[COLOR violet]Canal do Mendes e do Andre *[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://109db53831dfac87f57274e5527518a22a319a1c&mode=1&name=acestream&mode=1&name=Canal do Mendes e do Andre *
+
+
+
+
+
+
+
+
+
+
+
