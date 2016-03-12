@@ -36,24 +36,30 @@ rtmp://91.201.78.3:1935/live/classicshd
 #EXTINF:-1 tvg-logo="http://4810-presscdn-0-38.pagely.netdna-cdn.com/wp-content/uploads/2012/06/pop-music.jpg", POP
 tmp://91.201.78.3:1935/live/pophd
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_yuSGrC9qwU/VM1C6p0KDYI/AAAAAAAAVQs/BjDFGnrCGCo/s1600/iconcerts_hd_0.png", IConcerts HD (PLEXUS)
-plugin://program.plexus/?mode=1&url=acestream://69d924ab73a6fcea35810031707c2dc9f5f8ca60&mode=1&name=acestream&mode=1&name=IConcerts HD *
+#EXTINF:-1 tvg-logo="http://staroetv.su/_ph/3/620460584.png",[COLOR  lime]Bridge TV(musica)[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://5b7a04f45950522122937699dd25ff31ec6f2d21&mode=1&name=acestream&mode=1&name=Bridge TV
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1044773379/2010_CMTVLogo.jpg", C Music TV HD (PLEXUS)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1044773379/2010_CMTVLogo.jpg",[COLOR  lime]C Music TV HD [/COLOR][COLOR orange]PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://8e10b195bc98037227c512542bbae9c316699be3&mode=1&name=acestream&mode=1&name=C Music TV HD
 
-#EXTINF:-1 tvg-logo="http://www.inteligemcia.com.br/wp-content/uploads/2013/07/mtv-rocks.png", MTV Rock (PLEXUS)
-plugin://program.plexus/?mode=1&url=acestream://d9963a1872fa9bb89c93c5bca0288fc3fa6c4717&mode=1&name=acestream&mode=1&name=MTV Rock *
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg", Eska Rock TV HD  (PLEXUS)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg",[COLOR  lime]Eska Rock TV HD (musica)[/COLOR] [COLOR orange]PLEXUS[/COLOR] OFF
 plugin://program.plexus/?mode=1&url=acestream://ae7649dc56cc94dbd3c0f7274afe5b74487fba11&mode=1&name=acestream&mode=1&name=Eska Rock TV HD *
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png", MTV Live HD * (PLEXUS)
-plugin://program.plexus/?mode=1&url=acestream://6feeef923df597c05106e15d477da96c5105ec9d&mode=1&name=acestream&mode=1&name=MTV Live HD *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png",[COLOR  lime]MTV Live HD *(musica)[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2ea4213c696ec3c0ed6e1fda37ab073f941e3e2b&mode=1&name=acestream&mode=1&name=MTV Live HD 
 
-#EXTINF:-1 tvg-logo="http://a-one.com.ua/images/logo.pn", A-One UA (PLEXUS)
-plugin://program.plexus/?mode=1&url=acestream://420046f972d89c8c8d5f8902c0e49c98e87131e2&mode=1&name=acestream&mode=1&name=A-One UA
+#EXTINF:-1 tvg-logo="http://www.inteligemcia.com.br/wp-content/uploads/2013/07/mtv-rocks.png",[COLOR  lime]MTV Rock [/COLOR][COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://cdee0dcac2a9da8acdead404cee5545b49865848&mode=1&name=acestream&mode=1&name=MTV Rock *
 
-#EXTINF:-1 tvg-logo="http://www.one.by/images/logo.png", 1 UHD 4K (PLEXUS)
+
+#EXTINF:-1 tvg-logo="http://teleguiado.portalvox.com/wp-content/uploads/sites/11/2014/11/B98CA573-9FA2-0FCC-EDDDF0A2887A7237.jpg",[COLOR lime]VH1 *[/COLOR][COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://eba2e06dfb5b845119f5dfb3ccb78b9d5f2498ff&mode=1&name=acestream&mode=1&name=VH1 *
+
+#EXTINF:-1 tvg-logo="http://www.one.by/images/logo.png",[COLOR  lime]1 UHD 4K(musica)[/COLOR] [COLOR orange]PLEXUS[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://f1403bc3b00f3391157f77efa9568810d9f2fe44&mode=1&name=acestream&mode=1&name=1 UHD 4K
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_yuSGrC9qwU/VM1C6p0KDYI/AAAAAAAAVQs/BjDFGnrCGCo/s1600/iconcerts_hd_0.png",[COLOR  lime]IConcerts HD *[/COLOR][COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://69d924ab73a6fcea35810031707c2dc9f5f8ca60&mode=1&name=acestream&mode=1&name=IConcerts HD *
+
+
 
