@@ -29,21 +29,21 @@ http://188.247.133.18:8888/ipvt_005
 http://188.247.133.18:8888/ipvt_006
 #EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 5[/COLOR]
 http://188.247.133.18:8888/ipvt_007
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E370zK9KJ1M/VgkWQG7YFSI/AAAAAAAAA4I/tnFHdrrVAh8/s1600/SK_1_RGB_SMALL.png",[COLOR gold]Sport Klub 1 HD[/COLOR]
+http://ipsatpro.com:8000/live/ShopVIP/bursa16/268.m3u8
+#EXTINF:-1 tvg-logo="http://www.idi-u.pm/wp-content/uploads/2014/09/Sportklub-2.png",[COLOR gold]Sport Klub 2 HD[/COLOR]
+http://ipsatpro.com:8000/live/ShopVIP/bursa16/267.m3u8
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Sport-Klub-3.jpg",[COLOR gold]Sport Klub 3 HD[/COLOR]
+http://ipsatpro.com:8000/live/ShopVIP/bursa16/266.m3u8
+#EXTINF:-1 tvg-logo="http://www.trtspor.com/resimler/98000/99267.jpg",[COLOR gold]TRT Spor[/COLOR]
+http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w2025259764.m3u8
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NQpxt8FzNkc/hqdefault.jpg",[COLOR gold]Red Bull TV HD[/COLOR]
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 #EXTINF:-1,Avto & Moto TV
