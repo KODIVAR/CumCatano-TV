@@ -88,7 +88,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<parentalblock>true</parentalblock>
+
 <title>[COLOR=red][B][I]Exotica tv *[/I][/B][/COLOR][COLOR orange]PLEXUS[/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://8e5b1c32571780463569acf59966cf37b055f95b&mode=1&name=acestream&mode=1&name=Exotica tv *</link>
 <thumbnail>http://tuchkatv.ru/uploads/posts/2014-01/1390557590_exotica-tv.png</thumbnail>
