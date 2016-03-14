@@ -3,17 +3,17 @@
 <item>
 <channel>
 <title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&amp;mode=1&amp;name=Sport TV 1</link> 
+<link></link> 
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>              
 </item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&amp;mode=1&amp;name=SPORT TV1</link>
+<link></link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR] [COLOR red]PLEXUS [/COLOR]</title>
- <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&amp;mode=1&amp;name=SPORT TV 1</link>
+ <link></link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 <item>
 <title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR]</title>
@@ -31,21 +31,6 @@
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </regex>
 </item>
-<item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=fewas?id=86040&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/fewas/1/600/400</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/fewas/1/600/400</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</regex>
 <item>
 <title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/31.ts</link>
@@ -96,7 +81,7 @@
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/242.ts</link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
@@ -281,23 +266,18 @@
 </item>
 <item> 
 <title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>  
-<link>plugin://program.plexus/?url=http://content.asplaylist.net/YUFITjlyYkRqcDNubmxVZHFkWXA0TFB4cnBYTWVib3NLdjZHWlNmL0I1TVhIMGorTTc2NUZZMjhSS3dFMzAycTVTUTJzamdpNi93dnI0YTMxRndmK0E9PQ/13490.acelive&amp;mode=1&amp;name=benfica</link> 
+<link></link> 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
 <title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=3c4f575ec49b64f4bd34d0c6e3ed4dbaf6171e82&amp;mode=1&amp;name=BENFICA TV1</link> 
+<link></link> 
  <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
 <title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=http://content.asplaylist.net/cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/13490.acelive&amp;mode=1&amp;name=BENFICA TV1</link> 
+<link></link> 
  <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-<item> 
-<title>[COLOR=blue][B][I] BENFICA TV1  [/I][/B][/COLOR]</title>
-<link>http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/237.ts</link>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
 <title>[COLOR=blue][B][I] BENFICA TV1  [/I][/B][/COLOR]</title>
