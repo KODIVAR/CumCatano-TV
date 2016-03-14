@@ -13,9 +13,15 @@
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR] [COLOR red]PLEXUS [/COLOR]</title>
  <link></link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=oralbadalhoco?id=25496$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playPath=daikin?id=25587$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -24,30 +30,10 @@
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/oralbadalhoco/1/600/400</page>
+<page>http://www.embedezcast.com/embedplayer/daikin/1/790/420</page>
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </regex>
-</item>
-<item>
-<title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=fewas?id=86040&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/fewas/1/600/400</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/fewas/1/600/400</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</regex>
-<item>
-<title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
