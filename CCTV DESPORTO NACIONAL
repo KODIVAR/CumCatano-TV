@@ -20,21 +20,6 @@
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]SPORT TV1[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playPath=daikin?id=25587$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/daikin/1/790/420</page>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</regex>
-<item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
