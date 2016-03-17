@@ -226,17 +226,17 @@ plugin://program.plexus/?mode=1&url=acestream://e11d4acac424daa996e838e4ebf5b8a1
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xryqyp1438364135.png",[B][COLOR white]BG: [/B][/COLOR][B][COLOR lawngreen]F+ BG [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://82f50c2b6a3d99f9ee9d6ad9ecfbb14aae244013&mode=1&name=acestream&mode=1&name=SPORTS 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k5nZoVM.png",[B][COLOR white]RUS: [/B][/COLOR][B][COLOR lawngreen]MATCH! Football 1 HD [/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://e26218d727f7a4808c2d6c8e9114db08c6469c80&mode=1&name=acestream&mode=1&name=SPORTS 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WFyYN4t.png",[B][COLOR white]RUS: [/B][/COLOR][B][COLOR lawngreen]MATCH! Football 2 [/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://08263d86ba2c553b0b0e6017490f5f76e9e27d78&mode=1&name=acestream&mode=1&name=SPORTS 
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t39HhAX.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]MATCH! ARENA HD[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://4f7ceda9d0bd2ed19f20d2c94005b670817c57e0&mode=1&name=acestream&mode=1&name=SPORTS
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XOqEpnX.png",[B][COLOR white]RU: [/B][/COLOR][B][COLOR lawngreen]MATCH! ARENA[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://23f59468148cb171da054d88bb8b331f106539d3&mode=1&name=acestream&mode=1&name=SPORTS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k5nZoVM.png",[B][COLOR white]RUS: [/B][/COLOR][B][COLOR lawngreen]MATCH! Football 1 HD [/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://e26218d727f7a4808c2d6c8e9114db08c6469c80&mode=1&name=acestream&mode=1&name=SPORTS 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WFyYN4t.png",[B][COLOR white]RUS: [/B][/COLOR][B][COLOR lawngreen]MATCH! Football 2 [/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://08263d86ba2c553b0b0e6017490f5f76e9e27d78&mode=1&name=acestream&mode=1&name=SPORTS 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Md1eDLy.png",[B][COLOR white]RUS: [/B][/COLOR][B][COLOR lawngreen]MATCH! Football 3 [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://ec390758643cf4717d4fd3aff2896d9f0fdb0dd1&mode=1&name=acestream&mode=1&name=SPORTS 
