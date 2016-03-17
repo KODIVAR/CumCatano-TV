@@ -64,12 +64,12 @@
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]SPORT TV 2[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/242.ts</link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]SPORT TV 2[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=sp2101?id=85935&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp2101/1/599/399</link>
 <regex>
 <name>get-ip</name>
@@ -84,7 +84,7 @@
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </regex>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2[/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]SPORT TV 2[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=sp2rf?id=25512$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
@@ -194,7 +194,7 @@
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 4[/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]SPORT TV 4[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/244.ts</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
@@ -227,7 +227,7 @@
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 5[/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]SPORT TV 5[/I][/B][/COLOR]</title>
 <link>http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/246.ts</link>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
@@ -248,22 +248,22 @@
 <thumbnail>http://s20.postimg.org/g5bxccjst/images.jpg</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>  
+<title>[COLOR blue][B][I]BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>  
 <link>plugin://program.plexus/?url=3538042108e724937da77ad1a3987d99fbfbc728&amp;mode=1&amp;name=BENFICA TV1</link> 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link></link> 
  <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I] BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link></link> 
  <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR=blue][B][I] BENFICA TV1  [/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playPath=slbljjtDZS?id=21982$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430 live=true</link>
 <regex>
 <name>get-ip</name>
@@ -284,23 +284,29 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
+<title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
+<referer>http://www.tvportugalhd.eu/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+<item> 
 <title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.firstrow.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
 <referer>http://www.firstrow.ge/</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/ZzNoZ1JmMHkyaVFMYUwvVUFBVHkzNGd6Y1E2WmxsTjY1TjZhVy96cVdreS9OeE0vUjZiVzQ0YXBBTkE3QjhYdHd2OTJsOEpDUlVFc1BWWCtselZRZmc9PQ/13491.acelive&amp;mode=1&amp;name=benfica</link> 
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&mode=1&amp;mode=1&amp;name=BENFICA TV2</link>
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I] BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/13491.acelive&amp;mode=1&amp;name=benfica</link> 
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
@@ -332,7 +338,7 @@
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR]</title> 
+<title>[COLOR=blue][B][I]SPORTING TV  [/I][/B][/COLOR]</title> 
 <link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430 live=true</link>
 <regex>
 <name>get-ip</name>
@@ -346,12 +352,12 @@
 <referer>http://www.streamifyplayer.com</referer>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
 </item>
-<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR green][B]</title>
+<title>[COLOR=blue][B][I]SPORTING TV  [/I][/B][/COLOR][COLOR orange][B][I]SD[/I][/B][/COLOR][COLOR green][B]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I]SPORTING TV  [/I][/B][/COLOR]</title>
 <link></link>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
