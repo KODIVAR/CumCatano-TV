@@ -3,6 +3,21 @@
 #EXT-X-TARGETDURATION:6000‬
 
 
+#EXTINF:-1, *****HOT FILM*****
+http://195.154.157.141:6969/live/borrello/borrello/432.ts
+#EXTINF:-1, Sesto Senso Tv
+http://195.154.157.141:6969/live/borrello/borrello/437.ts
+#EXTINF:-1, SCT HD
+http://195.154.157.141:6969/live/borrello/borrello/439.ts
+#EXTINF:-1, PINK O TV
+http://195.154.157.141:6969/live/borrello/borrello/433.ts
+#EXTINF:-1, EXOTICA TV
+http://195.154.157.141:6969/live/borrello/borrello/434.ts
+#EXTINF:-1, CentoXCento
+http://195.154.157.141:6969/live/borrello/borrello/435.ts
+
+
+
 
 #EXTINF:-1, ADULTRI_4
 http://149.202.200.176:8000/live/okba/okba/814.ts
