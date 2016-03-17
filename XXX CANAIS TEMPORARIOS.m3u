@@ -1,0 +1,99 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6000‬
+
+
+
+#EXTINF:-1, Playboy TV
+http://www.perfectium.co.uk:8001/1:0:1:CBC9:83B:2:11A0000:0:0:0:
+
+#EXTINF:-1, Adult Channel
+http://www.perfectium.co.uk:8001/1:0:1:CB8D:83B:2:11A0000:0:0:0:
+#EXTINF:-1, PlayboyTV Chat
+http://www.perfectium.co.uk:8001/1:0:1:D823:838:2:11A0000:0:0:0:
+#EXTINF:-1, Television X
+http://www.perfectium.co.uk:8001/1:0:1:D322:836:2:11A0000:0:0:0:
+#EXTINF:-1, Viewers’ Wives
+http://www.perfectium.co.uk:8001/1:0:1:D324:836:2:11A0000:0:0:0:
+#EXTINF:-1, Red Hot
+http://www.perfectium.co.uk:8001/1:0:1:D326:836:2:11A0000:0:0:0:
+#EXTINF:-1, Babenation
+http://www.perfectium.co.uk:8001/1:0:1:D7A7:840:2:11A0000:0:0:0:
+#EXTINF:-1, Xtreme Filth
+http://www.perfectium.co.uk:8001/1:0:1:D327:836:2:11A0000:0:0:0:
+#EXTINF:-1, Get Lucky TV
+http://www.perfectium.co.uk:8001/1:0:1:CB28:839:2:11A0000:0:0:0:
+#EXTINF:-1, Lucky Star
+http://www.perfectium.co.uk:8001/1:0:1:D7A4:840:2:11A0000:0:0:0:
+#EXTINF:-1, XXX Brits
+http://www.perfectium.co.uk:8001/1:0:1:164E:7DB:2:11A0000:0:0:0:
+#EXTINF:-1, TVX Brits
+http://www.perfectium.co.uk:8001/1:0:1:D325:836:2:11A0000:0:0:0:
+#EXTINF:-1, Studio 66
+http://www.perfectium.co.uk:8001/1:0:1:CB27:839:2:11A0000:0:0:0:
+#EXTINF:-1, ExGirlfriends
+http://www.perfectium.co.uk:8001/1:0:1:D15D:90C:2:11A0000:0:0:0:
+#EXTINF:-1, Xpanded TV
+http://www.perfectium.co.uk:8001/1:0:1:D806:838:2:11A0000:0:0:0:
+#EXTINF:-1, xxxAllNaturals
+http://www.perfectium.co.uk:8001/1:0:1:FB7:7E3:2:11A2F26:0:0:0:
+#EXTINF:-1, XXX Girl Girl
+http://www.perfectium.co.uk:8001/1:0:1:FB5:7E3:2:11A2F26:0:0:0:
+#EXTINF:-1, XXX Amateurs
+http://www.perfectium.co.uk:8001/1:0:1:FB4:7E3:2:11A2F26:0:0:0:
+#EXTINF:-1, XXX Groups
+http://www.perfectium.co.uk:8001/1:0:1:FB6:7EA:2:11A0000:0:0:0:
+#EXTINF:-1, XXXUniforms
+http://www.perfectium.co.uk:8001/1:0:1:1647:7E3:2:11A2F26:0:0:0:
+#EXTINF:-1, XXX 18 & Dirty
+http://www.perfectium.co.uk:8001/1:0:1:1648:7E3:2:11A2F26:0:0:0:
+#EXTINF:-1, XXX Mums
+http://www.perfectium.co.uk:8001/1:0:1:164C:7DB:2:11A0000:0:0:0:
+#EXTINF:-1, Climax
+http://www.perfectium.co.uk:8001/1:0:1:D158:90C:2:11A0000:0:0:0:
+#EXTINF:-1, Storm
+http://www.perfectium.co.uk:8001/1:0:1:D106:90C:2:11A0000:0:0:0:
+#EXTINF:-1, Studio 66 2
+http://www.perfectium.co.uk:8001/1:0:1:D12E:90C:2:11A0000:0:0:0:
+#EXTINF:-1, Studio 66 3
+http://www.perfectium.co.uk:8001/1:0:1:D124:90C:2:11A0000:0:0:0:
+#EXTINF:-1, Babes From TV
+http://www.perfectium.co.uk:8001/1:0:1:D1E7:841:2:11A0000:0:0:0:
+#EXTINF:-1, XXL
+http://94.253.16.162:4022/udp/234.5.2.246:1234
+#EXTINF:-1, PlayBoy
+http://94.253.16.162:4022/udp/234.5.2.247:1234
+#EXTINF:-1, Brazers TV
+http://94.253.16.162:4022/udp/234.5.2.248:1234
+#EXTINF:-1, Русская Ночь
+http://94.253.16.162:4022/udp/234.5.2.249:1234
+#EXTINF:-1, Babestation
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder21/playlist.m3u8
+#EXTINF:-1, Babestation Blue
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder31/playlist.m3u8
+#EXTINF:-1, Babestation Xtra
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder71/playlist.m3u8
+#EXTINF:-1, Babestation Unleashed 1
+http://publish.thewebstream.co:1935/iptv_cellcast_24/_definst_/livestream1/playlist.m3u8
+#EXTINF:-1, Babestation Unleashed 2
+http://publish.thewebstream.co:1935/iptv_cellcast_24/_definst_/livestream_two1/playlist.m3u8
+#EXTINF:-1, Babestation Xtreme/Sexstation
+http://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:-1, Babestation Enc5
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder5/playlist.m3u8
+#EXTINF:-1, Babestation Enc41
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder41/playlist.m3u8
+#EXTINF:-1, Studio 66 Channel 1
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel1/playlist.m3u8
+#EXTINF:-1, Studio 66 Channel 2
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel2/playlist.m3u8
+#EXTINF:-1, Studio 66 Channel 3
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel3/playlist.m3u8
+#EXTINF:-1, Studio 66 Channel 4
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel4/playlist.m3u8
+#EXTINF:-1, Thai Chat
+http://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream/playlist.m3u8
+#EXTINF:-1, Hot and Wet
+http://publish.thewebstream.co:1935/leved/_definst_/hotandwet1/playlist.m3u8
+#EXTINF:-1, Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8
