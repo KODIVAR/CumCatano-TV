@@ -272,6 +272,98 @@ plugin://program.plexus/?mode=1&url=acestream://576f76187a298e5c915a3d19d774674d
 
 #EXTINF:-1 tvg-logo="",[B][COLOR white]UKR: [/B][/COLOR][B][COLOR lawngreen]Football 2 [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://816fb654f64b8ecd7e8843bb3a1cb1cc8197b9ec&mode=1&name=acestream&mode=1&name=SPORTS 
+
 #EXTINF:-1 tvg-logo="",[B][COLOR white]UKR: [/B][/COLOR][B][COLOR lawngreen]Football 2 HD [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://2a026f903cbc23dcd3ae9ed3ffd87bc2674eff61&mode=1&name=acestream&mode=1&name=SPORTS
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-CtEBaFZrOpo/T3467Jnh5PI/AAAAAAAAE3Q/VgnTQ0wAlu8/s1600/sky_sports1.png",[COLOR magenta]Sky Sports 1 [/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://b57aeaf809d32442e9585753aa8d2420b6481f8e&mode=1&name=acestream&mode=1&name=Sky Sports 1 
+
+#EXTINF:-1 tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png",[COLOR magenta]Sky Sports 3[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4dbce55abecd154ff71b3477a332bd63611309e5&mode=1&name=acestream&mode=1&name=Sky Sports 3
+
+#EXTINF:-1 tvg-logo="http://dslivetv.com/Images/skysports4.png",[COLOR magenta]Sky Sports 4[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://11e5b8dcc1ff06c7fa5071ce4718bcc5f867d668&mode=1&name=acestream&mode=1&name=Sky Sports 4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sky_Sports_F1_HD.svg/1280px-Sky_Sports_F1_HD.svg.png",[COLOR magenta]Sky Sports F1[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2288397a21c4933d2359f19f54daa4101e297a48&mode=1&name=acestream&mode=1&name=Sky Sports F1
+
+#EXTINF:-1 tvg-logo="http://im.ziffdavisinternational.com/t/ign_br/screenshot/default/watch-espn-online-free_emgm.640.jpg",[COLOR orangered]ESPN US HD[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ad20448d69e9264adbdb419887598fd632c3fb51&mode=1&name=acestream&mode=1&name=ESPN US HD
+
+#EXTINF:-1 tvg-logo="http://www.tendencias21.net/telefonica/photo/art/grande/6406106-9663804.jpg?v=1394704943",[COLOR orangered]Movistar F1 [/COLOR] [COLOR orange]PLEXUS[/COLOR] OFF
+plugin://program.plexus/?mode=1&url=acestream://732fd82e57eb63f2d5d8698571f5bf87091603f8&mode=1&name=acestream&mode=1&name=Movistar F1 
+
+#EXTINF:-1 tvg-logo="http://comunidad.movistar.es/movistar/attachments/movistar/Movistar-TV/21/1/Logotipo_Movistar_TV_MotoGP_RGB.jpg",[COLOR orangered]Movistar MotoGP[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2197680d09e6a2900746896b5cd17ba42aab111d&mode=1&name=acestream&mode=1&name=Movistar MotoGP
+
+#EXTINF:-1 tvg-logo="http://www.nfl.com/static/content/public/static/scripts/network/assets/nfl-network-logo.png",[COLOR orangered]NFL Network HD[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://78dd9b93576180e2fe8ea68138a7d8a08cf39288&mode=1&name=acestream&mode=1&name=NFL Network HD
+
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Premier-Sports.png",[COLOR orangered]Premier Sports [/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://3679ef19d27763ab671159036927fe3ff077e865&mode=1&name=acestream&mode=1&name=Premier Sports
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Sport1_Logo.png",[COLOR orangered]Sport 1 Cz [/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://224647f6b35f20a68f72633d588a8f208a896bcc&mode=1&name=acestream&mode=1&name=Sport Klub 1 HD 
+
+#EXTINF:-1 tvg-logo="http://live96.weebly.com/uploads/1/5/2/7/15276480/7429531_orig.png",[COLOR orangered]Sport 2 Cz[/COLOR] [COLOR orange]PLEXUS[/COLOR]NFL
+plugin://program.plexus/?mode=1&url=acestream://2cf97774d9d6fdfcc4584569b7dd48c041484eba&mode=1&name=acestream&mode=1&name=Sport Klub 2 HD 
+
+#EXTINF:-1 tvg-logo="http://edan.lv/data/images/sport1.png",[COLOR orangered]Спорт 1  [/COLOR] [COLOR orange]PLEXUS[/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://b2825d1f94b08f246051365a75ad3b9198832705&mode=1&name=acestream&mode=1&name=Спорт 1 (Украина) 
+
+#EXTINF:-1 tvg-logo="http://web-tuner.ru/_bd/0/18202497.png",[COLOR orangered]Спорт 2 (Украина) [/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ef063d96699ce222cb9ada19e2b1a79770859559&mode=1&name=acestream&mode=1&name=Спорт 1 (Украина) 
+
+#EXTINF:-1 tvg-logo="http://sat-one.info/news-imeg/54539.jpg",[COLOR orangered]Футбол 1torrent[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://61e851a16fb9e19fcb117f7efdaa1d07b686dda0&mode=1&name=acestream&mode=1&name=Футбол Pоссия
+
+#EXTINF:-1 tvg-logo="http://sat-one.info/news-imeg/54539.jpg",[COLOR orangered]Футбол Allfon[/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://d5210f800086bbdb53da784c9b1c66ba93a724f7&mode=1&name=acestream&mode=1&name=Футбол Allfon
+
+#EXTINF:-1 tvg-logo="http://cs630417.vk.me/v630417437/cc94/hV5gEFz4gP4.jpg",[COLOR orangered]Матч! Боец [I](Box Combinado)[/I][/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://e895e4b3f3b18d079cad5f532fe8f52e4495709e&mode=1&name=acestream&mode=1&name=Матч! Боец
+
+#EXTINF:-1 tvg-logo="http://cs630417.vk.me/v630417437/cc94/hV5gEFz4gP4.jpg",[COLOR orangered]Матч! Боец [I](Box Combinado)1torrent[/I][/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://e895e4b3f3b18d079cad5f532fe8f52e4495709e&mode=1&name=acestream&mode=1&name=Матч! Боец
+
+#EXTINF:-1 tvg-logo="http://cs630417.vk.me/v630417437/cc94/hV5gEFz4gP4.jpg",[COLOR orangered]Матч! Боец [I](Box Combinado)allfon[/I][/COLOR] [COLOR orange]PLEXUS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://811cee016e72b73e217285ead04ec53547db9d5a&mode=1&name=acestream&mode=1&name=Матч! Боец
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
