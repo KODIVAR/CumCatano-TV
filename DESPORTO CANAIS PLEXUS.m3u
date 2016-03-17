@@ -131,7 +131,8 @@ plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BiP19CX.png",[B][COLOR white]RO: [/B][/COLOR][B][COLOR lawngreen]DIGISPORT 3 [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://d710f154d3892401cc1ef947e8a07ed0ce826d98&mode=1&name=acestream&mode=1&name=SPORTS 
 
-
+#EXTINF:-1 tvg-logo="http://cc-umbraco-images.s3.amazonaws.com/bc/NewsImages/bt-sport-europe.jpg",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT Sport Europe [/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://21aadb7f7a3c09ffd1d8f636f3154b7092045380&mode=1&name=acestream&mode=1&name=SPORTS
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MnwUC2X.png",[B][COLOR white]UK: [/B][/COLOR][B][COLOR lawngreen]BT SPORT 1 [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://8109c41fb27e724521668f76557a6081042898c8&mode=1&name=acestream&mode=1&name=SPORTS 
@@ -167,7 +168,7 @@ plugin://program.plexus/?mode=1&url=acestream://http://satloveriptv.com:8090/liv
 plugin://program.plexus/?mode=1&url=acestream://15cf5dc9f52086ebaa376d459a64528a8f823dd0 &mode=1&name=acestream&mode=1&name=SPORTS 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/i4jSu2E.png?1",[B][COLOR white]SE: [/B][/COLOR][B][COLOR lawngreen]VIASAT SPORT [/B][/COLOR] Plexus
-plugin://program.plexus/?mode=1&url=acestream://7418bf556e34370e4b9526a40b8b4bee7fa39941&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266&mode=1&name=acestream&mode=1&name=SPORTS 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Y9sy3nS.png",[B][COLOR white]RUS: [/B][/COLOR][B][COLOR lawngreen]VIASAT SPORT BALTIC [/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://78d73316aa763b56ef27761ec71bf91c6c6ab594&mode=1&name=acestream&mode=1&name=SPORTS 
