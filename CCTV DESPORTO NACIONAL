@@ -3,7 +3,8 @@
 <item>
 <channel>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link></link> 
+<link>plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+</link> 
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>              
 </item>
 <item>
