@@ -13,8 +13,14 @@
 </item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR] [COLOR red]PLEXUS [/COLOR]</title>
- <link></link>
+<link></link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR][COLOR lime] HD (temp)[/COLOR]</title>
+<link>http://cp.dmbshare.net:8000/live/george1/george1/3457.m3u8</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playPath=daikin?id=25587$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
