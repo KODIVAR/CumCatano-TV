@@ -292,6 +292,28 @@
 </item>
 <item> 
 <title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
+<link>rtmp://94.176.148.211:443/liveedge/ playpath=channel5Rea swfUrl=http://www.turbocast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.turbocast.tv/megatvhd.php?ch=channel5Rea</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
+<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=caralhof?id=85529&amp;pk=$doregex[get-pk] timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/caralhof/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/caralhof/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playPath=slbljjtDZS?id=21982$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430 live=true</link>
 <regex>
 <name>get-ip</name>
@@ -324,6 +346,12 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
+<title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+<item>
 <title>[COLOR blue][B][I]BENFICA TV2 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.asplaylist.net/ZzNoZ1JmMHkyaVFMYUwvVUFBVHkzNGd6Y1E2WmxsTjY1TjZhVy96cVdreS9OeE0vUjZiVzQ0YXBBTkE3QjhYdHd2OTJsOEpDUlVFc1BWWCtselZRZmc9PQ/13491.acelive&amp;mode=1&amp;name=benfica</link> 
 <thumbnail>http://s20.postimg.org/u2u3hnhvh/btv2_ver1.png</thumbnail>
