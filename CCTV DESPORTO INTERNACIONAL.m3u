@@ -15,6 +15,12 @@ http://31.204.128.127:8081/live/espnbr/playlist.m3u8
 http://213.163.65.116:8081/live/espnbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-ESPN.png",[COLOR gold]BT SPORT ESPN[/COLOR]
 rtmp://89.248.172.52/live/ playpath=espnuks1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.cast4u.tv/embed.php?live=espnuks1&vw=620&vh=490
+#EXTINF:-1 tvg-logo="http://cc-umbraco-images.s3.amazonaws.com/bc/NewsImages/bt-sport-europe.jpg",[COLOR gold]BT Sport Europe[/COLOR]
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/bt-sport-2.png",[COLOR gold]BT Sport 2[/COLOR]
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/bt-sport-2.png",[COLOR gold]BT Sport 2[/COLOR]
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv27_8hps6ods
 #EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/07/CNOPT-SPORT-1-LIVE.jpg",[COLOR gold]CNOPT[/COLOR]
 URL=http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://profile.silktv.ge/images/logo-tv.png",[COLOR gold]SILK 3 (GEO)[/COLOR]
@@ -29,12 +35,26 @@ http://188.247.133.18:8888/ipvt_005
 http://188.247.133.18:8888/ipvt_006
 #EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 5[/COLOR]
 http://188.247.133.18:8888/ipvt_007
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Ntv-Football-1.jpg",[COLOR gold]NTV+ Football 1[/COLOR]
+http://31.3.245.178/iptv/76VE7LQ3K9HPGU/124/index.m3u8
+#EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/05/Watch-NTV-Football-2-Live-TV-from-Russia.jpg",[COLOR gold]NTV+ Football 2[/COLOR]
+http://31.3.245.178/iptv/76VE7LQ3K9HPGU/530/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E370zK9KJ1M/VgkWQG7YFSI/AAAAAAAAA4I/tnFHdrrVAh8/s1600/SK_1_RGB_SMALL.png",[COLOR gold]Sport Klub 1 HD[/COLOR]
 http://ipsatpro.com:8000/live/ShopVIP/bursa16/268.m3u8
 #EXTINF:-1 tvg-logo="http://www.idi-u.pm/wp-content/uploads/2014/09/Sportklub-2.png",[COLOR gold]Sport Klub 2 HD[/COLOR]
 http://ipsatpro.com:8000/live/ShopVIP/bursa16/267.m3u8
 #EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Sport-Klub-3.jpg",[COLOR gold]Sport Klub 3 HD[/COLOR]
 http://ipsatpro.com:8000/live/ShopVIP/bursa16/266.m3u8
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/2.5.4/images/logo-header__en.png",[COLOR gold]BeIN Sport Arabia 2 HD[/COLOR]
+rtmp://85.132.67.123:1935/live/be02
+#EXTINF:-1 tvg-logo="http://ai-i3.infcdn.net/icons_siandroid/png/200/3235/3235208.png",[COLOR gold]Ibrodtv 10[/COLOR]
+rtmp://lb.miplayer.net:1935/goLive/_definst_/tvtt10_vl7incf5
+#EXTINF:-1 tvg-logo="http://ai-i3.infcdn.net/icons_siandroid/png/200/3235/3235208.png",[COLOR gold]Ibrodtv 11[/COLOR]
+rtmp://lb.miplayer.net:1935/goLive/_definst_/tvt11_vyldy4r0
+#EXTINF:-1 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/poland/232-Canal-Plus-Sport%5B2%5D.jpg",[COLOR gold]Canal+ Sport Poland[/COLOR]
+rtmp://149.202.74.239/live/canalsport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HRT2_Logo_aktuell.jpg",[COLOR gold]HRT 2 Croatia[/COLOR]
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 #EXTINF:-1 tvg-logo="http://www.trtspor.com/resimler/98000/99267.jpg",[COLOR gold]TRT Spor[/COLOR]
 http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w2025259764.m3u8
 
@@ -42,6 +62,12 @@ http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w2025259764.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png",[COLOR gold]NBC GOLF SD[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png",[COLOR gold]NBC GOLF 720p[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png",[COLOR gold]NBC GOLF 1080p[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NQpxt8FzNkc/hqdefault.jpg",[COLOR gold]Red Bull TV HD[/COLOR]
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1,[COLOR green]TPOTEN[/COLOR] HD
