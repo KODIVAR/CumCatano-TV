@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR blue] [I] 99.9 VIRGIN RADIO [/I] [/COLOR]</title>
+<link>http://ckfm-mp3.akacast.akamaistream.net/7/318/102120/v1/astral.akacast.akamaistream.net/ckfm-mp3</link>
+<thumbnail>http://toronto.virginradio.ca/Pics/lol_header.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] ANTENA 3[/I] [/COLOR]</title>
+<link>rtmp://195.245.168.29:1935/liveradio/ playpath=antena380a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#antena-3</link>
+<thumbnail>http://s20.postimg.org/wve5xqfy5/Antena_3_RGB_pos_horiz.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] RADIO COMERCIAL [/I] [/COLOR]</title>
+<link>rtmp://195.23.102.206/comerciallc/ playpath=comerciallc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-comercial</link>
+<thumbnail>http://s20.postimg.org/llq1gj0al/R_dio_Comercial.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] RFM [/I] [/COLOR]</title>
+<link>http://7709.live.streamtheworld.com/RFM_SC</link>
+<thumbnail>http://s20.postimg.org/jv70f1irh/rfm_icone.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] RADIO M80 [/I] [/COLOR]</title>
+<link>rtmp://195.23.102.206/m80mp3/ playpath=m80mp3.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-m80</link>
+<thumbnail>http://s20.postimg.org/gpmeou059/mzl_uucykuav.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] HIPER FM [/I] [/COLOR]</title>
+<link>http://109.71.41.250:8158/;</link>
+<thumbnail>http://s20.postimg.org/dg3e4mmnx/Hiper_FM.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] MEGA HITS [/I] [/COLOR]</title>
+<link>http://7749.live.streamtheworld.com/MEGA_HITS_SC</link>
+<thumbnail>http://s20.postimg.org/6uv9ilw71/lg_megafm_cmyk_pos.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] 80S RFM [/I] [/COLOR]</title>
+<link>http://7739.live.streamtheworld.com/GR80SRFM_SC</link>
+<thumbnail>http://s20.postimg.org/l7k436qt9/logo80_RFMPlayer.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] TSF [/I] [/COLOR]</title>
+<link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3</link>
+<thumbnail>http://s20.postimg.org/pcv0p3ol9/83819.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] ANTENA 1 [/I] [/COLOR]</title>
+<link>rtmp://195.245.168.29:1935/liveradio/ playpath=antena180a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#antena-1</link>
+<thumbnail>http://s20.postimg.org/691p8rbr1/8027869_orig.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] RDP INTERNACIONAL [/I] [/COLOR]</title>
+<link>rtmp://195.245.168.29:1935/liveradio/ playpath=rdpint80a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#rdp-internacional</link>
+<thumbnail>http://s20.postimg.org/642jctttp/RDP_Internacional.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue] [I] RADIO RENASCENÇA [/I] [/COLOR]</title>
+<link>http://7739.live.streamtheworld.com/RADIO_RENASCENCA_SC</link>
+<thumbnail>http://s20.postimg.org/q18glscot/rr76anos48429410_664x373.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] 102.1 THE EDGE [/I] [/COLOR]</title>
+<link>http://live.leanstream.co/CFNYFM-MP3?tunein</link>
+<thumbnail>https://pbs.twimg.com/profile_images/461144201191636993/piw7C_8__400x400.jpeg</thumbnail>
+</item>
+<item>
+<title>[COLOR green] [I]TORONTO[/I] [/COLOR]</title>
+<thumbnail>http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg</thumbnail>
+<fanart>http://www.cityofwaterfalls.ca/wp-content/uploads/2015/02/ShermanFalls2w.jpg</fanart>
+<link>ignorame</link>
+</item>
+<item>
+<title>[COLOR blue] [I] Z103.5 [/I] [/COLOR]</title>
+<link>http://ice8.securenetsystems.net/CIDC?&playSessionID=18AC6587-92F1-2B69-74D1C3A6F5A225DA</link>
+<thumbnail>http://scottandkat.ca/wp-content/uploads/2013/07/Fox_ListenLive_Banner.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] KISS 92.5 [/I] [/COLOR]</title>
+<link>http://radio_ckis-lh.akamaihd.net/i/TOR925_1@176956/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/635911682133499905/MiY_X1NQ.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] 104.5 CHUM FM [/I] [/COLOR]</title>
+<link>http://chumfm-mp3.akacast.akamaistream.net/7/441/102120/v1/astral.akacast.akamaistream.net/chumfm-mp3</link>
+<thumbnail>http://1.bp.blogspot.com/-xnqIRW6i3Jo/VYoXWIJW6xI/AAAAAAAAMeU/i8S_bL7jkFo/s1600/chum_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] CLASSICAL 96.3 [/I] [/COLOR]</title>
+<link>http://zoomcast.vs.hc1.ca/cfmz.mp3</link>
+<thumbnail>http://joyceelkhoury.com/wp-content/uploads/2015/10/logo-classical963.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] Q 107 [/I] [/COLOR]</title>
+<link>http://live.leanstream.co/CILQFM-MP3?tunein</link>
+<thumbnail>http://img.corusradio.com/fb-like-icons/1500x1500/cilqfm.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] AM 640 [/I] [/COLOR]</title>
+<link>http://live.leanstream.co/CFMJAM-MP3?tunein
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/3/34/20130124230744!Talk_Radio_AM640.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue] [I] TSN RADIO 1050 [/I] [/COLOR]</title>
+<link>http://provisioning.streamtheworld.com/pls/CHUMAM.pls?DIST=TuneIn&TGT=TuneIn&maxServers=2</link>
+<thumbnail>https://pbs.twimg.com/profile_images/489769210147389441/qeMJSAgD_400x400.jpeg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
