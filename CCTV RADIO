@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<channel>
+<title>[COLOR green][B]RADIO 1[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/RADIO%201</externallink>
+<thumbnail>http://trippintherift.com/wp-content/uploads/2014/01/radio.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR blue][B]MyIPTV RADIO[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/radios.m3u</externallink>
+<thumbnail>http://images.wisegeek.com/radio-on-air.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
