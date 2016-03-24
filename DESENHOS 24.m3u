@@ -12,8 +12,26 @@ http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 #EXTINF:-1 tvg-logo="http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg", South Park (PT/BR)
 rtmp://208.53.164.194/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
 
+#EXTINF:-1 tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/new_scoow_doow_7704.png", Scobby Doo (BR)
+rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
+
+#EXTINF:-1 tvg-logo="http://videosinfantis.pt/wp-content/uploads/2015/04/Pica-Pau.jpg", Pica Pau (BR)
+rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
+
+#EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/os-flintstones-frete-gratis-4-temporadas-completas-14538-MLB226476454_6428-O.jpg", Os FLINTSTONES (BR)
+rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flinstones.php
+
+#EXTINF:-1 tvg-logo="http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/mundonick.com.br/NickV2/pinguins-pt-showhub.jpg?quality=0.91&height=460&width=460&matte=true&crop=false", Os pinguins de Madagascar (BR)
+rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2012/12/thumbs/e6edbfcdf55cb359f902cd2e6cb2f703_jpg_290x478_upscale_q90.jpg", O Maskara (BR)
+rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php
+
 #EXTINF:-1 tvg-logo="http://tvfiles.alphacoders.com/145/clearart-145.png", The Simpsons
 http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HjowQOO5Vq8/VmmkOGlhiLI/AAAAAAAAAzw/V6d8kf-BA1c/s1600/padrinhosmagicos.png", Os Padrinhos Magicos (BR)
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6NDE6MzcgQU0maGFzaF92YWx1ZT15VCtIQ1pCTitURGtONkdkbnBvTDVRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
 
 #EXTINF:-1 tvg-logo="http://images1.wikia.nocookie.net/__cb20120921154236/dragonball/es/images/e/ef/DBZ.png", Dragon Ball Z
 rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
