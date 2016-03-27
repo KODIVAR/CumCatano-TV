@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg", VIRGIN TV
-ttp://fms.105.net:1935/live/virgin1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg", VIRGIN TV
 http://wow01.105.net/live/virgin1/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg", VIRGIN TV
