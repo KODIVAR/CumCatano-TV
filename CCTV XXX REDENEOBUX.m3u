@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 02-03-2016 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 02-03-2016--[/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]--- 14-03-2016 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 14-03-2016--[/COLOR]
 
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
 
@@ -46,30 +46,15 @@
 http://0.0.0.0:1234
 
 
-
-#EXTINF:-1,Blue Hustler
-http://109.169.254.57:81/udp/233.99.61.87:5000
-#EXTINF:-1,Ola-la
-http://109.169.254.57:81/udp/233.99.61.148:5000
 #EXTINF:-1,XXL
-http://109.169.254.57:81/udp/233.99.61.160:5000
-#EXTINF:-1,Русская ночь
-http://109.169.254.57:81/udp/233.99.61.232:5000
-#EXTINF:-1,Play Boy
-http://109.169.254.57:81/udp/233.99.61.246:5000
-#EXTINF:-1,Brazzers TV Europe
-http://95.27.189.43:4022/udp/233.33.210.88:5050
+http://94.253.16.162:4022/udp/234.5.2.246:1234
+#EXTINF:-1,PlayBoy
+http://94.253.16.162:4022/udp/234.5.2.247:1234
+#EXTINF:-1,Brazers TV
+http://94.253.16.162:4022/udp/234.5.2.248:1234
+#EXTINF:-1,Русская Ночь
+http://94.253.16.162:4022/udp/234.5.2.249:1234
 
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,private 
-http://37.235.138.228:81/udp/225.50.70.8:1234
-#EXTINF:-1,french 
-http://37.235.138.228:81/udp/225.50.70.7:1234
-#EXTINF:-1,candy 
-http://37.235.138.228:81/udp/225.50.70.1:1234
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
@@ -78,6 +63,38 @@ http://37.235.138.228:81/udp/225.50.70.1:1234
 
 #EXTINF:-1, [COLOR pink]---★ ADULTS XXX ★---[/COLOR]
 http://0.0.0.0:1234
+
+
+#EXTINF:-1,Babestation
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder21/playlist.m3u8
+#EXTINF:-1,Babestation Blue
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder31/playlist.m3u8
+#EXTINF:-1,Babestation Xtra
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder71/playlist.m3u8
+#EXTINF:-1,Babestation Unleashed 1
+http://publish.thewebstream.co:1935/iptv_cellcast_24/_definst_/livestream1/playlist.m3u8
+#EXTINF:-1,Babestation Unleashed 2
+http://publish.thewebstream.co:1935/iptv_cellcast_24/_definst_/livestream_two1/playlist.m3u8
+#EXTINF:-1,Babestation Xtreme/Sexstation
+http://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:-1,Babestation Enc5
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder5/playlist.m3u8
+#EXTINF:-1,Babestation Enc41
+http://publish.thewebstream.co:1935/cellcast/_definst_/encoder41/playlist.m3u8
+#EXTINF:-1,Studio 66 Channel 1
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel1/playlist.m3u8
+#EXTINF:-1,Studio 66 Channel 2
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel2/playlist.m3u8
+#EXTINF:-1,Studio 66 Channel 3
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel3/playlist.m3u8
+#EXTINF:-1,Studio 66 Channel 4
+http://publish.thewebstream.co:1935/leved/_definst_/studio66tv_channel4/playlist.m3u8
+#EXTINF:-1,Thai Chat
+http://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream/playlist.m3u8
+#EXTINF:-1,Hot and Wet
+http://publish.thewebstream.co:1935/leved/_definst_/hotandwet1/playlist.m3u8
+#EXTINF:-1,Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8
 
 
 #EXTINF:-1, SEXSTATION
@@ -408,70 +425,3 @@ http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/1936
 http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
 #EXTINF:-1,XXX-Babes 9
 http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[I][B][COLOR red]-------------------------- CANAIS EM PLEXUS --------------------------[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[COLOR blue][I][B]--- 26-11-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] REDENEOBUX.COM -- 26-11-2015 --[/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]ACESTREAM ADULT[/COLOR] - [COLOR blue][I][B]Please install the PLEXUS Addon[/B][/I][/COLOR]
-http://0.0.0.0:123
-
-
-
-#EXTINF:-1, Brazzers TV Europe 
-plugin://program.plexus/?mode=1&url=acestream://c17132ad3042cfd72719896738e254af3e08384d&mode=1&name=acestream+
-#EXTINF:-1, CentoXCento TV 
-plugin://program.plexus/?mode=1&url=acestream://d736442e3316e795c88a1b3d72d0760a34e53b83&mode=1&name=acestream+
-#EXTINF:-1, Digital Sin 
-plugin://program.plexus/?mode=1&url=acestream://35d5562d3dc71b79dc2fa682c0bbc319d4be58e0&mode=1&name=acestream+
-#EXTINF:-1, Dorcel 
-plugin://program.plexus/?mode=1&url=acestream://8c4218be5f3b7856eead9cb124199cf8146c7b97&mode=1&name=acestream+
-#EXTINF:-1, EroXXX HD 
-plugin://program.plexus/?mode=1&url=acestream://b9511ea6be2739814eb9ac95db82572767b0f367&mode=1&name=acestream+
-#EXTINF:-1, Exotica TV 
-plugin://program.plexus/?mode=1&url=acestream://932c47c3129f8c5b98029920a1be4807c97c1154&mode=1&name=acestream+
-#EXTINF:-1, Hustler HD 
-plugin://program.plexus/?mode=1&url=acestream://19e314f441beedabe78d15ccd855b150536c787f&mode=1&name=acestream+
-#EXTINF:-1, Hustler TV 
-plugin://program.plexus/?mode=1&url=acestream://a8075aa679b12f754c0edf753e8651cd4121ee75&mode=1&name=acestream+
-#EXTINF:-1, Nuart TV 
-plugin://program.plexus/?mode=1&url=acestream://0f7e69f0edcafe5041e280660ceb0d582947496f&mode=1&name=acestream+
-#EXTINF:-1, O-la-la 
-plugin://program.plexus/?mode=1&url=acestream://80b84007daa0ae20ae9776b51ab6ad877c509158&mode=1&name=acestream+
-#EXTINF:-1, Pink O TV 
-plugin://program.plexus/?mode=1&url=acestream://50b91f43df292c9017ebffbfc12fc0d3f461dd53&mode=1&name=acestream+
-#EXTINF:-1, Playboy TV 
-plugin://program.plexus/?mode=1&url=acestream://89ba56eb87cb909eb9e54b44fe9e9c7f374b535f&mode=1&name=acestream+
-#EXTINF:-1, Redlight HD 
-plugin://program.plexus/?mode=1&url=acestream://3bf1a9355957947311d0ebae5f14a846aea92b91&mode=1&name=acestream+
-#EXTINF:-1, Satisfaction HD 
-plugin://program.plexus/?mode=1&url=acestream://963654b715de5437f93d820a96235c3a30c63b8e&mode=1&name=acestream+
-#EXTINF:-1, Sextosenso 
-plugin://program.plexus/?mode=1&url=acestream://f0de5971fa61ace21efd603d527527c5dc3d99c9&mode=1&name=acestream+
-#EXTINF:-1, TGirls TV 
-plugin://program.plexus/?mode=1&url=acestream://fbd77e1de5871cc6dbb23f18f9fac3b67279e8ed&mode=1&name=acestream+
-#EXTINF:-1, XXL 
-plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&mode=1&name=acestream+
-#EXTINF:-1, Ночной клуб 
-plugin://program.plexus/?mode=1&url=acestream://ebbc6c3786ab4477bdc8e7ff43e7bcfbec44a875&mode=1&name=acestream+
-#EXTINF:-1, Русская ночь 
-plugin://program.plexus/?mode=1&url=acestream://afe21d30b9be601e4393752af95b6c9143c0c7f9&mode=1&name=acestream+
-
