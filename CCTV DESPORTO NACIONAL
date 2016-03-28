@@ -34,7 +34,21 @@
 </item>
 <item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
-<<link>rtmp://$doregex[get-ip]/live/ playpath=dassi?id=25711$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/dassi/1/650/500 live=true timeout=10</link>
+<link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/pissudo/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</regex>
+<title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=43wea?id=25723$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/43wea/1/650/500 live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -43,12 +57,8 @@
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/dassi/1/650/500</page>
+<page>http://www.embedezcast.com/embedplayer/43wea/1/650/500</page>
 <referer>http://www.embedezcast.com</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</regex>
-</item>
-<item>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </regex>
 </item>
@@ -70,12 +80,6 @@
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.desportonline.net/index.php?canal=sporttv</sportsdevil>
-<referer>http://escast.tv/</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</item>
-<item> 
 <title>[COLOR blue][B][I]SPORT TV 2[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
