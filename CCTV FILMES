@@ -2,6 +2,13 @@
 
 <item>
 <channel>
+<title>[COLOR grey][B]ESTREIAS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/ZDnCKRv1</externallink>
+<thumbnail>http://revistaepoca.globo.com/Revista/Epoca/foto/0,,19199402,00.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
 <title>[COLOR grey][B]MyIPTV MOVIES[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/movies.m3u</externallink>
@@ -9,10 +16,10 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
-<title>[COLOR grey][B]REDENEOBUX MOVIES[/B][/COLOR]</title>
+<title>[COLOR grey][B]CINEMA PORTUGUES[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/REDENEOBUX%20MOVIES.m3u</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalYIlkgF70vpom7LLbMFIrJQdBJH0s2Kdl6NgGEPiQV5emEz2</thumbnail>
+<externallink>http://pastebin.com/raw/3hSZ4XQT</externallink>
+<thumbnail>http://www.cinemaportugues.info/wp-content/uploads/2008/11/acerca1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
