@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 19-12-2015 ---[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow] Series Dobradas em PT/BR 24/7[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="bigbanghd.jpg" tvg-logo="http://logos.iptvglobal.com.br/bigbanghd.jpg" group-title="Séries 24 horas",BIG BANG
+rtmp://208.53.180.242/ctv/ playpath=big swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Breaking%20Bad.jpg" tvg-logo="http://logos.iptvglobal.com.br/Breaking%20Bad.jpg" group-title="Séries 24 horas",Breaking Bad 
+rtmp://208.53.180.242/ctv/ playpath=breaking swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Chaves.jpg" tvg-logo="http://logos.iptvglobal.com.br/Chaves.jpg" group-title="Séries 24 horas",Chaves
+rtmp://208.53.180.242/ctv/ playpath=chaves swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Chuck.jpg" tvg-logo="http://logos.iptvglobal.com.br/Chuck.jpg" group-title="Séries 24 horas",Chuck
+rtmp://208.53.180.242/ctv/ playpath=chuck swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="CSI.jpg" tvg-logo="http://logos.iptvglobal.com.br/CSI.jpg" group-title="Séries 24 horas",CSI
+rtmp://208.53.180.242/ctv/ playpath=csi swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Dois%20Homens%20e%20Meio.jpg" tvg-logo="http://logos.iptvglobal.com.br/Dois%20Homens%20e%20Meio.jpg" group-title="Séries 24 horas",Dois homens e meio
+rtmp://208.53.180.242/ctv/ playpath=two swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Drake%20e%20Josh.jpg" tvg-logo="http://logos.iptvglobal.com.br/Drake%20e%20Josh.jpg" group-title="Séries 24 horas",Drake e Josh
+rtmp://208.53.180.242/ctv playpath=drake swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="EPatroaCrians.jpg" tvg-logo="http://logos.iptvglobal.com.br/EPatroaCrians.jpg" group-title="Séries 24 horas",Eu A patroa e as criancas
+rtmp://208.53.180.242/ctv/ playpath=patroa swfUrl=http://www.canaistv.net/player.swf?iptvglobal pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Glee.jpg" tvg-logo="http://logos.iptvglobal.com.br/Glee.jpg" group-title="Séries 24 horas",Glee
+rtmp://208.53.180.242/ctv playpath=glee swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Gossip%20Girl.jpg" tvg-logo="http://logos.iptvglobal.com.br/Gossip%20Girl.jpg" group-title="Séries 24 horas",Gossip Girl
+rtmp://208.53.180.242/ctv/ playpath=gossip swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Heroes.jpg" tvg-logo="http://logos.iptvglobal.com.br/Heroes.jpg" group-title="Séries 24 horas",Heroes
+rtmp://208.53.180.242/ctv/ playpath=heroes swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Icarly.jpg" tvg-logo="http://logos.iptvglobal.com.br/Icarly.jpg" group-title="Séries 24 horas",Icarly
+rtmp://208.53.180.242/ctv/ playpath=icarly swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="jaspion.jpg" tvg-logo="http://logos.iptvglobal.com.br/jaspion.jpg" group-title="Séries 24 horas",Jaspion
+rtmp://208.53.180.242/ctv/ playpath=jaspion swfUrl=http://www.canaistv.net/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="KenaneKell.jpg" tvg-logo="http://logos.iptvglobal.com.br/KenaneKell.jpg" group-title="Séries 24 horas",Kenan e kel
+rtmp://208.53.180.242/ctv/ playpath=kenan swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="lost.jpg" tvg-logo="http://logos.iptvglobal.com.br/lost.jpg" group-title="Séries 24 horas",Lost
+rtmp://208.53.180.242/ctv playpath=lost swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="PrisonBreak.jpg" tvg-logo="http://logos.iptvglobal.com.br/PrisonBreak.jpg" group-title="Séries 24 horas",Prison Break
+rtmp://208.53.180.242/ctv playpath=prison swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="SmallVille.jpg" tvg-logo="http://logos.iptvglobal.com.br/SmallVille.jpg" group-title="Séries 24 horas",SmallVille
+rtmp://208.53.180.242/ctv/ playpath=small swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Supernatural.jpg" tvg-logo="http://logos.iptvglobal.com.br/Supernatural.jpg" group-title="Séries 24 horas",Sobrenatural
+rtmp://208.53.180.242/ctv/ playpath=supernatural swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="TheBigBangTheory.jpg" tvg-logo="http://logos.iptvglobal.com.br/TheBigBangTheory.jpg" group-title="Séries 24 horas",A Teoria de Big Bang
+rtmp://208.53.180.242/ctv/ playpath=big swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="todo%20mundo%20odeia%20o%20cris.jpg" tvg-logo="http://logos.iptvglobal.com.br/todo%20mundo%20odeia%20o%20cris.jpg" group-title="Séries 24 horas",Todo Munda odeia o Chris 
+rtmp://208.53.180.242/ctv/ playpath=cris swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="Ummaluconopeda.jpg" tvg-logo="http://logos.iptvglobal.com.br/Ummaluconopeda.jpg" group-title="Séries 24 horas",Um maluco no pedaco
+rtmp://208.53.180.242/ctv/ playpath=maluconopedaco swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
