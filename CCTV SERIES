@@ -2,6 +2,13 @@
 
 <item>
 <channel>
+<title>[COLOR gold][B]SERIES 24/7[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/SERIES%2024%207.m3u</externallink>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw6dxFIrCmY5xUfkX9r9yE3yagkcdpIIuzPTDgjb2Drh6dUKvf</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item> 
 <title>[COLOR grey][B]Attack on Titan[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/Attack%20on%20Titan.m3u</externallink>
