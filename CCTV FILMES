@@ -9,17 +9,24 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
-<title>[COLOR grey][B]MyIPTV MOVIES[/B][/COLOR]</title>
+<title>[COLOR grey][B]FILMES LEGENDADOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/movies.m3u</externallink>
-<thumbnail>http://www.focusandleap.com/wp-content/uploads/2015/09/movies-logo.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/WxpKPRwP</externallink>
+<thumbnail>http://boasnoticias.pt/img/1381921787film.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
-<item>  
+<item> 
 <title>[COLOR grey][B]CINEMA PORTUGUES[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/3hSZ4XQT</externallink>
 <thumbnail>http://www.cinemaportugues.info/wp-content/uploads/2008/11/acerca1.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR grey][B]MyIPTV MOVIES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/movies.m3u</externallink>
+<thumbnail>http://www.focusandleap.com/wp-content/uploads/2015/09/movies-logo.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
