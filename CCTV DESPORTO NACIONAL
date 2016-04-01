@@ -74,6 +74,26 @@
 </item>
 
 
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B]</title>
+<link>http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8</link>
+<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
+<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
+<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+</item>
+
+
 <item> 
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
@@ -94,26 +114,6 @@
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B]</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8</link>
 <thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
 </item>
 
