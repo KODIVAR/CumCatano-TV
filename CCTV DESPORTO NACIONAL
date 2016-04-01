@@ -17,6 +17,11 @@
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 <item>
+<title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR] [COLOR gold]HD[/COLOR]</title>
+<link>http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+<item>
 <title>[COLOR blue][B][I]SPORT TV 1[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/599/399</link>
 <regex>
@@ -265,7 +270,7 @@
 </item>
 <item> 
 <title>[COLOR blue][B][I]BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>  
-<link>plugin://program.plexus/?url=3538042108e724937da77ad1a3987d99fbfbc728&amp;mode=1&amp;name=BENFICA TV1</link> 
+<link></link> 
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>  
@@ -280,29 +285,12 @@
 </item>
 <item> 
 <title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
-<link>rtmp://94.176.148.211:443/liveedge/ playpath=channel5Rea swfUrl=http://www.turbocast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.turbocast.tv/megatvhd.php?ch=channel5Rea</link>
+<link></link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>
 <title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=caralhof?id=85529&amp;pk=$doregex[get-pk] timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/caralhof/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/caralhof/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</regex>
-</item>
-<item>
-<title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playPath=slbljjtDZS?id=21982$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430 live=true</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyfdx?id=22078$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435 live=true</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -311,7 +299,7 @@
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430</page>
+<page>http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435</page>
 <referer>http://www.streamifyplayer.com</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
@@ -328,12 +316,6 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.firstrow.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
-<referer>http://www.firstrow.ge/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-<item>  
 <title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
