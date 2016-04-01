@@ -285,7 +285,7 @@
 </item>
 <item> 
 <title>[COLOR=blue][B][I]BENFICA TV1  [/I][/B][/COLOR]</title>
-<link></link>
+<link>rtmp://107.182.234.180/live playPath=slbueyfdx?id=22078&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK </link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>
@@ -319,12 +319,6 @@
 <title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-<item>
-<title>[COLOR blue][B][I]BENFICA TV1  [/I][/B][/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://firstrowsports.ge/?watch/408917/6/watch-xonetv.html#.Vv6jOPpCxGk</sportsdevil>
-<referer>http://firstrowsports.ge/</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 <item>
