@@ -104,6 +104,11 @@
 <thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
+<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+</item>
 
 
 <item>
@@ -113,13 +118,6 @@
 </item>
 
 
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 3[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
- 
-                         
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR blue][B] SPORT TV 4[/COLOR][/B]</title>
 <fanart></fanart>
