@@ -1,48 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.pt" tvg-logo="disney junior1.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY JUNIOR[/B][/I][/COLOR]     ON 
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/44.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.pt" tvg-logo="disney junior1.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY JUNIOR[/B][/I][/COLOR]     ON 
-http://ipsatpro.com:8000/live/jetmir/jetmir/905.ts
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.pt" tvg-logo="disney junior1.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY JUNIOR[/B][/I][/COLOR]  
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/904.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.pt" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY CHANNEL[/B][/I][/COLOR] 
+http://ipsatpro.com:8000/live/angelo/angelo/906.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network Portugal.pt" tvg-logo="Cartoon_Network.png" group-title="INFANTIL",[COLOR Gold ][I][B]Cartoon Network Portugal[/B][/I][/COLOR] 
+http://31.204.128.112:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL PANDA.pt" tvg-logo="panda.png" group-title="INFANTIL",[COLOR Gold ][I][B]CANAL PANDA[/B][/I][/COLOR]    
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/19.m3u8
+
+#EXTINF:-1 tvg-id="CANAL PANDA.pt" tvg-logo="panda.png" group-title="INFANTIL",[COLOR Gold ][I][B]PANDA BIGGS[/B][/I][/COLOR] 
+http://tvcolor.dynu.net:8000/live/RicardoSubtilGarcia/LPIBnu8fOQ/123.ts
+
+#EXTINF:-1 tvg-id="SIC Kids.pt" tvg-logo="sic_k.png" group-title="INFANTIL",[COLOR Gold ][I][B]SIC Kids[/B][/I][/COLOR]   
+http://tvcolor.dynu.net:8000/live/RicardoSubtilGarcia/LPIBnu8fOQ/121.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-logo="Nickelodeon HD.png" group-title="INFANTIL",[COLOR Gold ][I][B]NICKELODEON[/B][/I][/COLOR]   
+http://tvcolor.dynu.net:8000/live/RicardoSubtilGarcia/LPIBnu8fOQ/122.ts
+
+#EXTINF:-1 tvg-id="Jim Jam.pt" tvg-logo="JimJam.png" group-title="INFANTIL",[COLOR Gold ][I][B]JIM JAM[/B][/I][/COLOR]  
+http://77.120.118.235:8089
+
+#EXTINF:-1 tvg-id="Baby TV.pt" tvg-logo="Baby_TV.png" group-title="INFANTIL",[COLOR Gold ][I][B]BABY TV[/B][/I][/COLOR]   
+http://tvcolor.dynu.net:8000/live/RicardoSubtilGarcia/LPIBnu8fOQ/117.ts
 
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL.pt" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY CHANNEL[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/40.m3u8
-#EXTINF:-1 tvg-id="DISNEY CHANNEL.pt" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY CHANNEL[/B][/I][/COLOR]     ON
-http://ipsatpro.com:8000/live/jetmir/jetmir/904.ts
-
-#EXTINF:-1 tvg-id="CANAL PANDA.pt" tvg-logo="panda.png" group-title="INFANTIL",[COLOR Gold ][I][B]CANAL PANDA[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/42.m3u8
-
-
-#EXTINF:-1 tvg-id="CANAL PANDA.pt" tvg-logo="panda.png" group-title="INFANTIL",[COLOR Gold ][I][B]PANDA BIGGS[/B][/I][/COLOR]     ON 
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/43.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-logo="Nickelodeon HD.png" group-title="INFANTIL",[COLOR Gold ][I][B]NICKELODEON[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/41.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Jim Jam.pt" tvg-logo="JimJam.png" group-title="INFANTIL",[COLOR Gold ][I][B]JIM JAM[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/48.m3u8
-#EXTINF:-1 tvg-id="Jim Jam.pt" tvg-logo="JimJam.png" group-title="INFANTIL",[COLOR Gold ][I][B]JIM JAM[/B][/I][/COLOR]     ON
-http://ipsatpro.com:8000/live/jetmir/jetmir/918.ts
 
 
-#EXTINF:-1 tvg-id="SIC Kids.pt" tvg-logo="sic_k.png" group-title="INFANTIL",[COLOR Gold ][I][B]SIC Kids[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/45.m3u8
-
-
-#EXTINF:-1 tvg-id="Baby TV.pt" tvg-logo="Baby_TV.png" group-title="INFANTIL",[COLOR Gold ][I][B]BABY TV[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/46.m3u8
-
-
-#EXTINF:-1 tvg-id="Cartoon Network Portugal.pt" tvg-logo="Cartoon_Network.png" group-title="INFANTIL",[COLOR Gold ][I][B]Cartoon Network Portugal[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/47.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network Portugal.pt" tvg-logo="Cartoon_Network.png" group-title="INFANTIL",[COLOR Gold ][I][B]Cartoon Network Portugal[/B][/I][/COLOR]     ON
-http://ipsatpro.com:8000/live/jetmir/jetmir/920.ts
-
-
-#EXTINF:-1 tvg-id="BOOMERANG Portugal.pt" tvg-logo="Boomerang_tv_logo.png" group-title="INFANTIL",[COLOR Gold ][I][B]BOOMERANG Portugal[/B][/I][/COLOR]   OFF
-http://ipsatb.no-ip.info:8000/live/titanic/titanic/378.ts
 
