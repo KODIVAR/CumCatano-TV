@@ -5,21 +5,23 @@
 <title>[COLOR=grey][B][I] RTP 1 [/I][/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
- </item>
+</item>
 <item>  
 <title>[COLOR=grey][B][I] RTP 1 [/I][/B][/COLOR]</title>
-<link>http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8</link>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
 <thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
-   </item>
+</item>
 <item>
 <title>[COLOR=grey][B][I] RTP 2 [/I][/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
- </item>
+</item>
 <item>
 <title>[COLOR=grey][B][I] RTP 2 [/I][/B][/COLOR]</title>
-<link>http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8</link>
- <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
 </item>
 <item>
 <title>[COLOR=grey][B][I] SIC [/I][/B][/COLOR]</title>
@@ -33,24 +35,24 @@
  </item>
 <item>
 <title>[COLOR=grey][B][I] SIC [/I][/B][/COLOR]</title>
-<link></link>
- <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</item>
-<item> 
-<title>[COLOR=grey][B][I] SIC [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicax?id=84756&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicax/1/650/500</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sic90?id=85765$doregex[pk] swfVfy=1 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicax/1/650/500</page>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sic90/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </regex>
+</item>
+<item> 
+<title>[COLOR=grey][B][I] SIC [/I][/B][/COLOR]</title>
+<link>http://c.securestreaming.xyz:1935/live/sichjdebiUW6/chunklist_w89969947.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODA1MiZoYXNoX3ZhbHVlPWI0Y2VjNzdkOWFmNzc5MTlmNjkwOGU0MTE2N2NlZmIzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D   conn=S:OK</link>   
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </item>
 <item>
 <title>[COLOR=grey][B][I] TVI [/I][/B][/COLOR]</title>
