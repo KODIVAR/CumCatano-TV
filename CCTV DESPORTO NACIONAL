@@ -252,6 +252,13 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
+<item> 
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
+<referer>http://tvalgas.com/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 2[/COLOR][/B]</title>
 <link>rtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/730/430</link>
