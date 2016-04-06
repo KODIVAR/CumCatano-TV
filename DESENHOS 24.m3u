@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="http://redhot-fancydress.co.uk/store/images/uploads/Tom%20&%20Jerry%20Logo.jpg", Tom & Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FOBnyTpayfI/VN-hHMTEy8I/AAAAAAAADaw/yBJSZUq76YY/s1600/cartoon-network.jpg", CARTOON CLASSICS 24/7
-mms://72.13.93.186/cartoonclassics
-
 #EXTINF:-1 tvg-logo="http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg", South Park
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 
@@ -38,3 +35,6 @@ rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.sw
 
 #EXTINF:-1 tvg-logo="http://www.cartoonpics.net/data/media/14/batman_cartoon_images_wallpaper.jpg", Batman
 rtmp://208.53.180.178/ctv playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/batman.html
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FOBnyTpayfI/VN-hHMTEy8I/AAAAAAAADaw/yBJSZUq76YY/s1600/cartoon-network.jpg", CARTOON CLASSICS 24/7
+mms://72.13.93.186/cartoonclassics
