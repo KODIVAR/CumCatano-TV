@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR blue][B]---- Fear the Walking Dead ----[/B][/COLOR]
+#EXTINF:-1, [COLOR red][B]---- Fear the Walking Dead ----[/B][/COLOR]
 http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://goo.gl/lV3V21" group-title="Fear the Walking Dead Legendado", Fear the Walking Dead (S01E01) - Pilot
 http://3578685314428226.netcine.tv/ftwd/S01E01-BAIXO.mp4
@@ -16,9 +16,8 @@ http://3578685314428226.netcine.tv/ftwd/S01E06-BAIXO.mp4
 
 
 
-
-
-
+#EXTINF:-1, [COLOR blue][B]---- Fear the Walking Dead Flight 462 ----[/B][/COLOR]
+http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://goo.gl/F086pI" group-title="Fear the Walking Dead Flight 462 Legendado", Fear the Walking Dead: Flight 462 - 1 
 http://www.dailymotion.com/video/x38l3dr
 
