@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR gold][B]  HD[/B][/COLOR]</title>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8</link>
-</item>
-
-
-<item> 
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=43wea?id=25723$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>greyirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/43wea/1/650/500</page>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -45,16 +23,29 @@
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/1/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV1</link>
+<link>plugin://program.plexus/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=SPORT TV 1</link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&</link>
+<link>plugin://plugin.video.p2p-streams/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=SPORT TV 1</link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
@@ -240,8 +231,8 @@
 
 <item>  
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
-<referer>http://tvalgas.com/</referer>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
