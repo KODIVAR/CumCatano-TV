@@ -301,6 +301,22 @@ item>
 </regex>
 </item>
 <item>
+<title>[COLOR=white][B][I] AXN [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10  conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226  pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.pubucaster.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                       
+<name>get-pk</name>                        
+<expres>pk=(.*?)'</expres>                       
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/450</page>                        
+<referer>http://www.embeducaster.com/</referer>     
+<thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
+</regex>
+</item>
+<item>
 <title>[COLOR=white][B][I] AXN WHITE [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
 <regex>
@@ -320,6 +336,12 @@ item>
 <title>[COLOR=white][B][I] FOX [/I][/B][/COLOR]</title>
 <sportsdevil>http://www.desportonline.net/index.php?canal=fox</sportsdevil>
 <referer>http://www.desportonline.net/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] FOX [/I][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
+<referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
 </item>
 <item>
