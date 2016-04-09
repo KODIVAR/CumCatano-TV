@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B]</title>
+<link>http://80.218.105.191:8000/play/a00t</link>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B]</title>
+<link><link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link><</link>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
