@@ -337,3 +337,19 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportingtv.png</thumbnail>
 </item>
  
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORTING TV [/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=eurosport0x?id=24421$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/eurosport0x/1/650/500 live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/eurosport0x/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png</thumbnail>
+</regex>
+</item>
