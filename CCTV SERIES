@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<channel>
+<title>[COLOR blue]Series Exodus[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvNavigator</jsonrpc>
+<thumbnail>http://kodistop.com/wp-content/uploads/2016/02/exodus-364x245.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
 <title>[COLOR gold][B]SERIES 24/7[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/SERIES%2024%207.m3u</externallink>
