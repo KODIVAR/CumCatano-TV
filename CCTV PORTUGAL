@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channels>
-<channel> 
+<item>
 <title>[COLOR=green][B][I] PREMIUM HD [/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/s1r49epF</externallink>
@@ -9,7 +8,7 @@
 </item>
 
 
-<channel>
+<item>
 <name>[COLOR green] [I]PORTUGAL[/I] [/COLOR] </name>
 <thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
