@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR=green][B][I] PREMIUM HD [/I][/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR=green][B][I] PREMIUM HD [/I][/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/s1r49epF</externallink>
 <thumbnail>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</thumbnail>
 </item>
 
+
+<channel>
+<name>[COLOR green] [I] PORTUGAL [/I] [/COLOR] </name>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+<fanart>http://blog.weholi.com/wp-content/uploads/2014/11/PT-Albufeira-25-1024x576.jpg</fanart>
+</subitem>
+</item>
 
 <item>
 <title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR]</title>
