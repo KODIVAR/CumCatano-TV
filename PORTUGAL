@@ -181,7 +181,7 @@
 </regex>
 </item>
 
-item>
+<item>
 <title>[COLOR=white][B][I] A BOLA TV[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/stream playpath=abolatvg?id=85984$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500 live=true timeout=10</link>
 <regex>
