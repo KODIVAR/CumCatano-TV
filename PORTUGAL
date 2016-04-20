@@ -240,13 +240,6 @@
 </item>
 
 <item>
-<title>[COLOR=white][B][I] SIC MULHER [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=white][B][I] TVI FICCAO [/I][/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
