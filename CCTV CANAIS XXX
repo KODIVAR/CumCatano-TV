@@ -5,16 +5,50 @@
 <item>
 <parentalblock>true</parentalblock>
 <title>[COLOR red][B][I]HOT [/I][/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.net/index.php?canal=hot</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<link>rtmp://$doregex[get-ip]/live playpath=porcas?id=86529$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399 live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/porcas/1/599/399</page>
+<referer>http://www.embeducaster.com</referer>
 <thumbnail>http://www.wtvision.com/files/img/news/hotgold.jpg</thumbnail>
+</regex>
 </item>
+
 <item>
 <parentalblock>true</parentalblock>
-<title>[COLOR red][B][I]JDORCEL TV [/I][/B][/COLOR] F4M</title>
-<link>plugin://plugin.video.f4mTester/?url=http://diablotv.ddns.me:8000/live/pacino/pacino/993.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://pbs.twimg.com/profile_images/1584733355/Logo4.png</thumbnail>
+<title>[COLOR red] [I]BRAZZERS[/I] [/COLOR] F4M</title>
+<link>plugin://plugin.video.f4mTester/?url=http://itv.zapto.org:8000/live/XUpHIFwPut/qAr7sICx4E/1304.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
 </item>
+ 
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR red] [I]PASSION[/I] [/COLOR] F4M</title>
+<link>plugin://plugin.video.f4mTester/?url=http://itv.zapto.org:8000/live/XUpHIFwPut/qAr7sICx4E/210.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+ 
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR red] [I]PENTHOUSE HD[/I] [/COLOR] F4M</title>
+<link>http://edge1.everyon.tv/etv1sb/phd10927/chunklist_w47378470.m3u8?time=1460348638688</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+ 
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR red] [I]HUSTLER[/I] [/COLOR] F4M</title>
+<link>plugin://plugin.video.f4mTester/?url=http://itv.zapto.org:8000/live/XUpHIFwPut/qAr7sICx4E/209.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+
 <item>
 <parentalblock>true</parentalblock>
 <title>[COLOR red][B][I]Jasmin TV [/I][/B][/COLOR] F4M</title>
@@ -24,7 +58,7 @@
 <item>
 <parentalblock>true</parentalblock>
 <title>[COLOR red][B][I]PLAYBOY[/I][/B][/COLOR]</title>
-<link>http://5.152.199.130/iptv/TWKABPT539/527/index.m3u8</link>
+<link>http://62.210.251.159/iptv/DTBGR6V597TBPF/527/index.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/_-9Mfz-N1qkg/SoOp9nLUi0I/AAAAAAAABak/1767qe44ckw/s200/Playboy_TV_Logo.png</thumbnail>
 </item>
 <item>
