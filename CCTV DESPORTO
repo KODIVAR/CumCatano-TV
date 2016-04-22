@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<channel>  
-<title>[COLOR lime][B][I]LIGA NOS [/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/XkCM6sBV</externallink>
-<thumbnail>http://s12.postimg.org/7x84gmeq5/Liga_Nos_2015_16.png</thumbnail>
-</item>
-<item>            
-<title>[COLOR lime][B][I]LIGA EUROPA/LIGA CAMPEOES [/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/E9ZDBiHK</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UEFA_logo.svg/600px-UEFA_logo.svg.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR gold][B][I]DESPORTO NACIONAL[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -26,6 +14,26 @@
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV%20DESPORTO%20INTERNACIONAL</externallink>
 <thumbnail>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR gold][B][I]HD SPORTS [/I][/B][/COLOR] F4M</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/31f1YyiA</externallink>
+<thumbnail>https://i.ytimg.com/vi/eb1WpOc2hrg/hqdefault.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<channel>  
+<title>[COLOR lime][B][I]LIGA NOS [/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/XkCM6sBV</externallink>
+<thumbnail>http://s12.postimg.org/7x84gmeq5/Liga_Nos_2015_16.png</thumbnail>
+</item>
+<item>            
+<title>[COLOR lime][B][I]LIGA EUROPA/LIGA CAMPEOES [/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/E9ZDBiHK</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UEFA_logo.svg/600px-UEFA_logo.svg.png</thumbnail>
 </item>
 <item>
 <title>[COLOR red][B][I]CANAIS PLEXUS[/I][/B][/COLOR]</title>
