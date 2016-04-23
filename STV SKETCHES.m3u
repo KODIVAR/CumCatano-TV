@@ -5,6 +5,8 @@ plugin://plugin.video.youtube/play/?video_id=6HYMZ82MmM4
 plugin://plugin.video.youtube/play/?video_id=UgkWqHu2tz0
 #EXTINF:-1, Anedotas Portuguesas (Aldo Lima/Fernando Rocha) 
 plugin://plugin.video.youtube/play/?video_id=OQMDfLn9HFM
+#EXTINF:-1, Informação Dramática - TVI  
+plugin://plugin.video.youtube/play/?video_id=zhQT2FdwOZg
 #EXTINF:-1, Melhores Apanhados e Imprevistos da TV - É Só RIR 
 plugin://plugin.video.youtube/play/?video_id=I1oJf46u_bs
 #EXTINF:-1, Apanhados da Tv Portuguesa 2014 
