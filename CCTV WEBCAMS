@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<channel>
 <title>[COLOR blue][B]MyIPTV WEBCAMS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/webcamsmundoepraias.m3u</externallink>
 <thumbnail>http://www.deltaradio.net/images/webcam.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
+
+<item>  
+<title>[COLOR blue][B]LIVE CAMS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://community-links.googlecode.com/svn/trunk/Live-CAMs.xml</externallink>
+<thumbnail>https://liammjwise.files.wordpress.com/2013/06/tb_live_icon.png?w=474&h=474</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+
 <item>  
 <title>[COLOR blue][B]REDENEOBUX WEBCAMS[/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -15,6 +23,7 @@
 <thumbnail>http://www.deltaradio.net/images/webcam.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
+
 <item>  
 <title>[COLOR blue][B]JAVI WEBCAMS[/B][/COLOR]</title>
 <link>http://ignorame</link>
