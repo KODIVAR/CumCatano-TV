@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
-<channel>
 <title>[COLOR lawngreen][B]MARTUNIS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/K2X65rB3</externallink>
+<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR lawngreen][B]MARTUNIS 2[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/CcTEJWYC</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
