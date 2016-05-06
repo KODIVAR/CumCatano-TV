@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<channel>
 <title>[COLOR orange][B]CANAIS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CANAIS%20MUSICA.m3u</externallink>
 <thumbnail>http://www.musicpiya.com/wp-content/uploads/2015/02/Free-Music-Wallpapers-HD-for-PC-13.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR orange][B]CANAIS PM[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/a7ACRD2g</externallink>
+<thumbnail>http://i.imgur.com/oQzOJw6.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
