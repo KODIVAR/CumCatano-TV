@@ -1,306 +1,79 @@
+
+
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 04-03-2016 ---[/B][/I][/COLOR] [COLOR pink][I][B]UPDATE: 2[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green]--REDENEOBUX.COM 04-03-2016--[/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]--- 06-05-2016 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green]--REDENEOBUX.COM 06-05-2016--[/COLOR]
+
+
+
+
+
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-http://0.0.0.0:1234
 
 
-#EXTINF:-1,[I][B][COLOR blue]------------------- ALEMANHA --------------------[/COLOR][/B][/I]
-http://0.0.0.0:1234
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/79" tvg-id="49e16162fa001c16108723ddf7db0099",Sky Bundesliga 1
+http://217.83.226.154:9981/stream/channelid/1650581833?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/78" tvg-id="3fa345e8dea815843ffcf02dc57e106c",Sky Cinema
+http://217.83.226.154:9981/stream/channelid/1749394239?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/26" tvg-id="1d8709595f7617e5a5fd45242df6817e",Das Erste
+http://217.83.226.154:9981/stream/channelid/1493796637?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/36" tvg-id="bea3ff294eba73589a98b2e788a39ec5",ZDF
+http://217.83.226.154:9981/stream/channelid/704619454?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/37" tvg-id="cb6f85974fe8b1fb7f10e3013b6b81d6",RTL
+http://217.83.226.154:9981/stream/channelid/394620875?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/42" tvg-id="37ebb7e1628c151af1f8fe7646f16a02",RTL II
+http://217.83.226.154:9981/stream/channelid/1639443255?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/38" tvg-id="3f600ce32d3e85fc395e28da07deff48",Sat.1
+http://217.83.226.154:9981/stream/channelid/1661755455?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/39" tvg-id="31fd60290c61ad28550a0f0cea80c60a",ProSieben
+http://217.83.226.154:9981/stream/channelid/694222129?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/41" tvg-id="39d05b20d63784e58257f942edf4994f",Kabel 1
+http://217.83.226.154:9981/stream/channelid/542887993?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/40" tvg-id="76d82205c27fa0a0ddae1b7c0de15281",VOX
+http://217.83.226.154:9981/stream/channelid/86169718?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/43" tvg-id="b646136e872db1963c8bf68b1b22b7e8",Super RTL
+http://217.83.226.154:9981/stream/channelid/1846757046?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/44" tvg-id="27459d4631df0d5ba531b05b7dceaa29",KiKA
+http://217.83.226.154:9981/stream/channelid/1184711975?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/23" tvg-id="4e16c18094c67dfb7b6324380d7b0bfa",Das Erste HD
+http://217.83.226.154:9981/stream/channelid/12654158?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/52" tvg-id="2667472200202ccb6feb8ac582f57a5e",ZDF HD
+http://217.83.226.154:9981/stream/channelid/575104806?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/51" tvg-id="586a4e29af04657b2a8120fe84f086b5",RTL HD
+http://217.83.226.154:9981/stream/channelid/693004888?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/25" tvg-id="2408bae5a7a89cfc13bb3bc05e60df70",Sky Cinema HD
+http://217.83.226.154:9981/stream/channelid/1706690596?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/73" tvg-id="06d7ccc8be909008951aa70d853a6e9c",Sky Cinema+24 HD
+http://217.83.226.154:9981/stream/channelid/1221383942?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/74" tvg-id="a35a88e033c846f8d7452cca90e9847a",Sky Hits HD
+http://217.83.226.154:9981/stream/channelid/1619548835?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/55" tvg-id="b06af91c45b84cc8a3e6bb98fd8de0f2",Sky Atlantic HD
+http://217.83.226.154:9981/stream/channelid/486107824?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/75" tvg-id="3440cc410edd90b31e59f5fb7ecebee2",Sky Action HD
+http://217.83.226.154:9981/stream/channelid/1103904820?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/56" tvg-id="d060b4fc0c934b82c97d3ba720b909c0",Disney Cinemagic HD
+http://217.83.226.154:9981/stream/channelid/2092196048?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/55" tvg-id="e72a3dbb41fd2dbecddbaefe335305c2",Sky Atlantic HD
+http://217.83.226.154:9981/stream/channelid/993864423?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/50" tvg-id="416cb282778d1a21bf1874f992cb2dba",Sky 3D
+http://217.83.226.154:9981/stream/channelid/45247553?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/57" tvg-id="b8cbb3e274c87e79deac8a8dfb21f86f",Sky Bundesliga HD 1
+http://217.83.226.154:9981/stream/channelid/1655950264?ticket=&profile=pass
+#EXTINF:-1 logo="http://217.83.226.154:9981/imagecache/60" tvg-id="04b9ed1c992f775958bdbe57f997dc94",Sky Bundesliga HD 2
+http://217.83.226.154:9981/stream/channelid/485341444?ticket=&profile=pass
 
- 
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[I][B][COLOR yellow]---★ Temporare Kanale ★---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[COLOR yellow][I][B]Einige Kanäle können nicht funktionieren,[/B][/I][/COLOR]
 
 
-#EXTINF:-1,[COLOR yellow][I][B]haben buffer oder hinunter nach ein paar Sekunden.[/B][/I][/COLOR]
 
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,DE:Sky Sport 1
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8451.m3u8
-#EXTINF:-1,DE:Sky Sport 2
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8450.m3u8
-#EXTINF:-1,DE:Sky Sport Austria
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8449.m3u8
-#EXTINF:-1,Teleclub Sport 1
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4669.m3u8
-#EXTINF:-1,Teleclub Sport 2
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4668.m3u8
-#EXTINF:-1,Teleclub Sport 3
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4667.m3u8
-#EXTINF:-1,ExtreamSpo.m3u8 DE
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4603.m3u8
-#EXTINF:-1,DE:Eurosport HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8565.m3u8
-#EXTINF:-1,DE:Sky Cinema
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8465.m3u8
-#EXTINF:-1,DE:SKY Cinema 1
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8466.m3u8
-#EXTINF:-1,DE:Sky Cinema 24
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8467.m3u8
-#EXTINF:-1,DE:SKY Cinema Emotion
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8464.m3u8
-#EXTINF:-1,Teleclub cinema
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4566.m3u8
-#EXTINF:-1,Teleclub crime
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4567.m3u8
-#EXTINF:-1,Teleclub star
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4568.m3u8
-#EXTINF:-1,DE:Sky Comedy
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8463.m3u8
-#EXTINF:-1,DE:Sky TNT Serie
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8448.m3u8
-#EXTINF:-1,DE:Sky Natgeo Wild
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8454.m3u8
-#EXTINF:-1,DE:SKY NatGeo
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8455.m3u8
-#EXTINF:-1,DE:Sky Sci-Fi
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8452.m3u8
-#EXTINF:-1,DE:SKY Nostalgie
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8453.m3u8
-#EXTINF:-1,DE:Sky Krimi
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8456.m3u8
-#EXTINF:-1,DE:SKY Junior
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8457.m3u8
-#EXTINF:-1,DE:Sky Disney XD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8461.m3u8
-#EXTINF:-1,DE:Nick Jr
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8472.m3u8
-#EXTINF:-1,DE:Disney Channel
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8568.m3u8
-#EXTINF:-1,DE:Sky H.m3u8
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8458.m3u8
-#EXTINF:-1,DE:Sky Heimakanal
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8459.m3u8
-#EXTINF:-1,DE:Sky Fox
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8460.m3u8
-#EXTINF:-1,DE:Sky Discovery
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8462.m3u8
-#EXTINF:-1,DE:Sky Atlantic
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8468.m3u8
-#EXTINF:-1,DE:Sky Action
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8469.m3u8
-#EXTINF:-1,DE:RTL Passion
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8470.m3u8
-#EXTINF:-1,DE:RTL Crime
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8471.m3u8
-#EXTINF:-1,DE:MGM
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8473.m3u8
-#EXTINF:-1,DE:Arte HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/5208.m3u8
-#EXTINF:-1,DE:Animal Plan
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8474.m3u8
-#EXTINF:-1,DE: Sky Planet HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4607.m3u8
-#EXTINF:-1,DE: FOX HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4601.m3u8
-#EXTINF:-1,DE:Zdf HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8526.m3u8
-#EXTINF:-1,DE:WDR HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8527.m3u8
-#EXTINF:-1,DE:Vox
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8528.m3u8
-#EXTINF:-1,DE:Universal Channel HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8529.m3u8
-#EXTINF:-1,DE:TNT Film HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8530.m3u8
-#EXTINF:-1,DE:SYFY HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8531.m3u8
-#EXTINF:-1,DE:Sky Action HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8542.m3u8
-#EXTINF:-1,DE:Sixx
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8553.m3u8
-#EXTINF:-1,DE:Sat 1
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8554.m3u8
-#EXTINF:-1,DE:RTL Nitro
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8555.m3u8
-#EXTINF:-1,DE:RTL 2
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8556.m3u8
-#EXTINF:-1,DE:RTL
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8557.m3u8
-#EXTINF:-1,DE:Pro 7 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8558.m3u8
-#EXTINF:-1,DE:N-TV
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8560.m3u8
-#EXTINF:-1,DE:MGM HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8561.m3u8
-#EXTINF:-1,DE:M6 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8562.m3u8
-#EXTINF:-1,DE:Kabel 1
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8563.m3u8
-#EXTINF:-1,DE:History  HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8564.m3u8
-#EXTINF:-1,DE:Discovery Channel HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8569.m3u8
-#EXTINF:-1,DE:Axn HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8571.m3u8
-#EXTINF:-1,DE:Ard
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8572.m3u8
-#EXTINF:-1,DE:A&E
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8573.m3u8
-#EXTINF:-1,DE:7 Maxx
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8574.m3u8
-#EXTINF:-1,DE:3 Sat HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8575.m3u8
-#EXTINF:-1,DE:Sky Select 1
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8541.m3u8
-#EXTINF:-1,DE:Sky Select 2
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8540.m3u8
-#EXTINF:-1,DE:Sky Select 3
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8539.m3u8
-#EXTINF:-1,DE:Sky Select 4
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8538.m3u8
-#EXTINF:-1,DE:Sky Select 5
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8537.m3u8
-#EXTINF:-1,DE:Sky Select 6
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8536.m3u8
-#EXTINF:-1,DE:Sky Select 7
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8535.m3u8
-#EXTINF:-1,DE:Sky Select 8
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8534.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 1 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8552.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 2 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8550.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 3 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8549.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 4 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8548.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 5 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8547.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 6 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8546.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 7 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8545.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 8 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8544.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 9 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8543.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 10 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8551.m3u8
-#EXTINF:-1,DE:Super Rtl
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8532.m3u8
-#EXTINF:-1,DE:Sport 1 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8533.m3u8
-#EXTINF:-1,DE:NDR HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8559.m3u8
-#EXTINF:-1,DE:Euronews
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8566.m3u8
-#EXTINF:-1,DE:Cartoon Network
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8570.m3u8
-#EXTINF:-1,DE:13Th Streeet HD DE
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/8576.m3u8
-#EXTINF:-1,DE: Zdf Neo
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9440.m3u8
-#EXTINF:-1,DE: Zdf Kultur
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9441.m3u8
-#EXTINF:-1,DE: TLC
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9437.m3u8
-#EXTINF:-1,DE: SRF 2 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4588.m3u8
-#EXTINF:-1,DE: SRF 1 HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/4589.m3u8
-#EXTINF:-1,DE: Sportdigital HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9444.m3u8
-#EXTINF:-1,DE: Sky Sport News HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9443.m3u8
-#EXTINF:-1,DE: Sky Kinowelt TV
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9442.m3u8
-#EXTINF:-1,DE: Sat 1 GOLD HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9428.m3u8
-#EXTINF:-1,DE: PRO 7 MAXX
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9429.m3u8
-#EXTINF:-1,DE: Phoenix
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9430.m3u8
-#EXTINF:-1,DE: NTV
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9431.m3u8
-#EXTINF:-1,DE: NICKELEDEON
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9435.m3u8
-#EXTINF:-1,DE: M2O Music
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9433.m3u8
-#EXTINF:-1,DE: Kika-HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9434.m3u8
-#EXTINF:-1,DE: Juke Box
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9436.m3u8
-#EXTINF:-1,DE: Eins Plus
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9438.m3u8
-#EXTINF:-1,DE: Delux Music HD
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9432.m3u8
-#EXTINF:-1,DE: DE WELTDERWUNDER
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9427.m3u8
-#EXTINF:-1,DE: A&E
-http://cobra-iptv.noip.me:8000/live/jimmy/jimmy/9439.m3u8
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow][I][B]DE/FR/UK/IT [/B][/I][/COLOR] [COLOR white][I][B]- Kopieren und Einfugen der [COLOR yellow]Playlist URL[/COLOR] in PVR Simple Client oder Playlist Loader.[/B][/I][/COLOR]
+#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 
-
-#EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]und sollte in der PVR Simple Client platziert werden.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]Die Kanale sind unterschiedlicher Nationalitaten und sind in alphabetischer Reihenfolge geordnet.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]Leider ist es die einzige Moglichkeit, um die Kanale zu sehen.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR orange][I][B]Alle diese Streams können frei über das Internet gefunden werden...[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://snurl.com/marcello[/COLOR]
-
-
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-
-
-#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-
-#EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", [COLOR gold]Das Erste[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=71565725
-#EXTINF:0003 tvg-id="zdf.de" group-title="DE Hauptsender" tvg-logo="520869.png", [COLOR gold]ZDF[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=89460817
-
-
-#EXTINF:0014 tvg-id="servustv.de" group-title="DE Hauptsender" tvg-logo="506777.png", [COLOR gold]ServusTV HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91552152
 #EXTINF:0016 tvg-id="daf.de" group-title="DE Nachrichtensender" tvg-logo="133390.png", [COLOR gold]DAF[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=38226521
-#EXTINF:0017 tvg-id="ntv.de" group-title="DE Nachrichtensender" tvg-logo="323539.png", [COLOR gold]n-tv[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=36117276
 #EXTINF:0018 tvg-id="tagesschau24.de" group-title="DE Nachrichtensender" tvg-logo="420228.png", [COLOR gold]tagesschau24 HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=66943285
 #EXTINF:0019 tvg-id="n24.de" group-title="DE Nachrichtensender" tvg-logo="692106.png", [COLOR gold]N24[/COLOR]
@@ -317,203 +90,79 @@ http://api.iptv.ink/pl.m3u8?ch=37960481
 http://api.iptv.ink/pl.m3u8?ch=66725953
 #EXTINF:0032 tvg-id="ndrsh.de" group-title="DE Regionalsender" tvg-logo="837900.png", [COLOR gold]NDR Schleswig-Hol. HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=68869115
-#EXTINF:0033 tvg-id="wdr.de" group-title="DE Regionalsender" tvg-logo="829753.png", [COLOR gold]WDR HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=86222576
-#EXTINF:0034 tvg-id="mdrsa.de" group-title="DE Regionalsender" tvg-logo="359097.png", [COLOR gold]mdr Sachsenanhalt[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=19246790
-#EXTINF:0035 tvg-id="mdrs.de" group-title="DE Regionalsender" tvg-logo="434439.png", [COLOR gold]mdr Sachsen[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=43846332
-#EXTINF:0036 tvg-id="mdrt.de" group-title="DE Regionalsender" tvg-logo="795294.png", [COLOR gold]mdr Thuringen[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=62127479
-#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", [COLOR gold]BR Nord HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91032489
-#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", [COLOR gold]BR Sud HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=93405226
 #EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", [COLOR gold]SWR Rheinland-Pfalz HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=66994086
 #EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", [COLOR gold]SWR Baden-Wurt. HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=86487325
 #EXTINF:0040 tvg-id="hr.de" group-title="DE Regionalsender" tvg-logo="872109.png", [COLOR gold]hr HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=92038145
-#EXTINF:0042 tvg-id="sr.de" group-title="DE Regionalsender" tvg-logo="153584.png", [COLOR gold]SR[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=70352001
-#EXTINF:0043 tvg-id="munchen.de" group-title="DE Regionalsender" tvg-logo="465700.png", [COLOR gold]munchen.tv[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=87047525
 #EXTINF:0044 tvg-id="alexberlin.de" group-title="DE Regionalsender" tvg-logo="806954.png", [COLOR gold]Alex Berlin[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=65304965
-#EXTINF:0045 tvg-id="nrw.de" group-title="DE Regionalsender" tvg-logo="452899.png", [COLOR gold]NRW TV[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=23906919
 #EXTINF:0046 tvg-id="arte.de" group-title="DE Spartensender" tvg-logo="602298.png", [COLOR gold]arte[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=46301796
-#EXTINF:0047 tvg-id="3sat.de" group-title="DE Spartensender" tvg-logo="517353.png", [COLOR gold]3sat[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=20739466
-#EXTINF:0048 tvg-id="phoenix.de" group-title="DE Spartensender" tvg-logo="782023.png", [COLOR gold]Phoenix[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=86652639
-#EXTINF:0049 tvg-id="alpha.de" group-title="DE Spartensender" tvg-logo="535798.png", [COLOR gold]ARD Alpha HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=36929284
-#EXTINF:0051 tvg-id="blizz.de" group-title="DE Spartensender" tvg-logo="897815.png", [COLOR gold]blizz TV HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=72718361
-#EXTINF:0052 tvg-id="family.de" group-title="DE Spartensender" tvg-logo="693134.png", [COLOR gold]Family TV HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=12138379
-#EXTINF:0055 tvg-id="zdfneo.de" group-title="DE Spartensender" tvg-logo="698970.png", [COLOR gold]ZDFneo[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=83251092
-#EXTINF:0056 tvg-id="zdfkultur.de" group-title="DE Spartensender" tvg-logo="734448.png", [COLOR gold]ZDFkultur[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=70552908
-#EXTINF:0057 tvg-id="zdfinfo.de" group-title="DE Spartensender" tvg-logo="387164.png", [COLOR gold]ZDFinfo[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=46937073
-#EXTINF:0058 tvg-id="anixe.de" group-title="DE Spartensender" tvg-logo="581947.png", [COLOR gold]Anixe[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=70153119
-#EXTINF:0059 tvg-id="dw.de" group-title="DE Spartensender" tvg-logo="730024.png", [COLOR gold]Deutsche Welle[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=72519784
 #EXTINF:0061 tvg-id="weltderwunder.de" group-title="DE Spartensender" tvg-logo="729583.png", [COLOR gold]Welt der Wunder TV[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=84481021
-#EXTINF:0064 tvg-id="bibeltv.de" group-title="DE Religion" tvg-logo="206560.png", [COLOR gold]Bibel TV[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=40925356
-#EXTINF:0067 tvg-id="orf3.at" group-title="AT Spartensender" tvg-logo="510154.png", [COLOR orange]ORF III[/COLOR]
-http://hls.tv.iptv.ink/orf3at@510154.m3u8|X-Forwarded-For=93.82.18.55
-#EXTINF:0068 tvg-id="orfsportplus.at" group-title="AT Sport" tvg-logo="722628.png", [COLOR orange]ORF Sport+[/COLOR]
-http://hls.tv.iptv.ink/orfsportplusat@722628.m3u8|X-Forwarded-For=93.82.18.55
 
 
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- Andere deutsche Kanale ---[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:0002 tvg-id="daserste.de" tvg-logo="609281.png", Das Erste
 http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
-#EXTINF:0003 tvg-id="zdf.de" tvg-logo="520869.png", ZDF
-http://zdf-hds-de-f.zdf.de/i/de14_v1@147090/index_710_av-b.m3u8
+
 #EXTINF:0065 tvg-id="orfeins.at" tvg-logo="521494.png", ORF 1
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
+
 #EXTINF:0066 tvg-id="orf2.at" tvg-logo="103185.png", ORF 2
 http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",Servus TV
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+
 #EXTINF:0052 tvg-id="family.de" tvg-logo="693134.png", Family TV HD
 http://83.169.58.38:1935/live/Stream3/playlist.m3u8
+
 #EXTINF:0051 tvg-id="blizz.de" tvg-logo="897815.png", blizz TV HD
 http://lb.hd-livestream.de/live/DasneueTV/playlist.m3u8
+
 #EXTINF:0040 tvg-id="hr.de" tvg-logo="872109.png", hr fernsehen
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
-#EXTINF:0057 tvg-id="zdfinfo.de" tvg-logo="387164.png", zdf info
-http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/index_1456_av-b.m3u8
+
 #EXTINF:0018 tvg-id="tagesschau24.de" tvg-logo="420228.png", tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?b=400-4000
+
 #EXTINF:0046 tvg-id="arte.de" tvg-logo="602298.png", arte
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8 
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
+
 #EXTINF:0033 tvg-id="wdr.de" tvg-logo="829753.png", WDR HD
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8?b=400-4000
+
 #EXTINF:0029 tvg-id="ndrhh.de" tvg-logo="345745.png", NDR Hamburg HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+
 #EXTINF:0030 tvg-id="ndrmv.de" tvg-logo="293767.png", NDR MV HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+
 #EXTINF:0032 tvg-id="ndrsh.de" tvg-logo="837900.png", NDR SH HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
-#EXTINF:0035 tvg-id="mdrs.de" tvg-logo="434439.png", mdr
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/index_1728_av-b.m3u8
+
 #EXTINF:0232 tvg-id="euronews.fr" group-title="FR Informations" tvg-logo="204281.png", euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_de.m3u8
+
 #EXTINF:0059 tvg-id="dw.de" tvg-logo="730024.png", Deutsche Welle
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+
 #EXTINF:0045 tvg-id="nrw.de" tvg-logo="452899.png", NRW TV
 http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+
 #EXTINF:-1, Okto TV
 http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
-#EXTINF:0042 tvg-id="sr.de" tvg-logo="153584.png", SR
-http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+
 #EXTINF:0028 tvg-id="joiz.de" tvg-logo="754941.png", Joiz HD
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
+
 #EXTINF:0019 tvg-id="n24.de" tvg-logo="692106.png", N24
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+
 #EXTINF:0061 tvg-id="weltderwunder.de" tvg-logo="729583.png", Welt der Wunder TV
 http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/playlist.m3u8
-#EXTINF:0070 tvg-id="gotv.at" tvg-logo="157747.png", gotv Music
-http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8
+
 #EXTINF:0023 tvg-id="ric.de" tvg-logo="548620.png", RiC
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
-#EXTINF:0058 tvg-id="anixe.de" tvg-logo="581947.png", ANIXE
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- Sports ----[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 1HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanäle 2 ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:0, ARTE 
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8 
-
-#EXTINF:-1 tvg-id="AnixeHD.de" tvg-logo="anixesd.png", ANIXE
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
-
-#EXTINF:-1,ALEX TV 1024*576
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
-
-#EXTINF:0,Rfhv De
-rtmp://62.113.210.250/medienasa-live/RFH_high
-
-#EXTINF:0,Elbe Kanal De
-rtmp://62.113.210.250/medienasa-live/elbe_high
-
-#EXTINF:-1,Tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Wel der Wunder TV
-http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
-
-#EXTINF:-1,Das Neue TV
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-
-#EXTINF:-1,Family TV
-http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
-
-#EXTINF:-1,Alex Berlin^
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
-
-#EXTINF:-1, Das Neue TV
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
 
 #EXTINF:-1,Deutsches Anlegerfernsehen
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
@@ -666,10 +315,442 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
 
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
 
+#EXTINF:-1,[COLOR yellow]--- Sports ----[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0002 tvg-id="rtl.de" group-title="DE Hauptsender"", [COLOR gold]Sport1[/COLOR]
+http://54.247.34.239/streams/erde/playlist1.m3u8
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 1HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
 
 
+#EXTINF:-1,[I][B][COLOR yellow]---★ Temporare Kanale ★ - Manchmal ON/OFF---[/COLOR][/B][/I]
+http://0.0.0.0:1234
 
 
-
+#EXTINF:-1,1-2-3.tv
+http://37.49.65.40:9981/stream/channelid/215?
+#EXTINF:-1,1LIVE
+http://37.49.65.40:9981/stream/channelid/241?
+#EXTINF:-1,1LIVE diggi
+http://37.49.65.40:9981/stream/channelid/231?
+#EXTINF:-1,3Sat HD
+http://37.49.65.40:9981/stream/channelid/24?
+#EXTINF:-1,3sat
+http://37.49.65.40:9981/stream/channelid/312?
+#EXTINF:-1,ANTENNE BAYERN
+http://37.49.65.40:9981/stream/channelid/207?
+#EXTINF:-1,ARD-alpha
+http://37.49.65.40:9981/stream/channelid/99?
+#EXTINF:-1,AlternativeFM
+http://37.49.65.40:9981/stream/channelid/210?
+#EXTINF:-1,Antenne 1
+http://37.49.65.40:9981/stream/channelid/204?
+#EXTINF:-1,Antenne Brandenburg
+http://37.49.65.40:9981/stream/channelid/266?
+#EXTINF:-1,B5 aktuell
+http://37.49.65.40:9981/stream/channelid/233?
+#EXTINF:-1,B5 plus
+http://37.49.65.40:9981/stream/channelid/249?
+#EXTINF:-1,BAYERN plus
+http://37.49.65.40:9981/stream/channelid/242?
+#EXTINF:-1,BBC HD
+http://37.49.65.40:9981/stream/channelid/22?
+#EXTINF:-1,BR Fernsehen Nord
+http://37.49.65.40:9981/stream/channelid/246?
+#EXTINF:-1,BR Fernsehen Süd
+http://37.49.65.40:9981/stream/channelid/260?
+#EXTINF:-1,BR-KLASSIK
+http://37.49.65.40:9981/stream/channelid/252?
+#EXTINF:-1,BWeins Landtagskanal
+http://37.49.65.40:9981/stream/channelid/224?
+#EXTINF:-1,Bayerisches FS Nord
+http://37.49.65.40:9981/stream/channelid/196?
+#EXTINF:-1,Bayern 1
+http://37.49.65.40:9981/stream/channelid/236?
+#EXTINF:-1,Bayern 2
+http://37.49.65.40:9981/stream/channelid/258?
+#EXTINF:-1,Bayern 3
+http://37.49.65.40:9981/stream/channelid/245?
+#EXTINF:-1,Beate-Uhse.TV
+http://37.49.65.40:9981/stream/channelid/328?
+#EXTINF:-1,Bremen Eins
+http://37.49.65.40:9981/stream/channelid/284?
+#EXTINF:-1,Bremen Vier
+http://37.49.65.40:9981/stream/channelid/303?
+#EXTINF:-1,CNN
+http://37.49.65.40:9981/stream/channelid/211?
+#EXTINF:-1,Channel21
+http://37.49.65.40:9981/stream/channelid/212?
+#EXTINF:-1,Classica
+http://37.49.65.40:9981/stream/channelid/331?
+#EXTINF:-1,DASDING
+http://37.49.65.40:9981/stream/channelid/272?
+#EXTINF:-1,DELUXE MUSIC
+http://37.49.65.40:9981/stream/channelid/130?
+#EXTINF:-1,DIE NEUE 107.7
+http://37.49.65.40:9981/stream/channelid/203?
+#EXTINF:-1,DKULTUR
+http://37.49.65.40:9981/stream/channelid/311?
+#EXTINF:-1,DLF
+http://37.49.65.40:9981/stream/channelid/310?
+#EXTINF:-1,DMAX
+http://37.49.65.40:9981/stream/channelid/59?
+#EXTINF:-1,DRadio Wissen
+http://37.49.65.40:9981/stream/channelid/308?
+#EXTINF:-1,Das Erste
+http://37.49.65.40:9981/stream/channelid/261?
+#EXTINF:-1,Das Erste HD
+http://37.49.65.40:9981/stream/channelid/102?
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://37.49.65.40:9981/stream/channelid/342?
+#EXTINF:-1,Disney SD
+http://37.49.65.40:9981/stream/channelid/139?
+#EXTINF:-1,Donau 3 FM
+http://37.49.65.40:9981/stream/channelid/205?
+#EXTINF:-1,ENERGY
+http://37.49.65.40:9981/stream/channelid/206?
+#EXTINF:-1,ERF (Evangeliums-Rundfunk)
+http://37.49.65.40:9981/stream/channelid/218?
+#EXTINF:-1,EUROSPORT 1
+http://37.49.65.40:9981/stream/channelid/143?
+#EXTINF:-1,EinsFestival
+http://37.49.65.40:9981/stream/channelid/306?
+#EXTINF:-1,EinsPlus
+http://37.49.65.40:9981/stream/channelid/101?
+#EXTINF:-1,Einsfestival HD
+http://37.49.65.40:9981/stream/channelid/170?
+#EXTINF:-1,Fritz
+http://37.49.65.40:9981/stream/channelid/289?
+#EXTINF:-1,H2D Handshake 2 Deutschland
+http://37.49.65.40:9981/stream/channelid/341?
+#EXTINF:-1,HD Campus TV
+http://37.49.65.40:9981/stream/channelid/7?
+#EXTINF:-1,HSE24
+http://37.49.65.40:9981/stream/channelid/353?
+#EXTINF:-1,HSE24 EXTRA
+http://37.49.65.40:9981/stream/channelid/347?
+#EXTINF:-1,HSE24 HD
+http://37.49.65.40:9981/stream/channelid/202?
+#EXTINF:-1,HSE24 TREND
+http://37.49.65.40:9981/stream/channelid/349?
+#EXTINF:-1,InfoRadio
+http://37.49.65.40:9981/stream/channelid/274?
+#EXTINF:-1,Infokanal
+http://37.49.65.40:9981/stream/channelid/227?
+#EXTINF:-1,Juwelo
+http://37.49.65.40:9981/stream/channelid/344?
+#EXTINF:-1,KIKA HD
+http://37.49.65.40:9981/stream/channelid/145?
+#EXTINF:-1,KIRAKA
+http://37.49.65.40:9981/stream/channelid/253?
+#EXTINF:-1,KiKa
+http://37.49.65.40:9981/stream/channelid/309?
+#EXTINF:-1,MDR FIGARO
+http://37.49.65.40:9981/stream/channelid/291?
+#EXTINF:-1,MDR INFO
+http://37.49.65.40:9981/stream/channelid/276?
+#EXTINF:-1,MDR JUMP
+http://37.49.65.40:9981/stream/channelid/265?
+#EXTINF:-1,MDR KLASSIK
+http://37.49.65.40:9981/stream/channelid/287?
+#EXTINF:-1,MDR S-Anhalt
+http://37.49.65.40:9981/stream/channelid/302?
+#EXTINF:-1,MDR SPUTNIK
+http://37.49.65.40:9981/stream/channelid/297?
+#EXTINF:-1,MDR Sachsen
+http://37.49.65.40:9981/stream/channelid/80?
+#EXTINF:-1,MDR Thüringen
+http://37.49.65.40:9981/stream/channelid/278?
+#EXTINF:-1,MDR1 S-ANHALT
+http://37.49.65.40:9981/stream/channelid/301?
+#EXTINF:-1,MDR1 SACHSEN
+http://37.49.65.40:9981/stream/channelid/271?
+#EXTINF:-1,MDR1 THÜRINGEN
+http://37.49.65.40:9981/stream/channelid/277?
+#EXTINF:-1,Mehr Programm
+http://37.49.65.40:9981/stream/channelid/345?
+#EXTINF:-1,N-JOY
+http://37.49.65.40:9981/stream/channelid/288?
+#EXTINF:-1,NDR 1 Niedersachsen
+http://37.49.65.40:9981/stream/channelid/286?
+#EXTINF:-1,NDR 1 Radio MV
+http://37.49.65.40:9981/stream/channelid/275?
+#EXTINF:-1,NDR 1 Welle Nord
+http://37.49.65.40:9981/stream/channelid/296?
+#EXTINF:-1,NDR 2
+http://37.49.65.40:9981/stream/channelid/267?
+#EXTINF:-1,NDR 90,3
+http://37.49.65.40:9981/stream/channelid/263?
+#EXTINF:-1,NDR FS HH
+http://37.49.65.40:9981/stream/channelid/294?
+#EXTINF:-1,NDR FS MV
+http://37.49.65.40:9981/stream/channelid/283?
+#EXTINF:-1,NDR FS NDS
+http://37.49.65.40:9981/stream/channelid/264?
+#EXTINF:-1,NDR FS SH
+http://37.49.65.40:9981/stream/channelid/273?
+#EXTINF:-1,NDR Info
+http://37.49.65.40:9981/stream/channelid/295?
+#EXTINF:-1,NDR Info Spezial
+http://37.49.65.40:9981/stream/channelid/280?
+#EXTINF:-1,NDR Kultur
+http://37.49.65.40:9981/stream/channelid/299?
+#EXTINF:-1,Nickelodeon/Nicknight
+http://37.49.65.40:9981/stream/channelid/142?
+#EXTINF:-1,Nordwestradio
+http://37.49.65.40:9981/stream/channelid/270?
+#EXTINF:-1,PHOENIX
+http://37.49.65.40:9981/stream/channelid/305?
+#EXTINF:-1,PULS
+http://37.49.65.40:9981/stream/channelid/255?
+#EXTINF:-1,Phoenix HD
+http://37.49.65.40:9981/stream/channelid/195?
+#EXTINF:-1,ProSieben
+http://37.49.65.40:9981/stream/channelid/15?
+#EXTINF:-1,ProSieben Maxx
+http://37.49.65.40:9981/stream/channelid/10?
+#EXTINF:-1,QVC
+http://37.49.65.40:9981/stream/channelid/346?
+#EXTINF:-1,QVC Beauty
+http://37.49.65.40:9981/stream/channelid/343?
+#EXTINF:-1,QVC HD
+http://37.49.65.40:9981/stream/channelid/201?
+#EXTINF:-1,QVC Plus
+http://37.49.65.40:9981/stream/channelid/350?
+#EXTINF:-1,QVC Plus HD
+http://37.49.65.40:9981/stream/channelid/200?
+#EXTINF:-1,RIK Reutlingen
+http://37.49.65.40:9981/stream/channelid/228?
+#EXTINF:-1,RTF 1
+http://37.49.65.40:9981/stream/channelid/226?
+#EXTINF:-1,RTL NITRO
+http://37.49.65.40:9981/stream/channelid/58?
+#EXTINF:-1,RTL Television
+http://37.49.65.40:9981/stream/channelid/16?
+#EXTINF:-1,RTL2
+http://37.49.65.40:9981/stream/channelid/11?
+#EXTINF:-1,Radio Horeb
+http://37.49.65.40:9981/stream/channelid/213?
+#EXTINF:-1,Radio Sunshine Live
+http://37.49.65.40:9981/stream/channelid/214?
+#EXTINF:-1,RiC
+http://37.49.65.40:9981/stream/channelid/352?
+#EXTINF:-1,SAT.1
+http://37.49.65.40:9981/stream/channelid/12?
+#EXTINF:-1,SIXX
+http://37.49.65.40:9981/stream/channelid/14?
+#EXTINF:-1,SPORT1
+http://37.49.65.40:9981/stream/channelid/140?
+#EXTINF:-1,SR1
+http://37.49.65.40:9981/stream/channelid/232?
+#EXTINF:-1,SR2
+http://37.49.65.40:9981/stream/channelid/254?
+#EXTINF:-1,SR3
+http://37.49.65.40:9981/stream/channelid/239?
+#EXTINF:-1,SWR BW HD
+http://37.49.65.40:9981/stream/channelid/2?
+#EXTINF:-1,SWR Fernsehen BW
+http://37.49.65.40:9981/stream/channelid/259?
+#EXTINF:-1,SWR Fernsehen RP
+http://37.49.65.40:9981/stream/channelid/269?
+#EXTINF:-1,SWR1 BW
+http://37.49.65.40:9981/stream/channelid/268?
+#EXTINF:-1,SWR1 RP
+http://37.49.65.40:9981/stream/channelid/300?
+#EXTINF:-1,SWR2
+http://37.49.65.40:9981/stream/channelid/281?
+#EXTINF:-1,SWR3
+http://37.49.65.40:9981/stream/channelid/290?
+#EXTINF:-1,SWR4 BW
+http://37.49.65.40:9981/stream/channelid/262?
+#EXTINF:-1,SWR4 RP
+http://37.49.65.40:9981/stream/channelid/293?
+#EXTINF:-1,SWRinfo
+http://37.49.65.40:9981/stream/channelid/285?
+#EXTINF:-1,Sat.1 Gold
+http://37.49.65.40:9981/stream/channelid/61?
+#EXTINF:-1,Servus TV
+http://37.49.65.40:9981/stream/channelid/348?
+#EXTINF:-1,ServusTV HD
+http://37.49.65.40:9981/stream/channelid/26?
+#EXTINF:-1,Sky Bundesliga 2
+http://37.49.65.40:9981/stream/channelid/324?
+#EXTINF:-1,Sky Bundesliga 3
+http://37.49.65.40:9981/stream/channelid/321?
+#EXTINF:-1,Sky Bundesliga 4
+http://37.49.65.40:9981/stream/channelid/316?
+#EXTINF:-1,Sky Bundesliga 5
+http://37.49.65.40:9981/stream/channelid/322?
+#EXTINF:-1,Sky Bundesliga 6
+http://37.49.65.40:9981/stream/channelid/318?
+#EXTINF:-1,Sky Bundesliga 7
+http://37.49.65.40:9981/stream/channelid/330?
+#EXTINF:-1,Sky Bundesliga 8
+http://37.49.65.40:9981/stream/channelid/327?
+#EXTINF:-1,Sky Bundesliga HD 2
+http://37.49.65.40:9981/stream/channelid/314?
+#EXTINF:-1,Sky Bundesliga HD 3
+http://37.49.65.40:9981/stream/channelid/222?
+#EXTINF:-1,Sky Bundesliga HD 4
+http://37.49.65.40:9981/stream/channelid/219?
+#EXTINF:-1,Sky Select
+http://37.49.65.40:9981/stream/channelid/326?
+#EXTINF:-1,Sky Sport 3
+http://37.49.65.40:9981/stream/channelid/325?
+#EXTINF:-1,Sky Sport 4
+http://37.49.65.40:9981/stream/channelid/319?
+#EXTINF:-1,Sky Sport 5
+http://37.49.65.40:9981/stream/channelid/320?
+#EXTINF:-1,Sky Sport 6
+http://37.49.65.40:9981/stream/channelid/317?
+#EXTINF:-1,Sky Sport 7
+http://37.49.65.40:9981/stream/channelid/323?
+#EXTINF:-1,Sky Sport 8
+http://37.49.65.40:9981/stream/channelid/329?
+#EXTINF:-1,Sky Sport HD 3
+http://37.49.65.40:9981/stream/channelid/315?
+#EXTINF:-1,Sky Sport HD 4
+http://37.49.65.40:9981/stream/channelid/221?
+#EXTINF:-1,Sky Sport HD 5
+http://37.49.65.40:9981/stream/channelid/220?
+#EXTINF:-1,SparhandyTV
+http://37.49.65.40:9981/stream/channelid/351?
+#EXTINF:-1,Super RTL
+http://37.49.65.40:9981/stream/channelid/18?
+#EXTINF:-1,TLC
+http://37.49.65.40:9981/stream/channelid/150?
+#EXTINF:-1,TRT Türk
+http://37.49.65.40:9981/stream/channelid/198?
+#EXTINF:-1,TV5MONDE Europe
+http://37.49.65.40:9981/stream/channelid/216?E
+#EXTINF:-1,Ukraine Today
+http://37.49.65.40:9981/stream/channelid/199?
+#EXTINF:-1,VIVA/COMEDY CENTRAL
+http://37.49.65.40:9981/stream/channelid/53?
+#EXTINF:-1,VOX
+http://37.49.65.40:9981/stream/channelid/13?
+#EXTINF:-1,Videothek
+http://37.49.65.40:9981/stream/channelid/230?
+#EXTINF:-1,WDR 2
+http://37.49.65.40:9981/stream/channelid/248?
+#EXTINF:-1,WDR 3
+http://37.49.65.40:9981/stream/channelid/234?
+#EXTINF:-1,WDR 4
+http://37.49.65.40:9981/stream/channelid/256?
+#EXTINF:-1,WDR 5
+http://37.49.65.40:9981/stream/channelid/244?
+#EXTINF:-1,WDR Event
+http://37.49.65.40:9981/stream/channelid/238?
+#EXTINF:-1,WDR Funkhaus Europa
+http://37.49.65.40:9981/stream/channelid/250?
+#EXTINF:-1,WDR Köln
+http://37.49.65.40:9981/stream/channelid/237?
+#EXTINF:-1,YOU FM
+http://37.49.65.40:9981/stream/channelid/251?
+#EXTINF:-1,ZDF
+http://37.49.65.40:9981/stream/channelid/307?
+#EXTINF:-1,ZDF HD
+http://37.49.65.40:9981/stream/channelid/106?
+#EXTINF:-1,ZDF_neo HD
+http://37.49.65.40:9981/stream/channelid/28?
+#EXTINF:-1,ZDFinfo
+http://37.49.65.40:9981/stream/channelid/107?
+#EXTINF:-1,arte
+http://37.49.65.40:9981/stream/channelid/304?
+#EXTINF:-1,arte HD
+http://37.49.65.40:9981/stream/channelid/194?
+#EXTINF:-1,bw family
+http://37.49.65.40:9981/stream/channelid/225?
+#EXTINF:-1,die neue welle
+http://37.49.65.40:9981/stream/channelid/209?
+#EXTINF:-1,domradio
+http://37.49.65.40:9981/stream/channelid/208?
+#EXTINF:-1,euronews (Arab.)
+http://37.49.65.40:9981/stream/channelid/335?
+#EXTINF:-1,euronews (D)
+http://37.49.65.40:9981/stream/channelid/332?
+#EXTINF:-1,euronews (E)
+http://37.49.65.40:9981/stream/channelid/340?
+#EXTINF:-1,euronews (ESP)
+http://37.49.65.40:9981/stream/channelid/333?
+#EXTINF:-1,euronews (F)
+http://37.49.65.40:9981/stream/channelid/334?
+#EXTINF:-1,euronews (Farsi)
+http://37.49.65.40:9981/stream/channelid/337?
+#EXTINF:-1,euronews (POR)
+http://37.49.65.40:9981/stream/channelid/339?
+#EXTINF:-1,euronews (RUS)
+http://37.49.65.40:9981/stream/channelid/338?
+#EXTINF:-1,euronews (Turk)
+http://37.49.65.40:9981/stream/channelid/336?
+#EXTINF:-1,hr fernsehen
+http://37.49.65.40:9981/stream/channelid/197?
+#EXTINF:-1,hr info
+http://37.49.65.40:9981/stream/channelid/240?
+#EXTINF:-1,hr1
+http://37.49.65.40:9981/stream/channelid/247?
+#EXTINF:-1,hr2
+http://37.49.65.40:9981/stream/channelid/235?
+#EXTINF:-1,hr3
+http://37.49.65.40:9981/stream/channelid/257?
+#EXTINF:-1,hr4
+http://37.49.65.40:9981/stream/channelid/243?
+#EXTINF:-1,kabel eins
+http://37.49.65.40:9981/stream/channelid/19?
+#EXTINF:-1,kulturradio
+http://37.49.65.40:9981/stream/channelid/282?
+#EXTINF:-1,n-tv
+http://37.49.65.40:9981/stream/channelid/229?
+#EXTINF:-1,radioBERLIN 88,8
+http://37.49.65.40:9981/stream/channelid/298?
+#EXTINF:-1,radioeins
+http://37.49.65.40:9981/stream/channelid/279?
+#EXTINF:-1,rbb Berlin
+http://37.49.65.40:9981/stream/channelid/76?
+#EXTINF:-1,rbb Brandenburg
+http://37.49.65.40:9981/stream/channelid/292?
+#EXTINF:-1,sonnenklar.TV
+http://37.49.65.40:9981/stream/channelid/217?
+#EXTINF:-1,spontv
+http://37.49.65.40:9981/stream/channelid/223?
+#EXTINF:-1,tagesschau24
+http://37.49.65.40:9981/stream/channelid/98?
+#EXTINF:-1,zdf.kultur
+http://37.49.65.40:9981/stream/channelid/108?
+#EXTINF:-1,zdf_neo
+http://37.49.65.40:9981/stream/channelid/313?
