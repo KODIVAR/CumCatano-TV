@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B]</title>
-<link><link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link><</link>
+<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
@@ -47,15 +47,10 @@
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=SPORT TV 1</link>
+<link>plugin://program.plexus/?url=bf31f0641c56bc891da56e233063f0f463c634c3&amp;mode=1&amp;name=Chasse & Peche</link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=SPORT TV 1</link>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B]</title>
@@ -79,17 +74,11 @@
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=6053774a957d5b6066d2f04236d7d67bc9434a8e&amp;mode=1&amp;name=SPORT TV 2</link>
+<link>plugin://program.plexus/?url=8552183706501a3a9b617f2d28c5d8f699bdef3d&amp;mode=1&amp;name=Chasse & Peche</link>
 <thumbnail>https://cld.pt/dl/download/fbcb4f1a-9bac-416c-bb47-2337ef8c5784/sport%20tv2.jpg</thumbnail>
 </item>
 
 
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=6053774a957d5b6066d2f04236d7d67bc9434a8e&amp;mode=1&amp;name=SPORT TV 2</link>
-<thumbnail>https://cld.pt/dl/download/fbcb4f1a-9bac-416c-bb47-2337ef8c5784/sport%20tv2.jpg</thumbnail>
-</item>
  
  
 <item>
@@ -157,13 +146,7 @@
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR red][B] P2P [/B][/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=SPORT TV 3</link>
+<link>plugin://program.plexus/?url=5b718748ce434a97ff85ddeabfd5bb84e08de963&amp;mode=1&amp;name=Chasse & Peche</link>
 <thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
 </item>
 
@@ -183,6 +166,11 @@
 <thumbnail>https://cld.pt/dl/download/b6964d40-20c9-48bf-b2ba-b534740346a0/sport%20tv4.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 4[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=e02d9cd3da0079a46a69d08ff70eb4bd325370cd&amp;mode=1&amp;name=Chasse & Peche</link>
+<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 5[/COLOR][/B]</title>
@@ -198,6 +186,12 @@
 <fanart></fanart>
 <thumbnail>https://cld.pt/dl/download/18ce81da-1d01-49ab-a3a5-1ff809a1ce41/sport%20tv5.png</thumbnail>
 <link>http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 5[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=7ef4b8116fbb920103e2007c1bb9eb8845207643&amp;mode=1&amp;name=Chasse & Peche</link>
+<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
 </item>
 
 <item> 
