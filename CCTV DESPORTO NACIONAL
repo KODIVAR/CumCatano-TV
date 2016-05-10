@@ -3,220 +3,113 @@
 
 
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B]</title>
-<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+<title>[COLOR=white][B][I] SPORT TV 1 [/I][/B][/COLOR]</title>
+<link>rtmp://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf live=1 pageUrl=http://sharecast.eu/embed.php?ch=live1-rbi6c</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
 </item>
-
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<title>[COLOR=white][B][I] SPORT TV 1 [/I][/B][/COLOR]</title>
+<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<title>[COLOR white][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.desportonline.net/index.php?canal=sporttv</sportsdevil>
 <referer>http://escast.tv/</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+<title>[COLOR white][B][I]Sport tv 1 HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=bf31f0641c56bc891da56e233063f0f463c634c3&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.png</thumbnail>              
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://firstrowsports.ge/?watch/408917/1/watch-xonetv.html</sportsdevil>
+<title>[COLOR=white][B][I] SPORT TV 2 [/I][/B][/COLOR]</title>
+<link>rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf live=1 pageUrl=http://sharecast.eu/embed.php?ch=live2-bipmr</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv2.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title
+<sportsdevil>http://firstrowsports.ge/?watch/408917/2/watch-xonetv.html</sportsdevil>
 <referer>http://firstrowsports.ge/</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 1[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=bf31f0641c56bc891da56e233063f0f463c634c3&amp;mode=1&amp;name=Chasse & Peche</link>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+<title>[COLOR white][B][I]Sport tv 2 HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=8552183706501a3a9b617f2d28c5d8f699bdef3d&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.png</thumbnail>              
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B]</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8<item>
-<thumbnail>https://cld.pt/dl/download/fbcb4f1a-9bac-416c-bb47-2337ef8c5784/sport%20tv2.jpg</thumbnail>
+<title>[COLOR=white][B][I]SPORT TV 3 [/I][/B][/COLOR]</title>
+<link>rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf live=1 pageUrl=http://sharecast.eu/embed.php?ch=live3-qszlx</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil>
-<referer>http://ezcast.tv/</referer>
-<thumbnail>https://cld.pt/dl/download/fbcb4f1a-9bac-416c-bb47-2337ef8c5784/sport%20tv2.jpg</thumbnail>
+<title>[COLOR white][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv3_2.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil>
-<referer>http://sporttvsonline.com/</referer>
-<thumbnail>https://cld.pt/dl/download/fbcb4f1a-9bac-416c-bb47-2337ef8c5784/sport%20tv2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 2[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=8552183706501a3a9b617f2d28c5d8f699bdef3d&amp;mode=1&amp;name=Chasse & Peche</link>
-<thumbnail>https://cld.pt/dl/download/fbcb4f1a-9bac-416c-bb47-2337ef8c5784/sport%20tv2.jpg</thumbnail>
-</item>
-
-
- 
- 
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
-<regex>
-<name>get-ip</name>
-<expres>greyirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sp3100/1/599/399</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B]</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv3</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv3</sportsdevil>
-<referer>http://ezcast.tv/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-
-<item> 
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<title>[COLOR white][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<title>[COLOR white][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://firstrowsports.ge/?watch/408917/3/watch-xonetv.html</sportsdevil>
 <referer>http://firstrowsports.ge/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
+<title>[COLOR white][B][I]Sport tv 3 HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=5b718748ce434a97ff85ddeabfd5bb84e08de963&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv3_pt.png</thumbnail>              
+</item>
+<item>
+<title>[COLOR white][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 3[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=5b718748ce434a97ff85ddeabfd5bb84e08de963&amp;mode=1&amp;name=Chasse & Peche</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+<title>[COLOR white][B][I]Sport tv 4 HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=e02d9cd3da0079a46a69d08ff70eb4bd325370cd&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://nowwatchtvlive.co/wp-content/uploads/2012/11/Sport-Tv-4.png</thumbnail>              
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 4[/COLOR][/B]</title>
-<fanart></fanart>
-<thumbnail>https://cld.pt/dl/download/b6964d40-20c9-48bf-b2ba-b534740346a0/sport%20tv4.png</thumbnail>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
+<title>[COLOR white][B][I]SPORT TV 5 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title
+<sportsdevil>http://www.desportonline.net/index.php?canal=sporttv4</sportsdevil>
+<referer>http://www.desportonline.net/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png/medium</thumbnail>
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 4[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://firstrowsports.ge/?watch/408917/4/watch-xonetv.html</sportsdevil>
+<title>[COLOR white][B][I]SPORT TV 5 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/5/watch-xonetv.html</sportsdevil>
 <referer>http://firstrowsports.ge/</referer>
-<thumbnail>https://cld.pt/dl/download/b6964d40-20c9-48bf-b2ba-b534740346a0/sport%20tv4.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png/medium</thumbnail>
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 4[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=e02d9cd3da0079a46a69d08ff70eb4bd325370cd&amp;mode=1&amp;name=Chasse & Peche</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
+<title>[COLOR white][B][I]Sport tv 5 HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=7ef4b8116fbb920103e2007c1bb9eb8845207643&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://torrentstream.tv/uploads/thumbs/7659b7c99-1.jpg</thumbnail>              
 </item>
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 5[/COLOR][/B]</title>
-<fanart></fanart>
-<thumbnail>https://cld.pt/dl/download/18ce81da-1d01-49ab-a3a5-1ff809a1ce41/sport%20tv5.png</thumbnail>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
-</item>
-
-
- 
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 5[/COLOR][/B]</title>
-<fanart></fanart>
-<thumbnail>https://cld.pt/dl/download/18ce81da-1d01-49ab-a3a5-1ff809a1ce41/sport%20tv5.png</thumbnail>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORT TV 5[/COLOR][/B][COLOR red][B] Plexus [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=7ef4b8116fbb920103e2007c1bb9eb8845207643&amp;mode=1&amp;name=Chasse & Peche</link>
-<thumbnail>https://cld.pt/dl/download/0ca07178-aa47-4fec-bf72-ace72300bc96/sport%20tv3.jpg</thumbnail>
-</item>
-
-<item> 
-<title>[COLOR white][B][I]BENFICA TV1 [/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link></link> 
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B]F4M</title>
-<link>plugin://plugin.video.f4mTester/?url=http://stream1.ddns.net:8000/live/MEN7e4GTD40/kljgYwEXGAh/3163.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B]F4M</title>
-<link>plugin://plugin.video.f4mTester/?url=http://46.21.17.2:23000/live/vitorio/vitorio/12085.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyecye?id=22291$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyecye/1/555/435 live=true</link>
+<title>[COLOR=white][B][I]BENFICA TV  [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=slbuecye?id=22641$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbuecye/1/555/435 live=true</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -225,97 +118,54 @@
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/slbueyecye/1/555/435</page>
+<page>http://www.streamifyplayer.com/embedplayer/slbuecye/1/555/435</page>
 <referer>http://www.streamifyplayer.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
 </item>
-
 <item>  
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
+<title>[COLOR white][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
-<thumbnail>https://cld.pt/dl/download/1a791a48-4498-410c-9fba-57c38711d497/benfica-tv.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
 </item>
-
-<item>  
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://benficaholic0.blogspot.pt/p/benfica-tv-online-directo.html</sportsdevil>
-<referer>http://benficaholic0.blogspot.pt</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<item>
+<title>[COLOR white][B][I]Benfica TV 1HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=f641b69c412e13179f5891981afefd7d119e4a93&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/08/benfica-tv.jpg</thumbnail>              
 </item>
-
-<item>  
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://www.desportoonline.net/index.php?canal=benficatv</sportsdevil>
-<referer>http://www.desportoonline.net</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<item>
+<title>[COLOR=white][B][I]BENFICA TV 2  [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playPath=youbanigotoanother?id=86960&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/youbanigotoanother/1/730/430</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/youbanigotoanother/1/730/430</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium</thumbnail>
+</regex>
 </item>
-
-<item> 
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
-<referer>http://tvalgas.com/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-<item> 
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 1 [/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
+<item>
+<title>[COLOR white][B][I]BENFICA TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/benficatv_2.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium</thumbnail>
 </item>
-
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 2[/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/730/430</link>
-<regex>
-<name>get-ip</name>
-<expres>greyirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/benfas/1/730/430</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://cld.pt/dl/download/6936a7e9-453e-46ca-8a01-df2cba659331/BTV2.jpg</thumbnail>
-</regex>
+<title>[COLOR white][B][I]Benfica TV 2HD[/I][/B][/COLOR] [COLOR red]Plexus[/COLOR]</title>
+<link>plugin://program.plexus/?url=17e5a3cc4d76fb808d6e25705a0c8d76a24b5065&amp;mode=1&amp;name=Chasse & Peche </link>
+<thumbnail>http://webradio.radiobarreirinha.com/media/uploads/images/benfica_tv_2.png</thumbnail>              
 </item>
-
-
 <item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 2[/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>greyirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/benfas/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
-</regex>
-</item>
-
-<item>  
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] BENFICA TV 2[/COLOR][/B][COLOR lawngreen][B] SportsDevil [/B][/COLOR]</title>
-<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/150-benfica-tv-2-live</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORTING TV [/COLOR][/B]</title>
+<title>[COLOR=white][B][I]SPORTING TV  [/I][/B][/COLOR]</title> 
 <link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430 live=true</link>
 <regex>
 <name>get-ip</name>
-<expres>greyirect=(.*)</expres>
+<expres>redirect=(.*)</expres>
 <page>http://www.streamifypublisher.com:1935/loadbalancer</page>
 </regex>
 <regex>
@@ -323,22 +173,9 @@
 <expres>ea=(.*)'</expres>
 <page>http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</page>
 <referer>http://www.streamifyplayer.com</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportingtv.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium</thumbnail> 
 </item>
- 
-<item>
-<title>[COLOR grey][B]•[/B][/COLOR][COLOR white][B] SPORTING TV [/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=eurosport0x?id=24421$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/eurosport0x/1/650/500 live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/eurosport0x/1/650/500</page>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png</thumbnail>
-</regex>
-</item>
+
+
+
+
