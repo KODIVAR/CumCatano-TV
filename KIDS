@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<channel>
 <title>[COLOR yellow][B]CANAIS KIDS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CANAIS%20KIDS</externallink>
-<thumbnail>http://4.bp.blogspot.com/_NptHNW6lW4Q/TUcAn74sccI/AAAAAAAAAIU/D_Jkvb_uZkY/s1600/163709772_b97119c3ed.jpg</thumbnail>
+<thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR yellow][B]CANAIS KIDS 2[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Teamblue-IPTV/master/Infantis.m3u</externallink>
+<thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
