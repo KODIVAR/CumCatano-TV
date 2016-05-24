@@ -12,8 +12,8 @@
             <name>RUCA</name>
             <thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
             <fanart>http://imgs.sapo.pt/kids/kidspt2009/content/noticia-dia-do-animal280.jpg</fanart>
-
-				<item>
+            <subitems>
+                <subitem>
 				<title>[COLOR grey][B]RUCA[/B][/COLOR]</title>
 				<utube>5kXGTsSSRYA</utube>
 				<utube>LLhohT5Gzf4</utube>
@@ -56,8 +56,10 @@
 				<utube></utube>
 				<thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
                 <fanart>http://imgs.sapo.pt/kids/kidspt2009/content/noticia-dia-do-animal280.jpg</fanart>
-				</item>
-
+                </subitem>
+            </subitems>				
+				
+		</subchannel>	
 
 
 
