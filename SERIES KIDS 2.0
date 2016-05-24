@@ -14,7 +14,7 @@
             <subitems>
                 <subitem>
                    <title>RUCA</title>
-                   <utube>playlist/PLsWbExGo1KPaYUuRSfzyF1X11Czip4259/</utube>
+                   <link>plugin://plugin.video.youtube/play/?playlist/PLsWbExGo1KPaYUuRSfzyF1X11Czip4259/</link>
                    <thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
                 </subitem>
                      </subitem>
