@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channel>
+    <name>Series Kids 2.0</name>
+    <fanart>http://www.twistermc.com/blog-u/wp-content/uploads/2012/02/childhood-cartoons.png</fanart>
+    <thumbnail>https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png</thumbnail>
+       
+       
+        <subchannel>
+            <name>RUCA</name>
+            <thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
+            <fanart>http://imgs.sapo.pt/kids/kidspt2009/content/noticia-dia-do-animal280.jpg</fanart>
+            <subitems>
+                <subitem>
+                   <title>RUCA</title>
+                   <utube>playlist/PLsWbExGo1KPaYUuRSfzyF1X11Czip4259/</utube>
+                   <thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
+                </subitem>
+                     </subitem>
+            </subitems>
+        </subchannel>
