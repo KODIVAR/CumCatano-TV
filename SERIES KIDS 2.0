@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channels>
@@ -11,12 +12,60 @@
             <name>RUCA</name>
             <thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
             <fanart>http://imgs.sapo.pt/kids/kidspt2009/content/noticia-dia-do-animal280.jpg</fanart>
-            <subitems>
-                <subitem>
-                   <title>RUCA</title>
-                   <link>plugin://plugin.video.youtube/play/?playlist/PLsWbExGo1KPaYUuRSfzyF1X11Czip4259/</link>
-                   <thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
-                </subitem>
-                     </subitem>
-            </subitems>
-        </subchannel>
+
+				<item>
+				<title>[COLOR grey][B]RUCA[/B][/COLOR]</title>
+				<utube>5kXGTsSSRYA</utube>
+				<utube>LLhohT5Gzf4</utube>
+				<utube>ggaHphIvpZ0</utube>
+				<utube>RaTZ_bzgv8A</utube>
+				<utube>5GjYZLEHjQE</utube>
+				<utube>eXIVQUhhvqg</utube>
+				<utube>QSULXkrfsso</utube>
+				<utube>eZwrv2f61SI</utube>
+				<utube>FS1e8pDncG0</utube>
+				<utube>L0q8EPB7Ax8</utube>
+				<utube>XUXoQRUUp6k</utube>
+				<utube>zJb7XYGGr94</utube>
+				<utube>ZhEkHNZDuEA</utube>
+				<utube>jI_yWfCwUlY</utube>
+				<utube>RQEIXyU-y-M</utube>
+				<utube>a95xxCtofkA</utube>
+				<utube>4tUo7V2YLyc</utube>
+				<utube>l43gug7cUxw</utube>
+				<utube>G40Ws004icg</utube>
+				<utube>El60Fx_6aR0</utube>
+				<utube>1RnkNY-9FL4</utube>
+				<utube>qg2-g-yB8eE</utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<utube></utube>
+				<thumbnail>http://www.armazensdomarques.com/gestao/wp-content/uploads/Ruca-logo.jpg</thumbnail>
+                <fanart>http://imgs.sapo.pt/kids/kidspt2009/content/noticia-dia-do-animal280.jpg</fanart>
+				</item>
+
+
+
+
+		
+		
+		
+		</subchannel>	
+
+    </channel>
+ 
+</channels>		
