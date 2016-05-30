@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
-<title>[COLOR white][B][I]PM SPORTS [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]TB 65 SPORTS[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/zYBCdFJ7</externallink>
-<thumbnail>http://tinyurl.com/hu8cqwx</thumbnail>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/DESPORTO%20NACIONAL%20Listas</externallink>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/DESPORTO.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
@@ -20,6 +21,13 @@
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/Ckyw3faA</externallink>
 <thumbnail>http://tinyurl.com/jcjjfre</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR white][B][I]PM SPORTS [/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/zYBCdFJ7</externallink>
+<thumbnail>http://tinyurl.com/hu8cqwx</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
