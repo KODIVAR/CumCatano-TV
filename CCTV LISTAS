@@ -15,10 +15,17 @@
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
-<item> 
-<title>[COLOR lawngreen][B]TV DE TODOS[/B][/COLOR]</title>
+<item>  
+<title>[COLOR lawngreen][B]PANCAS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/RmWRbV2u</externallink>
+<externallink>https://www.dropbox.com/s/i348qn8ersote52/lista.xml?dl=1</externallink>
+<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item> 
+<title>[COLOR lawngreen][B]TEAMBLUE65[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
@@ -26,13 +33,6 @@
 <title>[COLOR lawngreen][B]IPTV BALDA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/pt</externallink>
-<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
-<item> 
-<title>[COLOR lawngreen][B]NELSON KEVIN[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/russian</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
@@ -47,13 +47,6 @@
 <title>[COLOR lawngreen][B]KITINA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/vHQ5EBLq</externallink>
-<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
-<item>  
-<title>[COLOR lawngreen][B]PANCAS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/i348qn8ersote52/lista.xml?dl=1</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
@@ -127,11 +120,5 @@
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
-<item>  
-<title>[COLOR lawngreen][B]CATOAL[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/Ea6eCmLu</externallink>
-<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
+
 
