@@ -1,233 +1,341 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-
-<item>
+<channels>
+<channel>
+<name>[COLOR white] TDT [/COLOR] </name>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/tdt.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</subitem>
+</item>
+<item>   
 <title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
-
-<item>  
-<title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR]</title>
+<item>
+<title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
 <referer>http://www.rtp.pt/</referer>
-<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR]</title>
+<title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
 <referer>http://www.rtp.pt/</referer>
-<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR=white][B][I] SIC [/I][/B][/COLOR]</title>
-<link>http://213.13.26.11:1935/live/sic/pancas.m3u8</link>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<link>http://213.13.26.11:1935/live/sic/.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] SIC [/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<title>[COLOR=white][B][I] SIC [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mytvfree2.me/sic-pt-online</sportsdevil>
+<referer>http://liveflash.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] SIC [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=sic90?id=85765$doregex[pk] swfVfy=1 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 live=true timeout=10</link>
+<title>[COLOR=white][B][I] TVI [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tvi0x?id=24420$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/tvi0x/1/650/500</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<expres>whiteirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
 </regex>
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sic90/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
+<page>http://www.embedezcast.com/embedplayer/tvi0x/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 </item>
-
+<item>
+<title>[COLOR=white][B][I] TVI [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+</item>
 <item> 
-<title>[COLOR=white][B][I] SIC [/I][/B][/COLOR]</title>
-<link>http://c.securestreaming.xyz:1935/live/sichjdebiUW6/chunklist_w89969947.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODA1MiZoYXNoX3ZhbHVlPWI0Y2VjNzdkOWFmNzc5MTlmNjkwOGU0MTE2N2NlZmIzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D   conn=S:OK</link>   
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</subchannel>
+</channel>
+<channel>		
+<name> [COLOR white] GRUPO RTP [/COLOR]  </name>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/rtp.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</subitem>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] TVI [/I][/B][/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+<title>[COLOR=white][B][I] RTP AÇORES [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] TVI [/I][/B][/COLOR]</title>
-<link>http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8</link>
-<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+<title>[COLOR=white][B][I] RTP ACORES [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+<title>[COLOR=white][B][I] RTP ÁFRICA [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+title: 'http://futebolpthd.blogspot.pt/',
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
-<link>rtmp://213.13.26.13/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 live=1 pageUrl=http://www.tugastream.com/sicnoticias.php?altura=500&largura=650</link>
-<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+<title>[COLOR=white][B][I] RTP AFRICA [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
 </item>
-
+<item>
+<title>[COLOR=white][B][I] RTP MADEIRA [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] RTP MADEIRA [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] RTP MEMÓRIA [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] RTP INTERNACIONAL [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
+<referer></referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
+</item>
+<item> 
+</subchannel>
+</channel>
+<channel>		
+<name> [COLOR white] NOTICIAS [/COLOR]  </name>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/noticias.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</subitem>
+</item>
 <item>
 <title>[COLOR=white][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
 <link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
-<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR=white][B][I] RTP 3 [/I][/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] RTP 3 [/I][/B][/COLOR]</title>
+<title>[COLOR=white][B][I] RTP 3 [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
 <referer>http://www.rtp.pt/play/</referer>
-<thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
 </item> 
-
 <item>
 <title>[COLOR=white][B][I] TVI 24 [/I][/B][/COLOR]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] TVI 24[/I][/B][/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
-<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+<title>[COLOR white][B][I]  PORTO CANAL [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/599/399</link>
+</link>
+<regex>
+<name>get-ip</name>
+<expres>whiteirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/portocanalv/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] CM TV [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]  PORTO CANAL [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/portocanal</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  CMTV [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
 </regex>
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/599/399</page>
 <referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
 </regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] ECONOMICO TV [/I][/B][/COLOR]</title>
-<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
+<title>[COLOR white][B][I]  CMTV [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
+<referer>http://www.liveflashplayer.net/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+<title>[COLOR=white][B][I] CANAL PARLAMENTO [/I][/B][/COLOR]</title>
+<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/artv.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] PORTO CANAL [/I][/B][/COLOR]</title>
-<<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=83399&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
+<title>[COLOR=white][B][I] EURONEWS [/I][/B][/COLOR]</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  ABOLATV [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/abolatv</sportsdevil>
+<referer>http://www.sporttvsonline.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  ABOLATV [/I][/B][/COLOR]</title></title>
+<link>rtmp://$doregex[get-ip]/stream playpath=tomala?id=25154$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<expres>whiteirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/tomala/1/599/399</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>
 </regex>
 </item>
-
 <item> 
-<title>[COLOR=white][B][I] A BOLA TV[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-</regex>
+</subchannel>
+</channel>
+<channel>		
+<name> [COLOR white] DOCUMENTARIOS [/COLOR]  </name>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/docu.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</subitem>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] A BOLA TV[/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=abolatvg?id=85984$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500 live=true timeout=10</link>
+<title>[COLOR white][B][I]  DISCOVERY CHANNEL[/I][/B][/COLOR]</title></title>
+<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</page>
-<referer>http://www.embeducaster.com</referer>
-<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-</regex>
-</item> 
-
-<item>
-<title>[COLOR=white][B][I] SIC RADICAL [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
+<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
 </regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] SIC RADICAL [/I][/B][/COLOR]</title>
-<sportsdevil>http://tvalgas.com/index.php/tv-portuguesa/canais-sic/sic-radical/sic-radical-link-1</sportsdevil>
-<referer>http://tvalgas.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+<title>[COLOR=white][B][I] HISTORIA [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>whiteirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+</regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] SIC MULHER  [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]  HISTORIA [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/historia</sportsdevil>
+<referer>http://liveflashplayer.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=white][B][I] NAT GEO [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>whiteirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=white][B][I] NAT GEO [/I][/B][/COLOR] [COLOR=green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] ODISSEIA [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>whiteirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  ODISSEIA [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</item>
+<item> 
+</subchannel>
+</channel>
+<channel>		
+<name> [COLOR white] ENTRETENIMENTO [/COLOR]  </name>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/entre.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</subitem>
+</item>
+<item>
+<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR]</title></title>
 <link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
@@ -238,131 +346,100 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] TVI FICCAO [/I][/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.embedezcast.com/membedplayer/tvicrl/1/650/500</page>
-<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115</agent>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
-</regex>
+<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
+<title>[COLOR white][B][I]  TVI FICCAO [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  TVI REALITY[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
 <regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+<name>get-ip</name>
+<expres>whiteirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.mipsplayer.com/membedplayer/gvgvmerdquinta/1/545/380</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.mips.tv</referer>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440</page>
+<referer>http://www.streamifyplayer.com</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]</title>
-<sportsdevil>http://antena.mytvfree2.me/rurality2.php</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg</thumbnail>
+<item>
+<title>[COLOR white][B][I]  TVI REALITY[/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://mytvfree2.me/ver/tvi-reality-24h</sportsdevil>
+<referer>http://mips.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
 </item>
- 
 <item>
-<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]</title>
-<sportsdevil>http://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
-<referer>http://www.tv-motards.com/</referer>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg</thumbnail>
+<title>[COLOR white][B][I]  TVI REALITY[/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mytvfree2.me/ver/tvi-reality-24h</sportsdevil>
+<referer>http://mipsplayer.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
 </item>
-
-
 <item>
-<title>[COLOR=white][B][I] A BOLA TV [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<title>[COLOR white][B][I]  TVI REALITY [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://tvxat.info/quinta.php</sportsdevil>
+<referer>http://mips.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  TVI REALITY [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://tvxat.info/quinta.php</sportsdevil>
+<referer>http://mipsplayer.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
+<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
+</item> 
+<item> 
+</subchannel>
+</channel>
+<channel>		
+<name> [COLOR=white] FILMES/SERIES [/COLOR]  </name>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/filmeseseries.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</subitem>
+</item>
+<item>
+<title>[COLOR white][B][I]  AXN [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] A BOLA TV [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=abolatvg?id=85984$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500 live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</page>
-<referer>http://www.embeducaster.com</referer>
-<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] AXN [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
+<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/450</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
 </regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] AXN [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10  conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226  pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450</link>                        
-<regex>                        
-<name>get-ip</name>                        
-<expres>redirect=(.*)</expres>                        
-<page>http://www.pubucaster.com:1935/loadbalancer</page>                        
-</regex>                        
-<regex>                       
-<name>get-pk</name>                        
-<expres>pk=(.*?)'</expres>                       
-<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/450</page>                        
-<referer>http://www.embeducaster.com/</referer>     
-<thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
-</regex>
+<title>[COLOR white][B][I]  AXN [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/axn</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] AXN WHITE [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]  AXN WHITE [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
@@ -370,23 +447,21 @@
 <expres>pk=(.*?)'</expres>
 <page>http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
 </regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] FOX [/I][/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.net/index.php?canal=fox</sportsdevil>
-<referer>http://www.desportonline.net/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
+<title>[COLOR white][B][I]  AXN WHITE [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] FOX [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]  FOX [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://cdn.pubezcast.com:1935/loadbalancer</page>
 </regex>
 <regex>
@@ -394,40 +469,20 @@
 <expres>ea=(.*)'</expres>
 <page>http://www.embedezcast.com/embedplayer/foxcrl/1/650/500</page>
 <referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
-</regex>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] FOX [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]  FOX [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
-<referer>http://escast.tv/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium</thumbnail>
+<referer>http://www.embedezcast.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] FOX MOVIES [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=sical?id=24913$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/sical/1/599/399</page>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://s20.postimg.org/5rqpttyyl/foxmovies.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] FOX CRIME [/I][/B][/COLOR]</title>
+<title>[COLOR white][B][I]  FOX CRIME[/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=foxcrimex?id=84766&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
@@ -435,33 +490,43 @@
 <expres>pk=(.*?)'</expres>
 <page>http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/bpqqyudrx/foxcrime.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
 </regex>
 </item>
-
 <item>
-<title>[COLOR=white][B][I] FOX LIFE [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<title>[COLOR white][B][I]  FOX CRIME[/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  FOX MOVIES[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sical?id=24913$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+<expres>whiteirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
 </regex>
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
+<page>http://www.embedezcast.com/embedplayer/sical/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
 </regex>
 </item>
-
-<item> 
-<title>[COLOR=white][B][I] HOLLYWOOD [/I][/B][/COLOR]</title>
+<item>
+<title>[COLOR white][B][I]  FOX MOVIES[/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][I]  HOLLYWOOD [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
 <regex>
 <name>get-ip</name>
-<expres>redirect=(.*)</expres>
+<expres>whiteirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
 <regex>
@@ -469,152 +534,12 @@
 <expres>pk=(.*?)'</expres>
 <page>http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
 </regex>
 </item>
-
-<item> 
-<title>[COLOR=white][B][I] MTV [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=mtvax?id=84773&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/mtvax/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/mtvax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
-</regex>
-</item>
-
-<item> 
-<title>[COLOR=white][B][I] NAT GEO [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg</thumbnail>
-</regex>
-</item>
-
 <item>
-<title>[COLOR=white][B][I] DISCOVERY [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] ODISSEIA [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
-</item>
-
-<item> 
-<title>[COLOR=white][B][I] HISTORIA [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] CANAL PARLAMENTO [/I][/B][/COLOR]</title>
-<link>rtsp://www.canal.parlamento.pt/Live</link>
-<thumbnail>http://s20.postimg.org/ctxu7ihbx/canalparl_grande.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP ACORES [/I][/B][/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP ACORES [/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP AFRICA [/I][/B][/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP AFRICA [/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP MADEIRA [/I][/B][/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP MADEIRA [/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP MEMORIA [/I][/B][/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP MEMORIA [/I][/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
-</item>
-
-<item>  
-<title>[COLOR=blue][B] MyIPTV PT [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/pt.m3u</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nlgD7IngSE2DSO-k_4SNP4zle-WvNTiK8FIsVo3cn7qFWbP2</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+<title>[COLOR white][B][I]  HOLLYWOOD [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title></title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/hollywood</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
 </item>
