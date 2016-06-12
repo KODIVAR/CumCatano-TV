@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR blue]Movies Exodus[/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
-<thumbnail>http://kodistop.com/wp-content/uploads/2016/02/exodus-364x245.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
+
 <item>  
 <title>[COLOR grey][B]FILMES LEGENDADOS[/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -19,6 +13,13 @@
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/FPM226ur</externallink>
 <thumbnail>http://www.cinemaportugues.info/wp-content/uploads/2008/11/acerca1.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR grey][B]3D[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/Dw3zcDD3</externallink>
+<thumbnail>http://tinyurl.com/z2k8bmz</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
