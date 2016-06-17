@@ -2,9 +2,16 @@
 
 
 <item>
-<title>[COLOR yellow][B]CANAIS KIDS[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CANAIS KIDS[/B][/COLOR]TB65</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/Teamblue65/Teamblue-IPTV/master/PORTUGAL_INFANTIS.xml</externallink>
+<thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR yellow][B]CANAIS KIDS[/B][/COLOR]PSYCHO</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/FEXK4Fex</externallink>
 <thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
