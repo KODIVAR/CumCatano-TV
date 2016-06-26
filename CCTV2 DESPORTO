@@ -4,15 +4,15 @@
 <item>
 <title>[COLOR white][B][I]DESPORTO SD[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV%20DESPORTO%20SD</externallink>
+<externallink>https://raw.githubusercontent.com/KODIVAR/DESPORTO/master/DESPORTO%20SD</externallink>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/fc38e3892ad0402fc5c60e4211f7e5b6fbbfd456/v1/DESPORTO.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
 <title>[COLOR green][B][I]DESPORTO PREMIUM[/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/DESPORTO%20PREMIUM</externallink>
-<thumbnail>http://www.smconnection.com/wp-content/uploads/premium1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KODIVAR/DESPORTO/master/DESPORTO%20PREMIUM</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/c/ce/Premium_Sport_logo_2015.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
@@ -25,14 +25,14 @@
 <item>
 <title>[COLOR red][B][I]SPORTS [/I][/B][/COLOR] [COLOR white][B][I] AGENDA [/I][/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/PT%20SPORTS</externallink>
+<externallink>https://raw.githubusercontent.com/KODIVAR/DESPORTO/master/PT%20SPORTS</externallink>
 <thumbnail>http://www.xainese.com/img/va/logo3_v1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
 <title>[COLOR blue][B][I]MOTORSPORTS[/I][/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/MOTORSPORTS</externallink>
+<externallink>https://raw.githubusercontent.com/KODIVAR/DESPORTO/master/MOTORSPORTS</externallink>
 <thumbnail>http://yoursportsfeeder.com/wp-content/uploads/MOTORSPORTS.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
