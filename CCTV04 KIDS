@@ -2,14 +2,14 @@
 
 
 <item>
-<title>[COLOR yellow][B]CANAIS KIDS[/B][/COLOR]TB65</title>
+<title>[COLOR yellow][B]CANAIS KIDS [/B][/COLOR]  TB65</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/Teamblue65/Teamblue-IPTV/master/PORTUGAL_INFANTIS.xml</externallink>
 <thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>
-<title>[COLOR yellow][B]CANAIS KIDS[/B][/COLOR]PSYCHO</title>
+<title>[COLOR yellow][B]CANAIS KIDS [/B][/COLOR]  PSYCHO</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/FEXK4Fex</externallink>
 <thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
@@ -19,7 +19,7 @@
 <title>[COLOR orange][B]SERIES KIDS[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/SERIES%20KIDS</externallink>
-<thumbnail>https://i.ytimg.com/vi/7vCQG23m-To/maxresdefault.jpg</thumbnail>
+<thumbnail>http://frentefantasma.org/oficial/wp-content/uploads/2015/05/Serie-animadas.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
@@ -42,4 +42,11 @@
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/FILMES%20KIDS%203</externallink>
 <thumbnail>http://www.mightymcpilgrim.com/wp-content/uploads/clapper.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR green][B]DISNEY CLASSICOS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/DISNEY%20CLASSICOS</externallink>
+<fanart>https://tricae-a.akamaihd.net/p/DCL-Maleta-Disney-Grandes-ClC3A1ssicos-DCL-7847-08662-1.jpg</fanart>
+<thumbnail>http://vignette2.wikia.nocookie.net/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png/revision/latest?cb=20110729111811</thumbnail>
 </item>
