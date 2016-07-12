@@ -65,16 +65,16 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
-<title>[COLOR lawngreen][B]LOGAN[/B][/COLOR]</title>
+<title>[COLOR lawngreen][B]MACLINE[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://loganaddon.netau.net/logan%20Menu%20Principal.xml</externallink>
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/pt</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 <item>  
-<title>[COLOR lawngreen][B]IPTV BALDA[/B][/COLOR]</title>
+<title>[COLOR lawngreen][B]LOGAN[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/pt</externallink>
+<externallink>http://loganaddon.netau.net/logan%20Menu%20Principal.xml</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
@@ -110,20 +110,6 @@
 <title>[COLOR lawngreen][B]TV SUPERTUGA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/CxxzWkp4</externallink>
-<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
-<item>  
-<title>[COLOR lawngreen][B]IPTV DOS POBRES[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/XNasgq9T</externallink>
-<thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
-<item>  
-<title>[COLOR lawngreen][B]ROSADIN TV[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/BeiraRecords/IPTV-DOS-POBRES-/master/README.md</externallink>
 <thumbnail>http://iptv-work.at.ua/3/iptv_lvyvy.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
