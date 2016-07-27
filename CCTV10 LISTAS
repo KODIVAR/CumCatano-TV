@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lawngreen][B]MARTUNIS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/K2X65rB3</externallink>
-<thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
+
 <item>  
 <title>[COLOR lawngreen][B]MAGELLEN[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
+<thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>
+<title>[COLOR lawngreen][B]MARTUNIS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/K2X65rB3</externallink>
 <thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
@@ -85,13 +86,6 @@
 <thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
-<item>  
-<title>[COLOR lawngreen][B]TV ALGAS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/4GdrPHEX</externallink>
-<thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
 <item> 
 <title>[COLOR lawngreen][B]KITINA[/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -117,6 +111,20 @@
 <title>[COLOR lawngreen][B]KODIPT - PT[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://lista.kodiportugal.com</externallink>
+<thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR lawngreen][B]TV ALGAS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/6UwwrXRN</externallink>
+<thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
+<item>  
+<title>[COLOR lawngreen][B]TV ALGAS 2[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/4GdrPHEX</externallink>
 <thumbnail>http://3.bp.blogspot.com/-i-oeXcM437E/VoK41EwhOGI/AAAAAAAADKc/K_qRDJCLuhQ/s1600/portugal-tv.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
