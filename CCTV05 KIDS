@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR yellow][B]CANAIS KIDS [/B][/COLOR]  TB65</title>
-<link>http://ignorame</link>
-<externallink></externallink>
-<thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
+
 <item>
 <title>[COLOR yellow][B]CANAIS KIDS [/B][/COLOR]  INSPIRATION</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/JN1974/enfim/master/INFANTIL</externallink>
-<thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
-<item>
-<title>[COLOR yellow][B]CANAIS KIDS [/B][/COLOR]  PSYCHO</title>
-<link>http://ignorame</link>
-<externallink></externallink>
 <thumbnail>http://www.canalkids.com.br/mail/logo_ck.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
